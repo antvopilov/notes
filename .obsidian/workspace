@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "macos-terminal-setup.md",
+            "file": "mac-os.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macos-terminal-setup.md",
+                "file": "mac-os.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "macos-terminal-setup.md",
+                "file": "mac-os.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "macos-terminal-setup.md"
+                "file": "mac-os.md"
               }
             }
           },
@@ -137,6 +137,7 @@
   },
   "active": "51bb4193d7634990",
   "lastOpenFiles": [
+    "mac-os.md",
     "macos-terminal-setup.md",
     "README.md"
   ]
