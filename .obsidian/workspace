@@ -4,12 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "51bb4193d7634990",
+        "id": "7bb1776fb0c6d9b0",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "1811b863d5371214",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mac-os.md",
+            "file": "ptheoretical-physics-videos.md",
             "mode": "source"
           }
         }
@@ -76,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mac-os.md",
+                "file": "ptheoretical-physics-videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mac-os.md",
+                "file": "ptheoretical-physics-videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mac-os.md"
+                "file": "ptheoretical-physics-videos.md"
               }
             }
           },
@@ -135,8 +143,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51bb4193d7634990",
+  "active": "1811b863d5371214",
   "lastOpenFiles": [
+    "ptheoretical-physics-videos.md",
+    "Untitled.md",
     "mac-os.md",
     "macos-terminal-setup.md",
     "README.md",
