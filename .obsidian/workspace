@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mac-os.md",
+            "file": "pipx.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mac-os.md",
+                "file": "pipx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mac-os.md",
+                "file": "pipx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mac-os.md"
+                "file": "pipx.md"
               }
             }
           },
@@ -137,6 +137,7 @@
   },
   "active": "51bb4193d7634990",
   "lastOpenFiles": [
+    "pipx.md",
     "mac-os.md",
     "macos-terminal-setup.md",
     "README.md"
