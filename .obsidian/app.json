@@ -1,0 +1,12 @@
+{
+  "spellcheck": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./attachments",
+  "communityThemeSortOrder": "download",
+  "communityPluginSortOrder": "download"
+}
