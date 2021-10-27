@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "iterm2.md",
+            "file": "macos-python-setup.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 110.5
+    "width": 132.51218795776367
   },
   "right": {
     "id": "85eb7df0db560104",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iterm2.md",
+                "file": "macos-python-setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iterm2.md",
+                "file": "macos-python-setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iterm2.md"
+                "file": "macos-python-setup.md"
               }
             }
           },
@@ -137,6 +137,8 @@
   },
   "active": "7bb1776fb0c6d9b0",
   "lastOpenFiles": [
+    "macos-python-setup.md",
+    "programming-books.md",
     "iterm2.md",
     "mac-os.md",
     "mas.md",
@@ -144,7 +146,6 @@
     "ptheoretical-physics-videos.md",
     "Untitled.md",
     "macos-terminal-setup.md",
-    "README.md",
-    "pipx.md"
+    "README.md"
   ]
 }
