@@ -25,4 +25,6 @@ To avoid them accidentally linking against a Pyenv-provided Python, add the foll
 
 
 ## Resources 
+https://github.com/pyenv/pyenv/wiki#suggested-build-environment
+
 https://github.com/pyenv/pyenv-virtualenv
