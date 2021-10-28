@@ -8,3 +8,7 @@ aliases: MacOS Python
 
 # [[macos-python|MacOS Python]]
 
+[[macos-python-brew]]
+
+[[macos-python-pyenv]]
+

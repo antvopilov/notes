@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "macos-homebrew.md",
+            "file": "macos-python-pyenv.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "macos-homebrew.md",
+            "file": "macos-python-pyenv.md",
             "mode": "preview"
           }
         },
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5121879577637
+    "width": 293.5121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "85eb7df0db560104",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macos-homebrew.md",
+                "file": "macos-python-pyenv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "macos-homebrew.md",
+                "file": "macos-python-pyenv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "macos-homebrew.md"
+                "file": "macos-python-pyenv.md"
               }
             }
           },
@@ -148,15 +149,15 @@
     "width": 125.48859405517578,
     "collapsed": true
   },
-  "active": "52be56b0b9d62fed",
+  "active": "e2b0f385313bdc7b",
   "lastOpenFiles": [
+    "macos-python-pyenv.md",
+    "macos-python.md",
     "macos-homebrew.md",
     "macos-xcode.md",
-    "macos-python-pyenv.md",
     "macos-xcode-command-line-tools.md",
     "macos-terminal.md",
     "macos-setup.md",
-    "macos-python.md",
     "macos.md",
     "macos-command-line-tools.md",
     "iterm2.md"
