@@ -1,14 +1,9 @@
----
-aliases: MacOS Setup Python with PyEnv
----
+
+[[macOS]]-[[macos-setup-python]]
 
 ---
 
-[[macos-setup-python]]
-
----
-
-# [[macos-setup-python-pyenv|MacOS Setup Python with PyEnv]]
+# [[macos-setup-python-pyenv]]
 
 
 1. Xcode Command Line Tools: `xcode-select --install`

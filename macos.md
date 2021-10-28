@@ -1,7 +1,4 @@
----
-aliases: Mac OS, OSX
----
+# macOS
 
-# [[macOS]]
 
-[[macos-setup|MacOS setup for Development and Scientific Research]]
+[[macOS-setup]]
