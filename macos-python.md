@@ -12,3 +12,6 @@ aliases: MacOS Python
 
 [[macos-python-pyenv]]
 
+## Resources 
+
+https://docs.python-guide.org/starting/install3/osx/
