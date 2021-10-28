@@ -1,5 +1,5 @@
 
-[[macOS]]-[[macos-setup-python]]
+[[macos]]-[[macos-setup-python]]
 
 ---
 
@@ -36,3 +36,5 @@ To avoid them accidentally linking against a Pyenv-provided Python, add the foll
 https://github.com/pyenv/pyenv/wiki#suggested-build-environment
 
 https://github.com/pyenv/pyenv-virtualenv
+
+https://binx.io/blog/2019/04/12/installing-pyenv-on-macos/

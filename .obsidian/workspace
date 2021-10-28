@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "f7a82b00c462ef1a",
+        "id": "52be56b0b9d62fed",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "macOS.md",
+            "file": "macos-command-line.md",
             "mode": "source"
           }
         },
-        "group": "cd221c8cbced9b25"
+        "group": "12c522c3bda98f1d"
       },
       {
-        "id": "c9d1d2bca6dde4cb",
+        "id": "e2b0f385313bdc7b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "macOS.md",
+            "file": "macos-command-line.md",
             "mode": "preview"
           }
         },
-        "group": "cd221c8cbced9b25"
+        "group": "12c522c3bda98f1d"
       }
     ],
     "direction": "vertical"
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 293.5121879577637
   },
   "right": {
     "id": "85eb7df0db560104",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macOS.md",
+                "file": "macos-command-line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "macOS.md",
+                "file": "macos-command-line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "macOS.md"
+                "file": "macos-command-line.md"
               }
             }
           },
@@ -149,17 +148,17 @@
     "width": 125.48859405517578,
     "collapsed": true
   },
-  "active": "f7a82b00c462ef1a",
+  "active": "52be56b0b9d62fed",
   "lastOpenFiles": [
-    "macOS.md",
+    "macos-command-line.md",
     "macos-setup-python-pyenv.md",
     "macos-setup.md",
+    "macos-setup-xcode.md",
     "macos-setup-xcode-command-line-tools.md",
-    "macos-setup-python.md",
-    "macos-setup-homebrew.md",
-    "macos-python.md",
-    "macos-command-line-tools.md",
-    "programming-books.md",
-    "iterm2.md"
+    "macos-setup-terminal.md",
+    "iterm2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "README.md"
   ]
 }

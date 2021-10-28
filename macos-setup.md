@@ -1,11 +1,8 @@
-[[macOS]]
+[[macos|macOS]]
 
 ---
 
-# [[macos-setup]]
-MacOS setup for Code Development and Scientific Research
-
-## Topics
+# Setup macOS for Code Development and Scientific Research
 
 [[macos-setup-xcode-command-line-tools]]
 [[macos-setup-xcode]]

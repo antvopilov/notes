@@ -1,4 +1,9 @@
-# macOS
+---
+aliases: macOS
+---
 
+# [[macos|macOS]]
 
-[[macOS-setup]]
+## Related Topics
+
+[[macos-setup]]
