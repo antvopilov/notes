@@ -3,3 +3,7 @@
 
 apm search --packages --sort downloads|stars py
 thon
+
+https://github.com/mehcode/awesome-atom
+
+https://github.com/MagicStack/MagicPython
