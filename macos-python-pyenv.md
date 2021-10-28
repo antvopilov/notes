@@ -8,14 +8,14 @@
 ## Preparations:
 
 - [[macos-xcode-command-line-tools#Install]]
+- [[macos-homebrew#Install]]
+- `brew install openssl readline sqlite3 xz zlib`
+- `brew update && brew upgrade`
+- `brew doctor`
 
-
-1. Xcode Command Line Tools: `xcode-select --install`
-2. [Homebrew](http://brew.sh/) 
-3. `brew install openssl readline sqlite3 xz zlib`
-4. `brew update`
-5. `brew install pyenv`
-6. `brew doctor`
+## Install
+ - `brew install pyenv`
+ - `brew doctor`
 
 To avoid them accidentally linking against a Pyenv-provided Python, add the following line into your interactive shell's configuration (Bash/Zsh):    
    ` alias brew='env PATH="${PATH//$(pyenv root)\/shims:/}" brew'`
