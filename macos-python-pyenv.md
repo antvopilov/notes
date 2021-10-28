@@ -1,9 +1,13 @@
 
-[[macos]]-[[macos-setup-python]]
+[[macos]]-[[macos-python]]
 
 ---
 
-# [[macos-setup-python-pyenv]]
+# [[macos-python-pyenv]]
+
+## Preparations:
+
+- [[macos-xcode-command-line-tools#Install]]
 
 
 1. Xcode Command Line Tools: `xcode-select --install`
