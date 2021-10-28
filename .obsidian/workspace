@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "atom.md",
+            "file": "terminal.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atom.md",
+                "file": "terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atom.md",
+                "file": "terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atom.md"
+                "file": "terminal.md"
               }
             }
           },
@@ -138,15 +138,15 @@
   },
   "active": "52be56b0b9d62fed",
   "lastOpenFiles": [
+    "terminal.md",
+    "hyper.md",
+    "package-manager.md",
     "atom.md",
     "markdown.md",
     "oh-my-zsh.md",
     "macos.md",
     "command-line-interface.md",
     "atom-package-markdown.md",
-    "soda-plaer.md",
-    "macos-terminal-shell.md",
-    "macos-python-pyenv.md",
-    "macos-python.md"
+    "soda-plaer.md"
   ]
 }
