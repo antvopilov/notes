@@ -1,3 +1,14 @@
+---
+aliases: MacOS Setup Python with PyEnv
+---
+
+---
+
+[[macos-setup-python]]
+
+---
+
+
 1. Xcode Command Line Tools: `xcode-select --install`
 2. [Homebrew](http://brew.sh/) 
 3. `brew install openssl readline sqlite3 xz zlib`
