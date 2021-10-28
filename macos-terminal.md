@@ -1,6 +1,6 @@
 [[iterm2]]
 
-[[macos-terminal-]]
+[[macos-terminal-shell]]
 
 ## Resources
 https://support.apple.com/ru-ru/guide/terminal/welcome/2.10/mac
