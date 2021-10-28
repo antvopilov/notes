@@ -1,11 +1,7 @@
-# MacOS
+---
+aliases: MacOS
+---
 
-[[macos-setup-for-development-scientific-research]]
+# [[macos|MacOS]]
 
-[[macos-python]]
-
-## Command Line Tools
-[[iterm2]]
-
-[[mas]]
-[[pipx]]
+[[macos-setup|MacOS setup for Development and Scientific Research]]

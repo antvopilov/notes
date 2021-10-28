@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "93c7ac3d09c962b4",
+        "id": "d099f9ca07250e4e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "macos-setup-for-development-scientific-research.md",
+            "file": "macos-setup.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 173.51218795776367
+    "width": 351.5121879577637
   },
   "right": {
     "id": "85eb7df0db560104",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macos-setup-for-development-scientific-research.md",
+                "file": "macos-setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "macos-setup-for-development-scientific-research.md",
+                "file": "macos-setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "macos-setup-for-development-scientific-research.md"
+                "file": "macos-setup.md"
               }
             }
           },
@@ -134,17 +134,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "93c7ac3d09c962b4",
+  "active": "d099f9ca07250e4e",
   "lastOpenFiles": [
-    "macos-setup-for-development-scientific-research.md",
+    "macos-setup.md",
     "macos.md",
     "macos-python-setup.md",
+    "macos-python.md",
+    "macos-command-line-tools.md",
     "programming-books.md",
     "iterm2.md",
     "mas.md",
     "Untitled 1.md",
-    "ptheoretical-physics-videos.md",
-    "Untitled.md",
-    "macos-terminal-setup.md"
+    "ptheoretical-physics-videos.md"
   ]
 }
