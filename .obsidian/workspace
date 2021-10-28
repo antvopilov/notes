@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "macos-setup.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5121879577637
+    "width": 100,
+    "collapsed": true
   },
   "right": {
     "id": "85eb7df0db560104",
@@ -132,11 +133,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 125.48859405517578,
+    "collapsed": true
   },
   "active": "d099f9ca07250e4e",
   "lastOpenFiles": [
     "macos-setup.md",
+    "macos-setup-xcode-command-line-tools.md",
     "macos-setup-python.md",
     "macos-setup-python-pyenv.md",
     "macos-setup-homebrew.md",
@@ -144,7 +147,6 @@
     "macos-python.md",
     "macos-command-line-tools.md",
     "programming-books.md",
-    "iterm2.md",
-    "mas.md"
+    "iterm2.md"
   ]
 }
