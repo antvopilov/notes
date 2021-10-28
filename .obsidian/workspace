@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "macos-terminal-shell.md",
+            "file": "soda-plaer.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "macos-terminal-shell.md",
+            "file": "soda-plaer.md",
             "mode": "source"
           }
         },
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macos-terminal-shell.md",
+                "file": "soda-plaer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "macos-terminal-shell.md",
+                "file": "soda-plaer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "macos-terminal-shell.md"
+                "file": "soda-plaer.md"
               }
             }
           },
@@ -151,6 +151,7 @@
   },
   "active": "52be56b0b9d62fed",
   "lastOpenFiles": [
+    "soda-plaer.md",
     "macos-terminal-shell.md",
     "markdown.md",
     "macos-python-pyenv.md",
@@ -159,7 +160,6 @@
     "pandoc.md",
     "macos-terminal.md",
     "macos-homebrew.md",
-    "macos-xcode.md",
-    "macos-xcode-command-line-tools.md"
+    "macos-xcode.md"
   ]
 }
