@@ -2,6 +2,7 @@
 tags: Atom
 ---
 
+![[atom]]
 # Atom Packages. Markdown
 
 ```

@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "soda-plaer.md",
+            "file": "macos.md",
             "mode": "source"
           }
         },
-        "group": "12c522c3bda98f1d"
+        "group": "309c8343a8f7382f"
       },
       {
-        "id": "e2b0f385313bdc7b",
+        "id": "32c9d2e134932a79",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "soda-plaer.md",
-            "mode": "source"
+            "file": "macos.md",
+            "mode": "preview"
           }
         },
-        "group": "12c522c3bda98f1d"
+        "group": "309c8343a8f7382f"
       }
     ],
     "direction": "vertical"
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "soda-plaer.md",
+                "file": "macos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "soda-plaer.md",
+                "file": "macos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "soda-plaer.md"
+                "file": "macos.md"
               }
             }
           },
@@ -151,15 +151,15 @@
   },
   "active": "52be56b0b9d62fed",
   "lastOpenFiles": [
+    "macos.md",
+    "command-line-interface.md",
+    "atom.md",
+    "atom-package-markdown.md",
     "soda-plaer.md",
     "macos-terminal-shell.md",
     "markdown.md",
     "macos-python-pyenv.md",
     "macos-python.md",
-    "python.md",
-    "pandoc.md",
-    "macos-terminal.md",
-    "macos-homebrew.md",
-    "macos-xcode.md"
+    "python.md"
   ]
 }
