@@ -11,4 +11,4 @@ aliases: MacOS Command Line Tools
 
 ---
 
-[[macos|MacOS]]
+[[macOS|MacOS]]

@@ -2,6 +2,10 @@
 aliases: MacOS setup for Development and Scientific Research
 ---
 
+[[macOS]]
+
+---
+
 # [[macos-setup|MacOS setup for Code Development and Scientific Research]]
 [[macos-setup-xcode-command-line-tools]]
 [[macos-setup-xcode]]
@@ -9,11 +13,7 @@ aliases: MacOS setup for Development and Scientific Research
 [[macos-setup-python]]
 [[macos-setup-python-pyenv]]
 
+## Resources
 
-
-
-
----
-
-[[macos]]
+https://wilsonmar.github.io/macos-osx/
 
