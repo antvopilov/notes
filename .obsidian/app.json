@@ -1,6 +1,6 @@
 {
   "spellcheck": true,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "showFrontmatter": false,
   "foldHeading": true,
   "promptDelete": false,

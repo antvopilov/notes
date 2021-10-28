@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "macos-setup-python-pyenv.md",
+            "file": "macos-setup.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macos-setup-python-pyenv.md",
+                "file": "macos-setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "macos-setup-python-pyenv.md",
+                "file": "macos-setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "macos-setup-python-pyenv.md"
+                "file": "macos-setup.md"
               }
             }
           },
@@ -136,15 +136,15 @@
   },
   "active": "d099f9ca07250e4e",
   "lastOpenFiles": [
-    "macos-setup-python-pyenv.md",
     "macos-setup.md",
+    "macos-setup-python.md",
+    "macos-setup-python-pyenv.md",
     "macos-setup-homebrew.md",
     "macos.md",
     "macos-python.md",
     "macos-command-line-tools.md",
     "programming-books.md",
     "iterm2.md",
-    "mas.md",
-    "Untitled 1.md"
+    "mas.md"
   ]
 }

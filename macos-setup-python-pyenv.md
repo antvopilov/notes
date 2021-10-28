@@ -8,6 +8,8 @@ aliases: MacOS Setup Python with PyEnv
 
 ---
 
+# [[macos-setup-python-pyenv|MacOS Setup Python with PyEnv]]
+
 
 1. Xcode Command Line Tools: `xcode-select --install`
 2. [Homebrew](http://brew.sh/) 
