@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "atom.md",
+            "file": "simleicons.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atom.md",
+                "file": "simleicons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atom.md",
+                "file": "simleicons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atom.md"
+                "file": "simleicons.md"
               }
             }
           },
@@ -138,6 +138,8 @@
   },
   "active": "52be56b0b9d62fed",
   "lastOpenFiles": [
+    "simleicons.md",
+    "macos-homebrew.md",
     "atom.md",
     "macos-python.md",
     "terminal.md",
@@ -145,8 +147,6 @@
     "package-manager.md",
     "markdown.md",
     "oh-my-zsh.md",
-    "macos.md",
-    "command-line-interface.md",
-    "atom-package-markdown.md"
+    "macos.md"
   ]
 }
