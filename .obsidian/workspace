@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian-themes.md",
+            "file": "obsidian-plugins.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "13462b0a60ccaeee"
+      },
+      {
+        "id": "bbcdc5462e594e58",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "obsidian-plugins.md",
+            "mode": "preview"
+          }
+        },
+        "group": "13462b0a60ccaeee"
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-themes.md",
+                "file": "obsidian-plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-themes.md",
+                "file": "obsidian-plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-themes.md"
+                "file": "obsidian-plugins.md"
               }
             }
           },
@@ -137,6 +150,8 @@
   },
   "active": "52be56b0b9d62fed",
   "lastOpenFiles": [
+    "obsidian-plugins.md",
+    "obsidian.md",
     "obsidian-themes.md",
     "macos-python-pyenv.md",
     "macos-setup.md",
@@ -144,8 +159,6 @@
     "simleicons.md",
     "macos-homebrew.md",
     "macos-python.md",
-    "terminal.md",
-    "hyper.md",
-    "package-manager.md"
+    "terminal.md"
   ]
 }
