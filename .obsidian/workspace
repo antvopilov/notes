@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "52be56b0b9d62fed",
+        "id": "0f40245a3c776939",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian-plugins.md",
-            "mode": "preview"
+            "file": "Home.md",
+            "mode": "source"
           }
-        },
-        "group": "13462b0a60ccaeee"
-      },
-      {
-        "id": "bbcdc5462e594e58",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "obsidian-plugins.md",
-            "mode": "preview"
-          }
-        },
-        "group": "13462b0a60ccaeee"
+        }
       }
     ],
     "direction": "vertical"
@@ -76,6 +63,14 @@
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
             }
+          },
+          {
+            "id": "37e8b14248c84ccd",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -97,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-plugins.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-plugins.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-plugins.md"
+                "file": "Home.md"
               }
             }
           },
@@ -170,8 +165,9 @@
     "width": 125.48859405517578,
     "collapsed": true
   },
-  "active": "52be56b0b9d62fed",
+  "active": "0f40245a3c776939",
   "lastOpenFiles": [
+    "Home.md",
     "obsidian-plugins.md",
     "obsidian.md",
     "obsidian-themes.md",
@@ -180,7 +176,6 @@
     "atom.md",
     "simleicons.md",
     "macos-homebrew.md",
-    "macos-python.md",
-    "terminal.md"
+    "macos-python.md"
   ]
 }

@@ -31,5 +31,18 @@
   "obsidian-budget-wysiwyg",
   "buttons",
   "obsidian-csv-table",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "file-tree-alternative",
+  "find-and-replace-in-selection",
+  "hotkey-helper",
+  "obsidian-icons-plugin",
+  "markdown-prettifier",
+  "nldates-obsidian",
+  "obsidian-outliner",
+  "oz-image-plugin",
+  "obsidian-pandoc",
+  "pdf-to-markdown-plugin",
+  "quickadd",
+  "tag-wrangler",
+  "taskbone-ocr-plugin"
 ]
