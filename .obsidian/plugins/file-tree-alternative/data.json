@@ -6,7 +6,7 @@
   "showFilesFromSubFoldersButton": true,
   "excludedExtensions": "",
   "excludedFolders": "",
-  "folderIcon": "default",
+  "folderIcon": "box-folder",
   "folderCount": true,
   "folderCountOption": "notes",
   "evernoteView": true,

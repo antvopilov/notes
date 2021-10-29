@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
-            "mode": "source"
+            "file": "map-of-content.md",
+            "mode": "preview"
           }
         }
       }
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "37e8b14248c84ccd",
+            "id": "d5dd30a87344982e",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "map-of-content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "map-of-content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "map-of-content.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "0f40245a3c776939",
   "lastOpenFiles": [
+    "map-of-content.md",
     "Home.md",
     "obsidian-plugins.md",
     "obsidian.md",
@@ -175,7 +176,6 @@
     "macos-setup.md",
     "atom.md",
     "simleicons.md",
-    "macos-homebrew.md",
-    "macos-python.md"
+    "macos-homebrew.md"
   ]
 }

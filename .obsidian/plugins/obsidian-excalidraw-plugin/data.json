@@ -31,6 +31,6 @@
   "loadCount": 1,
   "drawingOpenCount": 0,
   "library": "{\"type\":\"excalidrawlib\",\"version\":1,\"library\":[]}",
-  "patchCommentBlock": true,
+  "patchCommentBlock": false,
   "imageElementNotice": false
 }
