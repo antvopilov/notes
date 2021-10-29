@@ -1,4 +1,39 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "cb2acb4a-fa92-48db-92fd-e764101dd9bb",
+      "name": "github-repo",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
   "macros": []
 }

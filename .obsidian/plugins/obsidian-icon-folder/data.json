@@ -1,0 +1,10 @@
+{
+  "settings": {
+    "enableRemixiconsLine": true,
+    "enableRemixiconsFill": false,
+    "enableFontawesomeFill": false,
+    "enableFontawesomeLine": false,
+    "enableFontawesomeBrands": false
+  },
+  "map-of-content.md": "RiRiMindMap"
+}
