@@ -6,5 +6,7 @@
   "templater-obsidian",
   "obsidian-git",
   "code-block-copy",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "media-extended",
+  "obsidian-show-file-path"
 ]
