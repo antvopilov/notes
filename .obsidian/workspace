@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "simleicons.md",
+            "file": "obsidian-themes.md",
             "mode": "source"
           }
         }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5121879577637,
-    "collapsed": true
+    "width": 293.5121879577637
   },
   "right": {
     "id": "85eb7df0db560104",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "simleicons.md",
+                "file": "obsidian-themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "simleicons.md",
+                "file": "obsidian-themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "simleicons.md"
+                "file": "obsidian-themes.md"
               }
             }
           },
@@ -138,15 +137,15 @@
   },
   "active": "52be56b0b9d62fed",
   "lastOpenFiles": [
+    "obsidian-themes.md",
+    "macos-python-pyenv.md",
+    "macos-setup.md",
+    "atom.md",
     "simleicons.md",
     "macos-homebrew.md",
-    "atom.md",
     "macos-python.md",
     "terminal.md",
     "hyper.md",
-    "package-manager.md",
-    "markdown.md",
-    "oh-my-zsh.md",
-    "macos.md"
+    "package-manager.md"
   ]
 }

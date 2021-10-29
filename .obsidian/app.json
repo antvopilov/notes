@@ -9,5 +9,6 @@
   "attachmentFolderPath": "./attachments",
   "communityThemeSortOrder": "download",
   "communityPluginSortOrder": "download",
-  "foldIndent": true
+  "foldIndent": true,
+  "fileSortOrder": "alphabetical"
 }
