@@ -1,5 +1,11 @@
-![[Pasted image 20211030185704.png]]
+---
+aliases: Obsidian.md
+---
+![[obsidian-logo.png]]
+# [[obsidian|Obsidian.md]]
+
 ## Resources
 
 [[obsidian-themes]]
 [[obsidian-plugins]]
+[[obsidian-publish]]

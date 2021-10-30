@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "764547681b71e6c5",
+        "id": "a04a30e10384d464",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian.md",
+            "file": "obsidian-publish.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.0078125
+    "width": 207.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "85eb7df0db560104",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian.md",
+                "file": "obsidian-publish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian.md",
+                "file": "obsidian-publish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian.md"
+                "file": "obsidian-publish.md"
               }
             }
           },
@@ -152,23 +153,66 @@
               "state": {}
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8798a70e834a0a00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31efdb74d4a4000a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "obsidian-publish.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7056075206386186,
+                  "close": true
+                }
+              }
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 308.3597106933594
+    "width": 308.3597106933594,
+    "collapsed": true
   },
-  "active": "764547681b71e6c5",
+  "active": "a04a30e10384d464",
   "lastOpenFiles": [
+    "obsidian-publish.md",
+    "README.md",
     "obsidian.md",
     "obsidian-themes.md",
+    "assets/obsidian-logo.png",
     "creating-a-diy-digital-garden-with-obsidian-and-gatsby.md",
     "markdown.md",
     "inbox.md",
-    "README.md",
     "visual-studio-code.md",
-    "tor-browser.md",
-    "google-chrome-browser.md",
-    "macos-automation-setup.md"
+    "tor-browser.md"
   ]
 }
