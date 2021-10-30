@@ -6,7 +6,5 @@ color blue
 ```  
 ^button-spellcheck
 ```python
-brew instyall 
+print
 ```
-
-Hello my fdf 

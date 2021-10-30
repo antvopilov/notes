@@ -36,5 +36,7 @@
   "tag-wrangler",
   "cm-editor-syntax-highlight-obsidian",
   "find-unlinked-files",
-  "cmenu-plugin"
+  "cmenu-plugin",
+  "obsidian-reminder-plugin",
+  "obsidian-minimal-settings"
 ]

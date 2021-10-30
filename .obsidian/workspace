@@ -13,10 +13,10 @@
             "mode": "source"
           }
         },
-        "group": "67280fcb1c31c4a4"
+        "group": "92aef87f8a87f1b4"
       },
       {
-        "id": "a54f0cb173b87565",
+        "id": "7b093f9cc1f3f4f9",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -25,7 +25,7 @@
             "mode": "preview"
           }
         },
-        "group": "67280fcb1c31c4a4"
+        "group": "92aef87f8a87f1b4"
       }
     ],
     "direction": "vertical"
@@ -154,6 +154,14 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6042ab16164937c6",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
               "state": {}
             }
           }
