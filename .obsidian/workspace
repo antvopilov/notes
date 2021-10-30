@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "19e647ba761e6e0e",
+        "id": "e540e9ec64a99aed",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "nativefier.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "nativefier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "nativefier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "nativefier.md"
               }
             }
           },
@@ -174,17 +174,17 @@
     "width": 125.48859405517578,
     "collapsed": true
   },
-  "active": "19e647ba761e6e0e",
+  "active": "e540e9ec64a99aed",
   "lastOpenFiles": [
+    "nativefier.md",
+    "Untitled 1.md",
+    "topics.md",
     "Home.md",
     "macos-setup.md",
     "macos.md",
     "README.md",
     "map-of-content.md",
     "obsidian-plugins.md",
-    "obsidian.md",
-    "obsidian-themes.md",
-    "macos-python-pyenv.md",
-    "atom.md"
+    "obsidian.md"
   ]
 }
