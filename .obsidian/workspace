@@ -76,14 +76,6 @@
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
             }
-          },
-          {
-            "id": "d5dd30a87344982e",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
         ]
       }
