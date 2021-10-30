@@ -1,7 +1,7 @@
 {
   "spellcheck": true,
   "strictLineBreaks": false,
-  "showFrontmatter": false,
+  "showFrontmatter": true,
   "foldHeading": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
