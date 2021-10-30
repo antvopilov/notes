@@ -1,2 +1,4 @@
-# obsidian-notes
- Obsidian.md Notes
+# Notes Hub
+
+[[macos|macOS]]
+

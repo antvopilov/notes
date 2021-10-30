@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3002b34a0893cda0",
+        "id": "19e647ba761e6e0e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "map-of-content.md",
-            "mode": "preview"
+            "file": "Home.md",
+            "mode": "source"
           }
         }
       }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "map-of-content.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "map-of-content.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "map-of-content.md"
+                "file": "Home.md"
               }
             }
           },
@@ -143,8 +143,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "c2fecdfda8dfc34e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "143eb1992559d57b",
@@ -165,17 +174,17 @@
     "width": 125.48859405517578,
     "collapsed": true
   },
-  "active": "3002b34a0893cda0",
+  "active": "19e647ba761e6e0e",
   "lastOpenFiles": [
-    "map-of-content.md",
     "Home.md",
+    "macos-setup.md",
+    "macos.md",
+    "README.md",
+    "map-of-content.md",
     "obsidian-plugins.md",
     "obsidian.md",
     "obsidian-themes.md",
     "macos-python-pyenv.md",
-    "macos-setup.md",
-    "atom.md",
-    "simleicons.md",
-    "macos-homebrew.md"
+    "atom.md"
   ]
 }
