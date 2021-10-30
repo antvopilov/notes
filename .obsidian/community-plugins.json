@@ -33,5 +33,8 @@
   "obsidian-pandoc",
   "pdf-to-markdown-plugin",
   "quickadd",
-  "tag-wrangler"
+  "tag-wrangler",
+  "cm-editor-syntax-highlight-obsidian",
+  "find-unlinked-files",
+  "cmenu-plugin"
 ]
