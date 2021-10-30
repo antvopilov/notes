@@ -4,43 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "018df2391cd67c7d",
+        "id": "764547681b71e6c5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "visual-studio-code.md",
+            "file": "creating-a-diy-digital-garden-with-obsidian-and-gatsby.md",
             "mode": "source"
-          }
-        },
-        "group": "1afa35ee7de5af33"
-      },
-      {
-        "id": "ad6d549bbdd47a5a",
-        "type": "leaf",
-        "state": {
-          "type": "media-view",
-          "state": {
-            "info": {
-              "host": 0,
-              "id": "547Jr26duHQ",
-              "iframe": "https://www.youtube.com/embed/547Jr26duHQ",
-              "src": "https://www.youtube.com/watch?v=547Jr26duHQ&t=1033s",
-              "hash": ""
-            },
-            "currentTime": 2.469099
-          }
-        },
-        "group": "1afa35ee7de5af33"
-      },
-      {
-        "id": "5f71531b6e34a189",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "visual-studio-code.md",
-            "mode": "preview"
           }
         }
       }
@@ -114,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "visual-studio-code.md",
+                "file": "creating-a-diy-digital-garden-with-obsidian-and-gatsby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "visual-studio-code.md",
+                "file": "creating-a-diy-digital-garden-with-obsidian-and-gatsby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "visual-studio-code.md"
+                "file": "creating-a-diy-digital-garden-with-obsidian-and-gatsby.md"
               }
             }
           },
@@ -190,17 +160,17 @@
     "width": 125.48859405517578,
     "collapsed": true
   },
-  "active": "018df2391cd67c7d",
+  "active": "764547681b71e6c5",
   "lastOpenFiles": [
-    "visual-studio-code.md",
+    "creating-a-diy-digital-garden-with-obsidian-and-gatsby.md",
     "inbox.md",
+    "README.md",
+    "visual-studio-code.md",
     "tor-browser.md",
     "google-chrome-browser.md",
     "obsidian.md",
     "macos-automation-setup.md",
     "buttom-examples.md",
-    "README.md",
-    "Home.md",
-    "macos-terminal.md"
+    "Home.md"
   ]
 }
