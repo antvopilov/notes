@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e540e9ec64a99aed",
+        "id": "da239e6884f6d541",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nativefier.md",
+            "file": "Home.md",
             "mode": "source"
           }
         }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nativefier.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nativefier.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nativefier.md"
+                "file": "Home.md"
               }
             }
           },
@@ -174,12 +174,12 @@
     "width": 125.48859405517578,
     "collapsed": true
   },
-  "active": "e540e9ec64a99aed",
+  "active": "da239e6884f6d541",
   "lastOpenFiles": [
+    "Home.md",
     "nativefier.md",
     "Untitled 1.md",
     "topics.md",
-    "Home.md",
     "macos-setup.md",
     "macos.md",
     "README.md",
