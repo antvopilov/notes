@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "macos-automation-setup.md",
+            "file": "obsidian.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macos-automation-setup.md",
+                "file": "obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "macos-automation-setup.md",
+                "file": "obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "macos-automation-setup.md"
+                "file": "obsidian.md"
               }
             }
           },
@@ -162,6 +162,7 @@
   },
   "active": "888f3fd241998c9c",
   "lastOpenFiles": [
+    "obsidian.md",
     "macos-automation-setup.md",
     "buttom-examples.md",
     "README.md",
@@ -170,7 +171,6 @@
     "macos-terminal.md",
     "oh-my-zsh.md",
     "nativefier.md",
-    "tor-browser.md",
-    "macos-homebrew.md"
+    "tor-browser.md"
   ]
 }

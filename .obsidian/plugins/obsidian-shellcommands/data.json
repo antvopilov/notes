@@ -1,0 +1,20 @@
+{
+  "working_directory": "",
+  "preview_variables_in_command_palette": true,
+  "shell_commands": {
+    "0": {
+      "shell_command": "brew install wget",
+      "alias": "",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first"
+    }
+  },
+  "error_message_duration": 20,
+  "notification_message_duration": 10,
+  "commands": []
+}
