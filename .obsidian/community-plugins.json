@@ -7,16 +7,13 @@
   "obsidian-git",
   "obsidian-kanban",
   "media-extended",
-  "obsidian-show-file-path",
   "metaedit",
-  "obsidian-latex-environments",
   "wikilinks-to-mdlinks-obsidian",
   "obsidian-reveal-active-file",
   "extract-url",
   "homepage",
   "obsidian-latex",
   "obsidian-dynamic-toc",
-  "map-of-content",
   "longform",
   "obsidian-code-block-enhancer",
   "obsidian-jupyter",
@@ -36,6 +33,5 @@
   "obsidian-pandoc",
   "pdf-to-markdown-plugin",
   "quickadd",
-  "tag-wrangler",
-  "taskbone-ocr-plugin"
+  "tag-wrangler"
 ]
