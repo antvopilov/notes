@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian-publish.md",
+            "file": "obsidian-md.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-publish.md",
+                "file": "obsidian-md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-publish.md",
+                "file": "obsidian-md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-publish.md"
+                "file": "obsidian-md.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-publish.md",
+                "file": "obsidian-md.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,9 +204,9 @@
   },
   "active": "a04a30e10384d464",
   "lastOpenFiles": [
+    "obsidian-md.md",
     "obsidian-publish.md",
     "README.md",
-    "obsidian.md",
     "obsidian-themes.md",
     "assets/obsidian-logo.png",
     "creating-a-diy-digital-garden-with-obsidian-and-gatsby.md",
