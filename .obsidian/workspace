@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a04a30e10384d464",
+        "id": "166a600efdaeb637",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian-md.md",
+            "file": "ReadItLater-Inbox/GitHub - sharkdpbat A cat(1) clone with wings..md",
             "mode": "source"
           }
         }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5036334991455,
-    "collapsed": true
+    "width": 207.5036334991455
   },
   "right": {
     "id": "85eb7df0db560104",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-md.md",
+                "file": "ReadItLater-Inbox/GitHub - sharkdpbat A cat(1) clone with wings..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-md.md",
+                "file": "ReadItLater-Inbox/GitHub - sharkdpbat A cat(1) clone with wings..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-md.md"
+                "file": "ReadItLater-Inbox/GitHub - sharkdpbat A cat(1) clone with wings..md"
               }
             }
           },
@@ -166,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-md.md",
+                "file": "ReadItLater-Inbox/GitHub - sharkdpbat A cat(1) clone with wings..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,17 +201,17 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "a04a30e10384d464",
+  "active": "166a600efdaeb637",
   "lastOpenFiles": [
+    "ReadItLater-Inbox/GitHub - sharkdpbat A cat(1) clone with wings..md",
+    "ReadItLater-Inbox/Notice 2021-10-30 20-41-56.md",
+    "templater.md",
+    "tldr.md",
+    "README.md",
     "obsidian-md.md",
     "obsidian-publish.md",
-    "README.md",
     "obsidian-themes.md",
     "assets/obsidian-logo.png",
-    "creating-a-diy-digital-garden-with-obsidian-and-gatsby.md",
-    "markdown.md",
-    "inbox.md",
-    "visual-studio-code.md",
-    "tor-browser.md"
+    "creating-a-diy-digital-garden-with-obsidian-and-gatsby.md"
   ]
 }
