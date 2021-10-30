@@ -4,13 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "888f3fd241998c9c",
+        "id": "018df2391cd67c7d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian.md",
+            "file": "visual-studio-code.md",
             "mode": "source"
+          }
+        },
+        "group": "1afa35ee7de5af33"
+      },
+      {
+        "id": "ad6d549bbdd47a5a",
+        "type": "leaf",
+        "state": {
+          "type": "media-view",
+          "state": {
+            "info": {
+              "host": 0,
+              "id": "547Jr26duHQ",
+              "iframe": "https://www.youtube.com/embed/547Jr26duHQ",
+              "src": "https://www.youtube.com/watch?v=547Jr26duHQ&t=1033s",
+              "hash": ""
+            },
+            "currentTime": 2.469099
+          }
+        },
+        "group": "1afa35ee7de5af33"
+      },
+      {
+        "id": "5f71531b6e34a189",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "visual-studio-code.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian.md",
+                "file": "visual-studio-code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian.md",
+                "file": "visual-studio-code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian.md"
+                "file": "visual-studio-code.md"
               }
             }
           },
@@ -160,17 +190,17 @@
     "width": 125.48859405517578,
     "collapsed": true
   },
-  "active": "888f3fd241998c9c",
+  "active": "018df2391cd67c7d",
   "lastOpenFiles": [
+    "visual-studio-code.md",
+    "inbox.md",
+    "tor-browser.md",
+    "google-chrome-browser.md",
     "obsidian.md",
     "macos-automation-setup.md",
     "buttom-examples.md",
     "README.md",
-    "inbox.md",
     "Home.md",
-    "macos-terminal.md",
-    "oh-my-zsh.md",
-    "nativefier.md",
-    "tor-browser.md"
+    "macos-terminal.md"
   ]
 }
