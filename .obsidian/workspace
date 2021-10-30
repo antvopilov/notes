@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "creating-a-diy-digital-garden-with-obsidian-and-gatsby.md",
+            "file": "obsidian.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "creating-a-diy-digital-garden-with-obsidian-and-gatsby.md",
+                "file": "obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "creating-a-diy-digital-garden-with-obsidian-and-gatsby.md",
+                "file": "obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "creating-a-diy-digital-garden-with-obsidian-and-gatsby.md"
+                "file": "obsidian.md"
               }
             }
           },
@@ -152,25 +152,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 125.48859405517578,
-    "collapsed": true
+    "width": 308.3597106933594
   },
   "active": "764547681b71e6c5",
   "lastOpenFiles": [
+    "obsidian.md",
+    "obsidian-themes.md",
     "creating-a-diy-digital-garden-with-obsidian-and-gatsby.md",
+    "markdown.md",
     "inbox.md",
     "README.md",
     "visual-studio-code.md",
     "tor-browser.md",
     "google-chrome-browser.md",
-    "obsidian.md",
-    "macos-automation-setup.md",
-    "buttom-examples.md",
-    "Home.md"
+    "macos-automation-setup.md"
   ]
 }
