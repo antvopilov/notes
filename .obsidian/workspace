@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "38bee2b4cedec89d",
+    "id": "15b1d63fe3caa685",
     "type": "split",
     "children": [
       {
-        "id": "166a600efdaeb637",
+        "id": "aa5fbf48cde34e21",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ReadItLater-Inbox/GitHub - sharkdpbat A cat(1) clone with wings..md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadItLater-Inbox/GitHub - sharkdpbat A cat(1) clone with wings..md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadItLater-Inbox/GitHub - sharkdpbat A cat(1) clone with wings..md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReadItLater-Inbox/GitHub - sharkdpbat A cat(1) clone with wings..md"
+                "file": "README.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ReadItLater-Inbox/GitHub - sharkdpbat A cat(1) clone with wings..md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,17 +201,17 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "166a600efdaeb637",
+  "active": "aa5fbf48cde34e21",
   "lastOpenFiles": [
-    "ReadItLater-Inbox/GitHub - sharkdpbat A cat(1) clone with wings..md",
+    "README.md",
+    "Untitled 1.md",
+    "ReadItLater-Inbox/Use environment variables in Terminal on Mac.md",
+    "oh-my-zsh.md",
     "ReadItLater-Inbox/Notice 2021-10-30 20-41-56.md",
+    "ReadItLater-Inbox/GitHub - sharkdpbat A cat(1) clone with wings..md",
+    "Untitled.md",
     "templater.md",
     "tldr.md",
-    "README.md",
-    "obsidian-md.md",
-    "obsidian-publish.md",
-    "obsidian-themes.md",
-    "assets/obsidian-logo.png",
-    "creating-a-diy-digital-garden-with-obsidian-and-gatsby.md"
+    "obsidian-md.md"
   ]
 }
