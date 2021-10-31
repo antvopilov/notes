@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "aa5fbf48cde34e21",
+        "id": "6bf5ff85237e6345",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,17 +201,17 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "aa5fbf48cde34e21",
+  "active": "6bf5ff85237e6345",
   "lastOpenFiles": [
+    "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+    "readItlater/GitHub - sharkdpbat A cat(1) clone with wings..md",
+    "readItlater/Notice 2021-10-30 20-41-56.md",
+    "readItlater/GitHub - jackyzha0quartz 🌱 host your own second brain and digital garden for free.md",
+    "readItlater/GitHub - binnyvagatsby-garden A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes.md",
+    "knowledge management system.md",
+    "readItlater/Fastest Static-Site Generation Web Framework.md",
+    "index.md",
     "README.md",
-    "Untitled 1.md",
-    "ReadItLater-Inbox/Use environment variables in Terminal on Mac.md",
-    "oh-my-zsh.md",
-    "ReadItLater-Inbox/Notice 2021-10-30 20-41-56.md",
-    "ReadItLater-Inbox/GitHub - sharkdpbat A cat(1) clone with wings..md",
-    "Untitled.md",
-    "templater.md",
-    "tldr.md",
-    "obsidian-md.md"
+    "Untitled 1.md"
   ]
 }

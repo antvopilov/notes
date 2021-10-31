@@ -6,7 +6,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./assets",
+  "attachmentFolderPath": "./Assets",
   "communityThemeSortOrder": "download",
   "communityPluginSortOrder": "download",
   "foldIndent": true,
