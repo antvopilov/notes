@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "atom.md",
+            "file": "package-manager.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "atom.md",
+            "file": "package-manager.md",
             "mode": "preview"
           }
         },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atom.md",
+                "file": "package-manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atom.md",
+                "file": "package-manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atom.md"
+                "file": "package-manager.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "atom.md",
+                "file": "package-manager.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,15 +216,15 @@
   },
   "active": "8dd0dbc8a416c491",
   "lastOpenFiles": [
-    "atom.md",
+    "package-manager.md",
+    "apm.md",
     "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md",
+    "atom.md",
     "README.md",
     "topics.md",
     "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
-    "assets/atom-logo.png",
-    "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
-    "readItlater/GitHub - sharkdpbat A cat(1) clone with wings..md"
+    "assets/atom-logo.png"
   ]
 }
