@@ -12,6 +12,10 @@ Atom is a modern open source text editor developed by GitHub. It is designed to 
 
 [[apm]]
 
+https://github.com/atom-community/atom
+https://github.com/atom-community/ide-python
+https://github.com/atom-community/atom-vscode
+
 apm search --packages --sort downloads|stars py
 thon
 

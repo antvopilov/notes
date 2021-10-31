@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8dd0dbc8a416c491",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "apm.md",
-            "mode": "source"
-          }
-        },
-        "group": "feb223a6cfbdb12b"
-      },
-      {
         "id": "9fc7ff985f6439cb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "apm.md",
+            "file": "atom.md",
+            "mode": "source"
+          }
+        },
+        "group": "f76bf5fc8c8edaaf"
+      },
+      {
+        "id": "3e78dab9d400223c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "atom.md",
             "mode": "preview"
           }
         },
-        "group": "feb223a6cfbdb12b"
+        "group": "f76bf5fc8c8edaaf"
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apm.md",
+                "file": "atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apm.md",
+                "file": "atom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apm.md"
+                "file": "atom.md"
               }
             }
           },
@@ -171,10 +171,10 @@
     "direction": "horizontal",
     "width": 308.3597106933594
   },
-  "active": "8dd0dbc8a416c491",
+  "active": "9fc7ff985f6439cb",
   "lastOpenFiles": [
-    "apm.md",
     "atom.md",
+    "apm.md",
     "package-manager.md",
     "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md",
     "README.md",
