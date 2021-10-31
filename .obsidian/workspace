@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "package-manager.md",
+            "file": "apm.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "package-manager.md",
+            "file": "apm.md",
             "mode": "preview"
           }
         },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "package-manager.md",
+                "file": "apm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "package-manager.md",
+                "file": "apm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "package-manager.md"
+                "file": "apm.md"
               }
             }
           },
@@ -165,61 +165,18 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8798a70e834a0a00",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "31efdb74d4a4000a",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "package-manager.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7056075206386186,
-                  "close": true
-                }
-              }
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 308.3597106933594,
-    "collapsed": true
+    "width": 308.3597106933594
   },
   "active": "8dd0dbc8a416c491",
   "lastOpenFiles": [
-    "package-manager.md",
     "apm.md",
-    "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md",
     "atom.md",
+    "package-manager.md",
+    "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md",
     "README.md",
     "topics.md",
     "Untitled.md",
