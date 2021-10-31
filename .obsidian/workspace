@@ -1,18 +1,31 @@
 {
   "main": {
-    "id": "15b1d63fe3caa685",
+    "id": "f896f4cc16c6d6e1",
     "type": "split",
     "children": [
       {
-        "id": "6bf5ff85237e6345",
+        "id": "8dd0dbc8a416c491",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+            "file": "atom.md",
+            "mode": "source"
+          }
+        },
+        "group": "feb223a6cfbdb12b"
+      },
+      {
+        "id": "9fc7ff985f6439cb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "atom.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "feb223a6cfbdb12b"
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+                "file": "atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+                "file": "atom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md"
+                "file": "atom.md"
               }
             }
           },
@@ -165,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+                "file": "atom.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,17 +214,17 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "6bf5ff85237e6345",
+  "active": "8dd0dbc8a416c491",
   "lastOpenFiles": [
-    "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
-    "readItlater/GitHub - sharkdpbat A cat(1) clone with wings..md",
-    "readItlater/Notice 2021-10-30 20-41-56.md",
-    "readItlater/GitHub - jackyzha0quartz 🌱 host your own second brain and digital garden for free.md",
-    "readItlater/GitHub - binnyvagatsby-garden A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes.md",
-    "knowledge management system.md",
-    "readItlater/Fastest Static-Site Generation Web Framework.md",
-    "index.md",
+    "atom.md",
+    "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md",
     "README.md",
-    "Untitled 1.md"
+    "topics.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "assets/atom-logo.png",
+    "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+    "readItlater/GitHub - sharkdpbat A cat(1) clone with wings..md"
   ]
 }
