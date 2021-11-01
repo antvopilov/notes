@@ -14,7 +14,6 @@
   "obsidian-latex",
   "obsidian-dynamic-toc",
   "longform",
-  "obsidian-code-block-enhancer",
   "obsidian-jupyter",
   "obsidian-read-it-later",
   "obsidian-shellcommands",
@@ -36,5 +35,8 @@
   "cm-editor-syntax-highlight-obsidian",
   "find-unlinked-files",
   "obsidian-reminder-plugin",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "obsidian-html-tags-autocomplete",
+  "obsidian-query-language",
+  "obsidian-image-toolkit"
 ]
