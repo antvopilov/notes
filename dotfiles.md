@@ -5,3 +5,4 @@
 ```sh
 brew install zsh
 ```
+<kbd>e</kbd>
