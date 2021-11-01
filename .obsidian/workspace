@@ -7,9 +7,10 @@
         "id": "6056566e0830e397",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "assets/Pasted image 20211101132435.png"
+            "file": "httpie.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Pasted image 20211101132435.png",
+                "file": "httpie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Pasted image 20211101132435.png",
+                "file": "httpie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Pasted image 20211101132435.png"
+                "file": "httpie.md"
               }
             }
           },
@@ -161,15 +162,15 @@
   },
   "active": "6056566e0830e397",
   "lastOpenFiles": [
-    "assets/Pasted image 20211101132435.png",
+    "httpie.md",
     "command-line-interface.md",
+    "assets/cli-logo.png",
     "python-fire.md",
     "macos-xcode-command-line-tools.md",
     "index.md",
     "README.md",
     "atom.md",
     "apm.md",
-    "package-manager.md",
-    "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md"
+    "package-manager.md"
   ]
 }
