@@ -1,5 +1,5 @@
 - <kbd>CapsLock</kbd>+<kbd>;</kbd> - iTerm
 
-<div>
+<kbd>h</kbd>
 
-</div>
+```sh
