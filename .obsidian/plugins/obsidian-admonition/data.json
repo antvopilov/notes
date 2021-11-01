@@ -1,9 +1,9 @@
 {
   "userAdmonitions": {},
-  "syntaxHighlight": false,
-  "copyButton": false,
+  "syntaxHighlight": true,
+  "copyButton": true,
   "version": "6.4.1",
-  "autoCollapse": false,
+  "autoCollapse": true,
   "defaultCollapseType": "open",
   "syncLinks": true,
   "enableMarkdownProcessor": false

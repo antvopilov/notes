@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python.md",
+            "file": "dotfiles.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "f26e2ad29aaa5d36"
+      },
+      {
+        "id": "b202bf5cb127eed9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "dotfiles.md",
+            "mode": "preview"
+          }
+        },
+        "group": "f26e2ad29aaa5d36"
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python.md",
+                "file": "dotfiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python.md",
+                "file": "dotfiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python.md"
+                "file": "dotfiles.md"
               }
             }
           },
@@ -160,8 +173,10 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "eba96990dec7b5b0",
+  "active": "b202bf5cb127eed9",
   "lastOpenFiles": [
+    "dotfiles.md",
+    "readItlater/GitHub - kefranabgreadme-md-generator 📄 CLI that generates beautiful README.md files.md",
     "python.md",
     "README.md",
     "command-line-interface.md",
@@ -169,8 +184,6 @@
     "assets/cli-logo.png",
     "python-fire.md",
     "macos-xcode-command-line-tools.md",
-    "index.md",
-    "atom.md",
-    "apm.md"
+    "index.md"
   ]
 }
