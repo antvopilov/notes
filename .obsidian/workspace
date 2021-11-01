@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dotfiles.md",
+            "file": "iterm2.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dotfiles.md",
+            "file": "iterm2.md",
             "mode": "preview"
           }
         },
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5036334991455,
-    "collapsed": true
+    "width": 207.5036334991455
   },
   "right": {
     "id": "85eb7df0db560104",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dotfiles.md",
+                "file": "iterm2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dotfiles.md",
+                "file": "iterm2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotfiles.md"
+                "file": "iterm2.md"
               }
             }
           },
@@ -173,17 +172,17 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "b202bf5cb127eed9",
+  "active": "eba96990dec7b5b0",
   "lastOpenFiles": [
+    "iterm2.md",
+    "httpie.md",
     "dotfiles.md",
     "readItlater/GitHub - kefranabgreadme-md-generator 📄 CLI that generates beautiful README.md files.md",
     "python.md",
     "README.md",
     "command-line-interface.md",
-    "httpie.md",
     "assets/cli-logo.png",
     "python-fire.md",
-    "macos-xcode-command-line-tools.md",
-    "index.md"
+    "macos-xcode-command-line-tools.md"
   ]
 }
