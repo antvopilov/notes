@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1f2ca7eaecbd4a53",
+        "id": "eba96990dec7b5b0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview"
+            "file": "python.md",
+            "mode": "source"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "python.md"
               }
             }
           },
@@ -160,8 +160,9 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "1f2ca7eaecbd4a53",
+  "active": "eba96990dec7b5b0",
   "lastOpenFiles": [
+    "python.md",
     "README.md",
     "command-line-interface.md",
     "httpie.md",
@@ -170,7 +171,6 @@
     "macos-xcode-command-line-tools.md",
     "index.md",
     "atom.md",
-    "apm.md",
-    "package-manager.md"
+    "apm.md"
   ]
 }
