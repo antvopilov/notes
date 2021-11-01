@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c65456b74e5c4e49",
+        "id": "3d92cc7f810b543b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dotfiles.md",
-            "mode": "source"
+            "file": "homebrew.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dotfiles.md",
+                "file": "homebrew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dotfiles.md",
+                "file": "homebrew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotfiles.md"
+                "file": "homebrew.md"
               }
             }
           },
@@ -159,17 +159,17 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "c65456b74e5c4e49",
+  "active": "3d92cc7f810b543b",
   "lastOpenFiles": [
+    "homebrew.md",
+    "Homebrew.md",
     "dotfiles.md",
-    "assets/dotfiles-logo.png",
     "README.md",
+    "assets/dotfiles-logo.png",
     "iterm2.md",
     "httpie.md",
     "readItlater/GitHub - kefranabgreadme-md-generator 📄 CLI that generates beautiful README.md files.md",
     "python.md",
-    "command-line-interface.md",
-    "assets/cli-logo.png",
-    "python-fire.md"
+    "command-line-interface.md"
   ]
 }

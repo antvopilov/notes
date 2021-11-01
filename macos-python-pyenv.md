@@ -8,7 +8,7 @@
 ## Preparations:
 
 - [[macos-xcode-command-line-tools#Install]]
-- [[macos-homebrew#Install]]
+- [[homebrew#Install]]
 - `brew install openssl readline sqlite3 xz zlib`
 - `brew update && brew upgrade`
 - `brew doctor`

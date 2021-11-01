@@ -6,7 +6,7 @@
 
 [[macos-xcode-command-line-tools]]
 [[macos-xcode]]
-[[macos-homebrew]]
+[[homebrew]]
 [[macos-python]]
 [[macos-python-pyenv]]
 

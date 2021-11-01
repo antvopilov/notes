@@ -1,11 +1,12 @@
+---
+Aliases: 
+- Homebrew
+- brew
+- brew.sh
+---
 
 
-[[macos-setup]]
-
-
-![homebrew-logo](https://brew.sh/assets/img/homebrew-256x256.png)
-
-# Homebrew
+# [[homebrew|Homebrew]]
 
 **The Missing Package Manager for macOS (or Linux)**
 
