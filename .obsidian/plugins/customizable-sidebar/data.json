@@ -1,0 +1,10 @@
+{
+  "sidebarCommands": [
+    {
+      "id": "open-with-default-app:show",
+      "name": "Open in default app: Show in system explorer",
+      "icon": "file-explorer-glyph"
+    }
+  ],
+  "hiddenCommands": []
+}

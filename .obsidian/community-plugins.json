@@ -17,7 +17,6 @@
   "obsidian-jupyter",
   "obsidian-read-it-later",
   "obsidian-shellcommands",
-  "obsidian-admonition",
   "obsidian-autocomplete-plugin",
   "buttons",
   "obsidian-excalidraw-plugin",
@@ -41,5 +40,9 @@
   "obsidian-image-toolkit",
   "customizable-sidebar",
   "txt-as-md-obsidian",
-  "obsidian-pluck"
+  "obsidian-pluck",
+  "obsidian-admonition",
+  "obsidian-codemirror-options",
+  "code-block-copy",
+  "emoji-shortcodes"
 ]

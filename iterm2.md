@@ -1,8 +1,10 @@
 ---
 type: application
 ---
+
 brew install --cask iterm2
 
 ```shell
-brew 
+brew install iterm2
 ```
+

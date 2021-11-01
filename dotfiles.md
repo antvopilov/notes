@@ -3,9 +3,9 @@
 
 <kbd>h</kbd>
 
-```sh
+```shell
 brew install zsh
 ```
 
+<kbd>Enter</kbd>
 
-[[index]]
