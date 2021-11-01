@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dotfiles.md",
+            "file": "homebrew.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dotfiles.md",
+                "file": "homebrew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dotfiles.md",
+                "file": "homebrew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotfiles.md"
+                "file": "homebrew.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "89dda436eaadb561",
   "lastOpenFiles": [
-    "dotfiles.md",
     "homebrew.md",
+    "dotfiles.md",
     "brew.sh.md",
     "Homebrew.md",
     "README.md",
