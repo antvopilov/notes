@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "543c95ff01148056",
+        "id": "c65456b74e5c4e49",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dotfiles.md",
-            "mode": "source"
-          }
-        },
-        "group": "cad75d4ab4abd0da"
-      },
-      {
-        "id": "af4148a644e811f2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dotfiles.md",
+            "file": "README.md",
             "mode": "preview"
           }
-        },
-        "group": "cad75d4ab4abd0da"
+        }
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dotfiles.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dotfiles.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotfiles.md"
+                "file": "README.md"
               }
             }
           },
@@ -172,10 +159,10 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "543c95ff01148056",
+  "active": "c65456b74e5c4e49",
   "lastOpenFiles": [
-    "dotfiles.md",
     "README.md",
+    "dotfiles.md",
     "iterm2.md",
     "httpie.md",
     "readItlater/GitHub - kefranabgreadme-md-generator 📄 CLI that generates beautiful README.md files.md",
