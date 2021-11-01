@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6056566e0830e397",
+        "id": "1f2ca7eaecbd4a53",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "httpie.md",
-            "mode": "source"
+            "file": "README.md",
+            "mode": "preview"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "httpie.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "httpie.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "httpie.md"
+                "file": "README.md"
               }
             }
           },
@@ -160,15 +160,15 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "6056566e0830e397",
+  "active": "1f2ca7eaecbd4a53",
   "lastOpenFiles": [
-    "httpie.md",
+    "README.md",
     "command-line-interface.md",
+    "httpie.md",
     "assets/cli-logo.png",
     "python-fire.md",
     "macos-xcode-command-line-tools.md",
     "index.md",
-    "README.md",
     "atom.md",
     "apm.md",
     "package-manager.md"
