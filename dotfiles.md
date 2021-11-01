@@ -7,5 +7,5 @@
 brew install zsh
 ```
 
-```bash
 
+[[index]]
