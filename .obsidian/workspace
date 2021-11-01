@@ -7,10 +7,9 @@
         "id": "6056566e0830e397",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "assets/Pasted image 20211101132435.png"
           }
         }
       }
@@ -68,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5036334991455
+    "width": 207.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "85eb7df0db560104",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "assets/Pasted image 20211101132435.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "assets/Pasted image 20211101132435.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "assets/Pasted image 20211101132435.png"
               }
             }
           },
@@ -156,19 +156,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.3597106933594
+    "width": 308.3597106933594,
+    "collapsed": true
   },
   "active": "6056566e0830e397",
   "lastOpenFiles": [
+    "assets/Pasted image 20211101132435.png",
+    "command-line-interface.md",
+    "python-fire.md",
+    "macos-xcode-command-line-tools.md",
+    "index.md",
     "README.md",
     "atom.md",
     "apm.md",
     "package-manager.md",
-    "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md",
-    "topics.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "assets/atom-logo.png"
+    "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md"
   ]
 }
