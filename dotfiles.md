@@ -9,3 +9,4 @@ brew install zsh
 
 <kbd>Enter</kbd>
 
+![[github-original-wordmark.svg]]
