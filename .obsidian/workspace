@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "homebrew.md",
-            "mode": "preview"
+            "file": "dotfiles.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "homebrew.md",
+                "file": "dotfiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "homebrew.md",
+                "file": "dotfiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homebrew.md"
+                "file": "dotfiles.md"
               }
             }
           },
@@ -161,10 +161,10 @@
   },
   "active": "89dda436eaadb561",
   "lastOpenFiles": [
+    "dotfiles.md",
     "homebrew.md",
     "brew.sh.md",
     "Homebrew.md",
-    "dotfiles.md",
     "README.md",
     "assets/dotfiles-logo.png",
     "iterm2.md",
