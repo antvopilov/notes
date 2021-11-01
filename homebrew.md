@@ -5,8 +5,9 @@ Aliases:
 - brew.sh
 ---
 
+![[homebrew.svg|200]]
 
-# [[homebrew|Homebrew]]
+# [Homebrew](https://brew.sh/)
 
 **The Missing Package Manager for macOS (or Linux)**
 
@@ -26,6 +27,6 @@ Aliases:
 ## Resources
 
 
-https://brew.sh/
+
 
 https://wilsonmar.github.io/macos-homebrew/

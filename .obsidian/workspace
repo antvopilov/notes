@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3d92cc7f810b543b",
+        "id": "89dda436eaadb561",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -159,9 +159,10 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "3d92cc7f810b543b",
+  "active": "89dda436eaadb561",
   "lastOpenFiles": [
     "homebrew.md",
+    "brew.sh.md",
     "Homebrew.md",
     "dotfiles.md",
     "README.md",
@@ -169,7 +170,6 @@
     "iterm2.md",
     "httpie.md",
     "readItlater/GitHub - kefranabgreadme-md-generator 📄 CLI that generates beautiful README.md files.md",
-    "python.md",
-    "command-line-interface.md"
+    "python.md"
   ]
 }
