@@ -16,6 +16,6 @@ Combine the power of Quasar UI with Quasar CLI. One source code for all platform
 
 Consumes a source icon and automatically clones, scales, minifies and places the (needed) 100+ generated icons and splash screens in the appropriate directories for you.
 
-[IconGenie](app://obsidian.md/icongenie/introduction)
+[[app://obsidian.md/icongenie/introduction|IconGenie]]
 
 Copyright © 2015 - 2021 PULSARDEV SRL, Razvan Stoenescu

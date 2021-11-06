@@ -2,7 +2,7 @@
 
 # [GitHub - devicons/devicon: Set of icons representing programming languages, designing & development tools](https://github.com/devicons/devicon/)
 
- [![GitHub release (latest by semver)](https://camo.githubusercontent.com/1f8445b94943bf225b94b0eea97a43fb2b9f31f004d6a1a8afc170f5e30f8bcc/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f64657669636f6e732f64657669636f6e3f636f6c6f723d253233363062653836266c6162656c3d4c617465737425323072656c65617365267374796c653d666f722d7468652d626164676526736f72743d73656d766572)](https://github.com/devicons/devicon/releases) [ ![GitHub](https://camo.githubusercontent.com/de5b304d41faac72002e261f1e880ddb16ba631f85e990adec159379e7e04e40/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f64657669636f6e732f64657669636f6e3f636f6c6f723d253233363062653836267374796c653d666f722d7468652d6261646765) ](https://github.com/devicons/devicon/blob/master/LICENSE) [ ![GitHub contributors](https://camo.githubusercontent.com/3fb75309fa3cba1633c69c46965a11093ed6fe26047544c321bb016e92983e6e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732d616e6f6e2f64657669636f6e732f64657669636f6e3f636f6c6f723d253233363062653836267374796c653d666f722d7468652d6261646765) ](https://github.com/devicons/devicon/graphs/contributors) [ ![GitHub branch checks state](https://camo.githubusercontent.com/337d4f2138653d74f6dd1728e129232a969a6daf1f57076c6a48e26f3c0062d2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636865636b732d7374617475732f64657669636f6e732f64657669636f6e2f6d61737465723f636f6c6f723d253233363062653836267374796c653d666f722d7468652d6261646765) ](https://github.com/devicons/devicon/actions) [ ![GitHub issues by-label](https://camo.githubusercontent.com/74a83a9d2cb8d8a777e7a2fb0d7c900da2c0e5e89a2fb1fd7497d71544947f8f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f64657669636f6e732f64657669636f6e2f726571756573743a69636f6e3f636f6c6f723d253233363062653836266c6162656c3d69636f6e2532307265717565737473267374796c653d666f722d7468652d6261646765) ](https://github.com/devicons/devicon/issues?q=is%3Aopen+is%3Aissue+label%3Arequest%3Aicon) [![GitHub Repo stars](https://camo.githubusercontent.com/6adaadd57ff98025d54021f7615a43bf086296a4f2c5d4a145c9134e95208355/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f64657669636f6e732f64657669636f6e3f636f6c6f723d253233363062653836266c6162656c3d6769746875622532307374617273267374796c653d666f722d7468652d6261646765)](https://github.com/devicons/devicon/stargazers) 
+ [[latest by semver)](https://camo.githubusercontent.com/1f8445b94943bf225b94b0eea97a43fb2b9f31f004d6a1a8afc170f5e30f8bcc/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f64657669636f6e732f64657669636f6e3f636f6c6f723d253233363062653836266c6162656c3d4c617465737425323072656c65617365267374796c653d666f722d7468652d626164676526736f72743d73656d766572|![GitHub release (latest by semver)]]](https://github.com/devicons/devicon/releases) [ ![GitHub](https://camo.githubusercontent.com/de5b304d41faac72002e261f1e880ddb16ba631f85e990adec159379e7e04e40/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f64657669636f6e732f64657669636f6e3f636f6c6f723d253233363062653836267374796c653d666f722d7468652d6261646765) ](https://github.com/devicons/devicon/blob/master/LICENSE) [ ![GitHub contributors](https://camo.githubusercontent.com/3fb75309fa3cba1633c69c46965a11093ed6fe26047544c321bb016e92983e6e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732d616e6f6e2f64657669636f6e732f64657669636f6e3f636f6c6f723d253233363062653836267374796c653d666f722d7468652d6261646765) ](https://github.com/devicons/devicon/graphs/contributors) [ ![GitHub branch checks state](https://camo.githubusercontent.com/337d4f2138653d74f6dd1728e129232a969a6daf1f57076c6a48e26f3c0062d2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636865636b732d7374617475732f64657669636f6e732f64657669636f6e2f6d61737465723f636f6c6f723d253233363062653836267374796c653d666f722d7468652d6261646765) ](https://github.com/devicons/devicon/actions) [ ![GitHub issues by-label](https://camo.githubusercontent.com/74a83a9d2cb8d8a777e7a2fb0d7c900da2c0e5e89a2fb1fd7497d71544947f8f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f64657669636f6e732f64657669636f6e2f726571756573743a69636f6e3f636f6c6f723d253233363062653836266c6162656c3d69636f6e2532307265717565737473267374796c653d666f722d7468652d6261646765) ](https://github.com/devicons/devicon/issues?q=is%3Aopen+is%3Aissue+label%3Arequest%3Aicon) [![GitHub Repo stars](https://camo.githubusercontent.com/6adaadd57ff98025d54021f7615a43bf086296a4f2c5d4a145c9134e95208355/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f64657669636f6e732f64657669636f6e3f636f6c6f723d253233363062653836266c6162656c3d6769746875622532307374617273267374796c653d666f722d7468652d6261646765)](https://github.com/devicons/devicon/stargazers) 
 
   
 
@@ -10,7 +10,7 @@
 
 ##### devicon aims to gather all logos representing development languages and tools.
 
-[Demo](https://devicon.dev/) · [Request Icon](https://github.com/devicons/devicon/issues/new?assignees=&labels=request%3Aicon&template=icon-request.md&title=Icon+request%3A+%5BNAME%5D) · [Contribute](https://github.com/#contribute)
+[Demo](https://devicon.dev/) · [Request Icon](https://github.com/devicons/devicon/issues/new?assignees=&labels=request%3Aicon&template=icon-request.md&title=Icon+request%3A+%5BNAME%5D) · [[https://github.com/#contribute]]
 
 ## TL;DR;
 
@@ -22,14 +22,14 @@
 
 ## Table of Contents
 
-1.  [About the project](https://github.com/#about)
-2.  [Getting started](https://github.com/#getting-started)
-3.  [Requesting icon](https://github.com/#request-icon)
-4.  [Contributing](https://github.com/#contribute)
-5.  [Discord server](https://github.com/#discord-server)
-6.  [`develop` vs `master`](https://github.com/#develop-vs-master)
-7.  [Stale pull requests](https://github.com/#stale-prs)
-8.  [Go build yourself](https://github.com/#build-yourself)
+1.  [[https://github.com/#about]]
+2.  [[https://github.com/#getting-started]]
+3.  [[https://github.com/#request-icon]]
+4.  [[https://github.com/#contribute]]
+5.  [[https://github.com/#discord-server]]
+6.  [[https://github.com/#develop-vs-master]]
+7.  [[https://github.com/#stale-prs]]
+8.  [[https://github.com/#build-yourself]]
 
 ## About the project
 
@@ -39,12 +39,12 @@ See the [devicon.json](https://github.com/devicons/devicon/blob/master/devicon.j
 
 All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement. Usage of these logos should be done according to the company/brand/service's brand policy.
 
-Thank you to our contributors and the [IcoMoon app](https://icomoon.io/#home). Devicon would not be possible without you.
+Thank you to our contributors and the [[https://icomoon.io/#home]]. Devicon would not be possible without you.
 
 ## Getting started
 
 For a super fast setup go check [devicon.dev](https://devicon.dev/).  
-You can either [use the raw SVG](https://github.com/#getting-started-svg) icons or our [devicon font](https://github.com/#getting-started-font) (which is also available via CDN).
+You can either [[https://github.com/#getting-started-svg]] icons or our [[https://github.com/#getting-started-font]] (which is also available via CDN).
 
 #### Use the `devicon` font (recommended)
 
@@ -97,7 +97,7 @@ Add css rules in your stylesheet
 
 ## Requesting icon
 
-When you want to request a icon please feel feel to create a issue. See our [contribution guidelines](https://github.com/devicons/devicon/blob/master/CONTRIBUTING.md#requestingIcon) for more information.
+When you want to request a icon please feel feel to create a issue. See our [[https://github.com/devicons/devicon/blob/master/CONTRIBUTING.md#requestingIcon]] for more information.
 
 ## Contributing
 
@@ -136,7 +136,7 @@ Install gulp (and gulp plugins)
 
 ##### Build the font and export stylesheet
 
-Open [icomoon.io](https://icomoon.io/app/#/select) and import [icomoon.json](https://github.com/devicons/devicon/blob/master/icomoon.json). Choose _yes_ when being asked if you would like to restore the settings stored in the configuration file.
+Open [[https://icomoon.io/app/#/select]] and import [icomoon.json](https://github.com/devicons/devicon/blob/master/icomoon.json). Choose _yes_ when being asked if you would like to restore the settings stored in the configuration file.
 
 The next step is to click on **Generate font** and download the resulting archive. Extract the contents and you will find a [fonts](https://github.com/devicons/devicon/blob/master/fonts) directory next to a `style.css`. Replace the contents of the `fonts` folder, rename `style.css` as [devicon.css](https://github.com/devicons/devicon/blob/master/devicon.css) and follow the next step to build the final stylesheet.
 

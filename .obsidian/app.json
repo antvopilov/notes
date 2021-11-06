@@ -11,6 +11,6 @@
   "communityPluginSortOrder": "release",
   "foldIndent": true,
   "fileSortOrder": "alphabetical",
-  "newLinkFormat": "relative",
+  "newLinkFormat": "shortest",
   "newFileLocation": "current"
 }

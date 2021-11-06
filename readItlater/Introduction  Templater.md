@@ -6,7 +6,7 @@
 
 With [Templater](https://github.com/SilentVoid13/Templater), you will be able to create powerful templates to automate manual tasks.
 
-## Quick Example[#](https://silentvoid13.github.io/#quick-example "Direct link to heading")
+## Quick Example[[https://silentvoid13.github.io/#](https://silentvoid13.github.io/#quick-example "Direct link to heading"]]
 
 The following template file, that is using [Templater](https://github.com/SilentVoid13/Templater) template syntax:
 

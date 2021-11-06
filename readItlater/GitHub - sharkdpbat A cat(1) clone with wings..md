@@ -1,12 +1,12 @@
 [[ReadItLater]] [[Article]]
 
-# [GitHub - sharkdp/bat: A cat(1) clone with wings.](https://github.com/sharkdp/bat)
+# [[1) clone with wings.](https://github.com/sharkdp/bat|GitHub - sharkdp/bat: A cat(1) clone with wings.]]
 
 [![bat - a cat clone with wings](https://github.com/sharkdp/bat/raw/master/doc/logo-header.svg)](https://github.com/sharkdp/bat/blob/master/doc/logo-header.svg)  
 [![Build Status](https://github.com/sharkdp/bat/workflows/CICD/badge.svg)](https://github.com/sharkdp/bat/actions?query=workflow%3ACICD) [![license](https://camo.githubusercontent.com/4718d2a1e7a54c33732310613b2e2e8d8ef70c25e3e27406d1df79466b6b603d/68747470733a2f2f696d672e736869656c64732e696f2f6372617465732f6c2f6261742e737667)](https://camo.githubusercontent.com/4718d2a1e7a54c33732310613b2e2e8d8ef70c25e3e27406d1df79466b6b603d/68747470733a2f2f696d672e736869656c64732e696f2f6372617465732f6c2f6261742e737667) [![Version info](https://camo.githubusercontent.com/295b01f4d06e6db8b2fd1578ee2827e4f953fe7b63578b3a9c810d8cb0d3abcb/68747470733a2f2f696d672e736869656c64732e696f2f6372617465732f762f6261742e7376673f636f6c6f72423d333139653863)](https://crates.io/crates/bat)  
 A _cat(1)_ clone with syntax highlighting and Git integration.
 
-[Key Features](https://github.com/#syntax-highlighting) • [How To Use](https://github.com/#how-to-use) • [Installation](https://github.com/#installation) • [Customization](https://github.com/#customization) • [Project goals, alternatives](https://github.com/#project-goals-and-alternatives)  
+[[https://github.com/#syntax-highlighting]] • [[https://github.com/#how-to-use]] • [[https://github.com/#installation]] • [[https://github.com/#customization]] • [[https://github.com/#project-goals-and-alternatives]]  
 [English] [[中文](https://github.com/chinanf-boy/bat-zh)] [[日本語](https://github.com/sharkdp/bat/blob/master/doc/README-ja.md)] [[한국어](https://github.com/sharkdp/bat/blob/master/doc/README-ko.md)] [[Русский](https://github.com/sharkdp/bat/blob/master/doc/README-ru.md)]
 
 ### Syntax highlighting
@@ -69,7 +69,7 @@ You can use `bat` as a previewer for [`fzf`](https://github.com/junegunn/fzf). T
 
 fzf --preview 'bat --color=always --style=numbers --line-range=:500 {}'
 
-For more information, see [`fzf`s `README`](https://github.com/junegunn/fzf#preview-window).
+For more information, see [[https://github.com/junegunn/fzf#preview-window]].
 
 #### `find` or `fd`
 
@@ -142,7 +142,7 @@ The [`prettybat`](https://github.com/eth-p/bat-extras/blob/master/doc/prettybat.
 
 _... and other Debian-based Linux distributions._
 
-`bat` is available on [Ubuntu since 20.04 ("Focal")](https://packages.ubuntu.com/search?keywords=bat&exact=1) and [Debian since August 2021 (Debian 11 - "Bullseye")](https://packages.debian.org/bullseye/bat).
+`bat` is available on [["Focal")](https://packages.ubuntu.com/search?keywords=bat&exact=1|Ubuntu since 20.04 ("Focal")]] and [[Debian 11 - "Bullseye")](https://packages.debian.org/bullseye/bat|Debian since August 2021 (Debian 11 - "Bullseye")]].
 
 If your Ubuntu/Debian installation is new enough you can simply run:
 
@@ -198,7 +198,7 @@ make install
 
 ### On OpenBSD
 
-You can install `bat` package using [`pkg_add(1)`](https://man.openbsd.org/pkg_add.1):
+You can install `bat` package using [[1)`](https://man.openbsd.org/pkg_add.1|`pkg_add(1)`]]:
 
 ### Via nix
 
@@ -222,7 +222,7 @@ Or install `bat` with [MacPorts](https://ports.macports.org/port/bat/summary):
 
 ### On Windows
 
-There are a few options to install `bat` on Windows. Once you have installed `bat`, take a look at the ["Using `bat` on Windows"](https://github.com/#using-bat-on-windows) section.
+There are a few options to install `bat` on Windows. Once you have installed `bat`, take a look at the [[https://github.com/#using-bat-on-windows]] section.
 
 #### Prerequisites
 
@@ -258,17 +258,17 @@ Note that additional files like the man page or shell completion files can not b
 
 ### Highlighting theme
 
-Use `bat --list-themes` to get a list of all available themes for syntax highlighting. To select the `TwoDark` theme, call `bat` with the `--theme=TwoDark` option or set the `BAT_THEME` environment variable to `TwoDark`. Use `export BAT_THEME="TwoDark"` in your shell's startup file to make the change permanent. Alternatively, use `bat`s [configuration file](https://github.com/sharkdp/bat#configuration-file).
+Use `bat --list-themes` to get a list of all available themes for syntax highlighting. To select the `TwoDark` theme, call `bat` with the `--theme=TwoDark` option or set the `BAT_THEME` environment variable to `TwoDark`. Use `export BAT_THEME="TwoDark"` in your shell's startup file to make the change permanent. Alternatively, use `bat`s [[https://github.com/sharkdp/bat#configuration-file]].
 
 If you want to preview the different themes on a custom file, you can use the following command (you need [`fzf`](https://github.com/junegunn/fzf) for this):
 
 bat --list-themes | fzf --preview="bat --theme={} --color=always /path/to/file"
 
-`bat` looks good on a dark background by default. However, if your terminal uses a light background, some themes like `GitHub` or `OneHalfLight` will work better for you. You can also use a custom theme by following the ['Adding new themes' section below](https://github.com/sharkdp/bat#adding-new-themes).
+`bat` looks good on a dark background by default. However, if your terminal uses a light background, some themes like `GitHub` or `OneHalfLight` will work better for you. You can also use a custom theme by following the [[https://github.com/sharkdp/bat#adding-new-themes]].
 
 ### 8-bit themes
 
-`bat` has three themes that always use [8-bit colors](https://en.wikipedia.org/wiki/ANSI_escape_code#Colors), even when truecolor support is available:
+`bat` has three themes that always use [[https://en.wikipedia.org/wiki/ANSI_escape_code#Colors]], even when truecolor support is available:
 
 -   `ansi` looks decent on any terminal. It uses 3-bit colors: black, red, green, yellow, blue, magenta, cyan, and white.
 -   `base16` is designed for [base16](https://github.com/chriskempson/base16) terminal themes. It uses 4-bit colors (3-bit colors plus bright variants) in accordance with the [base16 styling guidelines](https://github.com/chriskempson/base16/blob/master/styling.md).
@@ -282,7 +282,7 @@ Although these themes are more restricted, they have three advantages over truec
 
 ### Output style
 
-You can use the `--style` option to control the appearance of `bat`s output. You can use `--style=numbers,changes`, for example, to show only Git changes and line numbers but no grid and no file header. Set the `BAT_STYLE` environment variable to make these changes permanent or use `bat`s [configuration file](https://github.com/sharkdp/bat#configuration-file).
+You can use the `--style` option to control the appearance of `bat`s output. You can use `--style=numbers,changes`, for example, to show only Git changes and line numbers but no grid and no file header. Set the `BAT_STYLE` environment variable to make these changes permanent or use `bat`s [[https://github.com/sharkdp/bat#configuration-file]].
 
 ### Adding new syntaxes / language definitions
 
@@ -355,7 +355,7 @@ If you want to pass command-line arguments to the pager, you can also set them v
 
 export BAT_PAGER="less -RF"
 
-Instead of using environment variables, you can also use `bat`s [configuration file](https://github.com/sharkdp/bat#configuration-file) to configure the pager (`--pager` option).
+Instead of using environment variables, you can also use `bat`s [[https://github.com/sharkdp/bat#configuration-file]] to configure the pager (`--pager` option).
 
 **Note**: By default, if the pager is set to `less` (and no command-line options are specified), `bat` will pass the following command line options to the pager: `-R`/`--RAW-CONTROL-CHARS`, `-F`/`--quit-if-one-screen` and `-X`/`--no-init`. The last option (`-X`) is only used for `less` versions older than 530.
 
@@ -415,11 +415,11 @@ You will need to install the [Visual C++ Redistributable](https://support.micros
 
 ### Paging
 
-Windows only includes a very limited pager in the form of `more`. You can download a Windows binary for `less` [from its homepage](http://www.greenwoodsoftware.com/less/download.html) or [through Chocolatey](https://chocolatey.org/packages/Less). To use it, place the binary in a directory in your `PATH` or [define an environment variable](https://github.com/#using-a-different-pager). The [Chocolatey package](https://github.com/#on-windows) installs `less` automatically.
+Windows only includes a very limited pager in the form of `more`. You can download a Windows binary for `less` [from its homepage](http://www.greenwoodsoftware.com/less/download.html) or [through Chocolatey](https://chocolatey.org/packages/Less). To use it, place the binary in a directory in your `PATH` or [[https://github.com/#using-a-different-pager]]. The [[https://github.com/#on-windows]] installs `less` automatically.
 
 ### Colors
 
-Windows 10 natively supports colors in both `conhost.exe` (Command Prompt) and PowerShell since [v1511](https://en.wikipedia.org/wiki/Windows_10_version_history#Version_1511_(November_Update)), as well as in newer versions of bash. On earlier versions of Windows, you can use [Cmder](http://cmder.net/), which includes [ConEmu](https://conemu.github.io/).
+Windows 10 natively supports colors in both `conhost.exe` (Command Prompt) and PowerShell since [[November_Update]]), as well as in newer versions of bash. On earlier versions of Windows, you can use [Cmder](http://cmder.net/|[https://en.wikipedia.org/wiki/Windows_10_version_history#Version_1511_(November_Update]], which includes [ConEmu](https://conemu.github.io/).
 
 **Note:** The Git and MSYS versions of `less` do not correctly interpret colors on Windows. If you don’t have any other pagers installed, you can disable paging entirely by passing `--paging=never` or by setting `BAT_PAGER` to an empty string.
 
@@ -445,7 +445,7 @@ bat() {
 
 ### Terminals & colors
 
-`bat` handles terminals _with_ and _without_ truecolor support. However, the colors in most syntax highlighting themes are not optimized for 8-bit colors. It is therefore strongly recommended that you use a terminal with 24-bit truecolor support (`terminator`, `konsole`, `iTerm2`, ...), or use one of the basic [8-bit themes](https://github.com/#8-bit-themes) designed for a restricted set of colors. See [this article](https://gist.github.com/XVilka/8346728) for more details and a full list of terminals with truecolor support.
+`bat` handles terminals _with_ and _without_ truecolor support. However, the colors in most syntax highlighting themes are not optimized for 8-bit colors. It is therefore strongly recommended that you use a terminal with 24-bit truecolor support (`terminator`, `konsole`, `iTerm2`, ...), or use one of the basic [[https://github.com/#8-bit-themes]] designed for a restricted set of colors. See [this article](https://gist.github.com/XVilka/8346728) for more details and a full list of terminals with truecolor support.
 
 Make sure that your truecolor terminal sets the `COLORTERM` variable to either `truecolor` or `24bit`. Otherwise, `bat` will not be able to determine whether or not 24-bit escape sequences are supported (and fall back to 8-bit colors).
 

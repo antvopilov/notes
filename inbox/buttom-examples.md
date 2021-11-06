@@ -19,7 +19,7 @@ color blue
 ```  
 ^button-spellcheck
 
-### [](https://github.com/shabegom/buttons#link-button)Link Button
+### [[https://github.com/shabegom/buttons#link-button]]Link Button
 
 Open the Obsidian Forum:
 
@@ -30,9 +30,9 @@ action [forum.obsidian.md](https://forum.obsidian.md/)
 ```  
 ^button-forum
 
-### [](https://github.com/shabegom/buttons#template--line-button)Template & Line Button
+### [[https://github.com/shabegom/buttons#template--line-button]]Template & Line Button
 
-#### [](https://github.com/shabegom/buttons#append)Append
+#### [[https://github.com/shabegom/buttons#append]]Append
 
 Append a Log Template Note:
 
@@ -52,7 +52,7 @@ action <% tp.date.now("HH:mm") %>
 templater true  
 ```
 
-#### [](https://github.com/shabegom/buttons#prepend-template)Prepend Template
+#### [[https://github.com/shabegom/buttons#prepend-template]]Prepend Template
 
 Replace a Weather Template Note with the updated Weather:
 
@@ -94,7 +94,7 @@ Event better, setup those buttons and then add them all on one line as Inline Bu
 
 `button-mon` `button-tues` `button-wed`
 
-### [](https://github.com/shabegom/buttons#add-template-at-line)Add Template at Line
+### [[https://github.com/shabegom/buttons#add-template-at-line]]Add Template at Line
 
 Say you want the weather to appear at a specific place in your note that isn't directly beside the button:
 
@@ -106,7 +106,7 @@ replace [1,5]
 ```  
 ^button-weatherLine
 
-#### [](https://github.com/shabegom/buttons#new-note-from-template)New Note From Template
+#### [[https://github.com/shabegom/buttons#new-note-from-template]]New Note From Template
 
 Create a new note for an upcoming meeting based on a Meeting Note Template:
 

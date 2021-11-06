@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4e5fcb8638fe2622",
+        "id": "b2ac918d6afb12b1",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -144,17 +144,17 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "4e5fcb8638fe2622",
+  "active": "b2ac918d6afb12b1",
   "lastOpenFiles": [
-    "cookiecutter.md",
+    "python/python.md",
+    "mkdocs/mkdocs.md",
     "index.md",
+    "package-manager/package-manager.md",
+    "cookiecutter.md",
     "youtube.md",
     "README.md",
     "dash.md",
     "obsidian/obsidian-themes.md",
-    "hugo-themes.md",
-    "hugo.md",
-    "package-manager/conda.md",
-    "package-manager/package-manager.md"
+    "hugo-themes.md"
   ]
 }

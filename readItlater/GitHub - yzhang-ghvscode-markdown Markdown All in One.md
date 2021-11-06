@@ -12,27 +12,27 @@ _**Note**_: VS Code has basic Markdown support out-of-the-box (e.g, **Markdown p
 
 **Table of Contents**
 
--   [Features](https://github.com/#features)
-    -   [Keyboard shortcuts](https://github.com/#keyboard-shortcuts)
-    -   [Table of contents](https://github.com/#table-of-contents)
-    -   [List editing](https://github.com/#list-editing)
-    -   [Print Markdown to HTML](https://github.com/#print-markdown-to-html)
-    -   [GitHub Flavored Markdown](https://github.com/#github-flavored-markdown)
-    -   [Math](https://github.com/#math)
-    -   [Auto completions](https://github.com/#auto-completions)
-    -   [Others](https://github.com/#others)
--   [Available Commands](https://github.com/#available-commands)
--   [Keyboard Shortcuts](https://github.com/#keyboard-shortcuts-1)
--   [Supported Settings](https://github.com/#supported-settings)
--   [FAQ](https://github.com/#faq)
-    -   [Q: Error "command 'markdown.extension.onXXXKey' not found"](https://github.com/#q-error-command-markdownextensiononxxxkey-not-found)
-    -   [Q: Which Markdown syntax is supported?](https://github.com/#q-which-markdown-syntax-is-supported)
-    -   [Q: This extension has overridden some of my key bindings (e.g. Ctrl + B, Alt + C)](https://github.com/#q-this-extension-has-overridden-some-of-my-key-bindings-eg-ctrl--b-alt--c)
-    -   [Q: The extension is unresponsive, causing lag etc. (performance issues)](https://github.com/#q-the-extension-is-unresponsive-causing-lag-etc-performance-issues)
--   [Changelog](https://github.com/#changelog)
--   [Latest Development Build](https://github.com/#latest-development-build)
--   [Contributing](https://github.com/#contributing)
--   [Related](https://github.com/#related)
+-   [[https://github.com/#features]]
+    -   [[https://github.com/#keyboard-shortcuts]]
+    -   [[https://github.com/#table-of-contents]]
+    -   [[https://github.com/#list-editing]]
+    -   [[https://github.com/#print-markdown-to-html]]
+    -   [[https://github.com/#github-flavored-markdown]]
+    -   [[https://github.com/#math]]
+    -   [[https://github.com/#auto-completions]]
+    -   [[https://github.com/#others]]
+-   [[https://github.com/#available-commands]]
+-   [[https://github.com/#keyboard-shortcuts-1]]
+-   [[https://github.com/#supported-settings]]
+-   [[https://github.com/#faq]]
+    -   [[https://github.com/#q-error-command-markdownextensiononxxxkey-not-found]]
+    -   [[https://github.com/#q-which-markdown-syntax-is-supported]]
+    -   [[https://github.com/#q-this-extension-has-overridden-some-of-my-key-bindings-eg-ctrl--b-alt--c]]
+    -   [[https://github.com/#q-the-extension-is-unresponsive-causing-lag-etc-performance-issues]]
+-   [[https://github.com/#changelog]]
+-   [[https://github.com/#latest-development-build]]
+-   [[https://github.com/#contributing]]
+-   [[https://github.com/#related]]
 
 ## Features
 
@@ -43,13 +43,13 @@ _**Note**_: VS Code has basic Markdown support out-of-the-box (e.g, **Markdown p
 
 [![check task list](https://github.com/yzhang-gh/vscode-markdown/raw/master/images/gifs/check-task-list.gif)](https://github.com/yzhang-gh/vscode-markdown/raw/master/images/gifs/check-task-list.gif)
 
-See full key binding list in the [keyboard shortcuts](https://github.com/#keyboard-shortcuts-1) section
+See full key binding list in the [[https://github.com/#keyboard-shortcuts-1]] section
 
 ### Table of contents
 
 [![toc](https://github.com/yzhang-gh/vscode-markdown/raw/master/images/toc.png)](https://github.com/yzhang-gh/vscode-markdown/raw/master/images/toc.png)
 
--   Run command "**Create Table of Contents**" (in the [VS Code Command Palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette)) to insert a new table of contents.
+-   Run command "**Create Table of Contents**" (in the [[https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette]]) to insert a new table of contents.
     
 -   The TOC is **automatically updated** on file save by default. To disable, please change the `toc.updateOnSave` option.
     
@@ -102,7 +102,7 @@ See full key binding list in the [keyboard shortcuts](https://github.com/#keyboa
 
 [![fix ordered list markers](https://github.com/yzhang-gh/vscode-markdown/raw/master/images/gifs/fix-marker.gif)](https://github.com/yzhang-gh/vscode-markdown/raw/master/images/gifs/fix-marker.gif)
 
-_**Note**_: By default, this extension tries to determine indentation size for different lists according to [CommonMark Spec](https://spec.commonmark.org/0.29/#list-items). If you prefer to use a fixed tab size, please change the `list.indentationSize` setting.
+_**Note**_: By default, this extension tries to determine indentation size for different lists according to [[https://spec.commonmark.org/0.29/#list-items]]. If you prefer to use a fixed tab size, please change the `list.indentationSize` setting.
 
 ### Print Markdown to HTML
 
@@ -123,7 +123,7 @@ _**Note**_: By default, this extension tries to determine indentation size for d
     
     [![table formatter](https://github.com/yzhang-gh/vscode-markdown/raw/master/images/gifs/table-formatter.gif)](https://github.com/yzhang-gh/vscode-markdown/raw/master/images/gifs/table-formatter.gif)
     
-    _**Note**_: The key binding is Ctrl + Shift + I on Linux. See [Visual Studio Code Key Bindings](https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-reference).
+    _**Note**_: The key binding is Ctrl + Shift + I on Linux. See [[https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-reference]].
     
 -   Task lists
     
@@ -391,15 +391,15 @@ Automatically update the table of contents on save.
     3.  Reinstall this extension.
 -   If it doesn't help, feel free to open a new issue on [GitHub](https://github.com/yzhang-gh/vscode-markdown/issues/new/choose). It would be better if you can report any suspicious error information to us: It's usually in VS Code's menubar **Help** > **Toggle Developer Tools** > **Console**.
     
--   (As a last resort, you may choose to delete `onXXXKey` keys through [VS Code's Keyboard Shortcuts editor](https://code.visualstudio.com/docs/getstarted/keybindings) if you do not need the [list editing feature](https://github.com/yzhang-gh/vscode-markdown#list-editing) at all.)
+-   (As a last resort, you may choose to delete `onXXXKey` keys through [VS Code's Keyboard Shortcuts editor](https://code.visualstudio.com/docs/getstarted/keybindings) if you do not need the [[https://github.com/yzhang-gh/vscode-markdown#list-editing]] at all.)
     
 
 #### Q: Which Markdown syntax is supported?
 
 -   [CommonMark](https://spec.commonmark.org/)
--   [Tables](https://help.github.com/articles/organizing-information-with-tables/), [strikethrough](https://help.github.com/articles/basic-writing-and-formatting-syntax/#styling-text) and [task lists](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#task-lists) (from GitHub Flavored Markdown)
--   [Math support](https://github.com/waylonflinn/markdown-it-katex#syntax) (from KaTeX)
--   [Front matter](https://github.com/ParkSB/markdown-it-front-matter#valid-front-matter)
+-   [Tables](https://help.github.com/articles/organizing-information-with-tables/), [[https://help.github.com/articles/basic-writing-and-formatting-syntax/#styling-text]] and [[https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#task-lists]] (from GitHub Flavored Markdown)
+-   [[https://github.com/waylonflinn/markdown-it-katex#syntax]] (from KaTeX)
+-   [[https://github.com/ParkSB/markdown-it-front-matter#valid-front-matter]]
 
 For other Markdown syntax, you need to install the corresponding extensions from VS Code marketplace (e.g. [Mermaid diagram](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid), [emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji), [footnotes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-footnotes) and [superscript](https://marketplace.visualstudio.com/items?itemName=DevHawk.markdown-sup)). Once installed, they will take effect in VS Code and also the exported HTML file.
 
@@ -413,7 +413,7 @@ From experience, there is _a good chance_ that the performance issues are caused
 
 This can be verified if you try again with all other extensions disabled (execute `Developer: Reload with Extensions Disabled` or `Extensions: Disable All Installed Extensions for this Workspace` in the VS Code command Palette) and then enable this extension.
 
-To find out the root cause, you can install our [development build](https://github.com/#latest-development-build) (`debug.vsix`) and create a CPU profile following this official [instruction](https://github.com/microsoft/vscode/wiki/Performance-Issues#profile-the-running-extensions) from the VS Code. And then please open a GitHub issue with that profile (`.cpuprofile.txt`) attached.
+To find out the root cause, you can install our [[https://github.com/#latest-development-build]] (`debug.vsix`) and create a CPU profile following this official [[https://github.com/microsoft/vscode/wiki/Performance-Issues#profile-the-running-extensions]] from the VS Code. And then please open a GitHub issue with that profile (`.cpuprofile.txt`) attached.
 
 ## Changelog
 
@@ -430,7 +430,7 @@ To install, execute `Extensions: Install from VSIX...` in the VS Code Command Pa
 ## Contributing
 
 -   File bugs, feature requests in [GitHub Issues](https://github.com/yzhang-gh/vscode-markdown/issues).
--   Leave a review on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#review-details).
+-   Leave a review on [[https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#review-details]].
 -   Buy me a coffee ☕ (via [PayPal](https://www.paypal.me/2yzhang), [Alipay or WeChat](https://github.com/yzhang-gh/vscode-markdown/blob/master/donate.md)).
 
 Special thanks to the collaborator [@Lemmingh](https://github.com/Lemmingh) and all other [contributors](https://github.com/yzhang-gh/vscode-markdown/graphs/contributors).

@@ -4,6 +4,8 @@ Aliases:
 - Package Managers
 ---
 
+[[index]]
+
 # [[package-manager|Package Managers]]
 
 - [[homebrew/homebrew]]

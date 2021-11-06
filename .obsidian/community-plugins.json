@@ -36,5 +36,6 @@
   "txt-as-md-obsidian",
   "obsidian-admonition",
   "code-block-copy",
-  "emoji-shortcodes"
+  "emoji-shortcodes",
+  "obsidian-link-converter"
 ]

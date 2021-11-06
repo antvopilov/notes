@@ -201,7 +201,7 @@ To walk through what we've done here:
 
 Now fire up the dev server using `gatsby develop`, and you should see your first note displayed there!
 
-[](https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e#wikilinks-and-gatsbyplugincatchlinks) Wikilinks and Gatsby-plugin-catch-links
+[[https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e#wikilinks-and-gatsbyplugincatchlinks]] Wikilinks and Gatsby-plugin-catch-links
 ----------
 
 Right now our site is pretty unimpressive and its functionality is more or less the same as any old markdown blog with posts written in the IDE. We will fix that!
@@ -270,7 +270,7 @@ Enter fullscreen modeExit fullscreen mode
 
 Now the next time you click the link it should be "blazing".
 
-[](https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e#markdown-references) Markdown References
+[[https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e#markdown-references]] Markdown References
 ----------
 
 After installing `gatsby-transformer-markdown-references`, add it to the root level of your gatsby-config (ie, not inside of the gatsby-mdx plugin).  
@@ -333,7 +333,7 @@ Enter fullscreen modeExit fullscreen mode
 Not so hard, right? Our Second Note page should now look like this:  
 [![](https://res.cloudinary.com/practicaldev/image/fetch/s--18wUoc6b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/duyf6yqvr/image/upload/v1602775408/xa4g22ru2ushvpuyatwx.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--18wUoc6b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/duyf6yqvr/image/upload/v1602775408/xa4g22ru2ushvpuyatwx.png)
 
-None of the early MDX config would be worth it if we didn't try out some custom components. The [Gatsby MDX Docs](https://www.gatsbyjs.com/plugins/gatsby-plugin-mdx/#shortcodes) are pretty thorough, so I'll be brief. I'm using the lovely MDX Embed for Gatsby, a [freshly](https://www.gatsbyjs.com/blog/hacktoberfest-spotlight-mdx-embed/) updated plugin worked on by some [really nice people](https://github.com/PaulieScanlon/mdx-embed#-core-team). It requires no imports.
+None of the early MDX config would be worth it if we didn't try out some custom components. The [[https://www.gatsbyjs.com/plugins/gatsby-plugin-mdx/#shortcodes]] are pretty thorough, so I'll be brief. I'm using the lovely MDX Embed for Gatsby, a [freshly](https://www.gatsbyjs.com/blog/hacktoberfest-spotlight-mdx-embed/) updated plugin worked on by some [[https://github.com/PaulieScanlon/mdx-embed#-core-team]]. It requires no imports.
 
 Simply:  
 

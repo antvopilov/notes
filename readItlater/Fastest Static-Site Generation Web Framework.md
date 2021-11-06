@@ -84,14 +84,14 @@ Go from idea to production in less time with Starters, Themes, and over 2500 plu
 
 Gatsby loads only **critical** 1 parts of the page, exactly when the visitor needs it, and not a second sooner. Once loaded, Gatsby **prefetches resources** 2 for other pages so that clicking on the site feels buttery smooth and responsive. Everything is statically generated at runtime - so your site loads as fast as possible.
 
-##### [](https://www.gatsbyjs.com/#span1span-initial-page-load)1 Initial page load
+##### [[https://www.gatsbyjs.com/#span1span-initial-page-load]]1 Initial page load
 
 -   Served from CDN
 -   Instant load
 -   Search engine indexable
 -   Image placeholders
 
-##### [](https://www.gatsbyjs.com/#span2span-gatsby-client-mounts)2 Gatsby client mounts
+##### [[https://www.gatsbyjs.com/#span2span-gatsby-client-mounts]]2 Gatsby client mounts
 
 -   Minimal bootstrap
 -   Full React app with router

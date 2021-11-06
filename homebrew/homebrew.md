@@ -11,7 +11,7 @@ Aliases:
 
 # [[homebrew|Homebrew]]
 
-[The Missing Package Manager for macOS (or Linux) — Homebrew](https://brew.sh/)
+[[or Linux) — Homebrew](https://brew.sh/|The Missing Package Manager for macOS (or Linux) — Homebrew]]
 [Homebrew's installation instructions](https://docs.brew.sh/Installation)
 
 ---

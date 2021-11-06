@@ -8,7 +8,7 @@
 
 [![intro](https://user-images.githubusercontent.com/1908863/28227953-eb6eefa4-68a1-11e7-8769-96ea83facf3b.png)](https://user-images.githubusercontent.com/1908863/28227953-eb6eefa4-68a1-11e7-8769-96ea83facf3b.png)
 
-[English](https://shd101wyy.github.io/markdown-preview-enhanced/#/) [简体中文](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/) [正體中文](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-tw/) [日本語](https://shd101wyy.github.io/markdown-preview-enhanced/#/ja-jp/)   
+[[https://shd101wyy.github.io/markdown-preview-enhanced/#/]] [[https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/]] [[https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-tw/]] [[https://shd101wyy.github.io/markdown-preview-enhanced/#/ja-jp/]]   
 
 [atom](https://atom.io/packages/markdown-preview-enhanced) & [vscode](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 
@@ -16,7 +16,7 @@ If you are interested, please also try out our new prototype web app: [0xGG/cros
 
 ## Supporting this project
 
-Markdown Preview Enhanced is an open source project released under the [University of Illinois/NCSA Open Source License](https://github.com/shd101wyy/markdown-preview-enhanced/blob/master/LICENSE.md). Its ongoing development is made possible thanks to the support by these awesome [backers](https://shd101wyy.github.io/markdown-preview-enhanced/#/backers). You can help make this project better by [supporting us on GitHub Sponsors](https://github.com/sponsors/shd101wyy), [PayPal](https://shd101wyy.github.io/markdown-preview-enhanced/#/paypal), or [微信支付 Wechat Pay](https://shd101wyy.github.io/markdown-preview-enhanced/#/wechat). Thank you!
+Markdown Preview Enhanced is an open source project released under the [University of Illinois/NCSA Open Source License](https://github.com/shd101wyy/markdown-preview-enhanced/blob/master/LICENSE.md). Its ongoing development is made possible thanks to the support by these awesome [[https://shd101wyy.github.io/markdown-preview-enhanced/#/backers]]. You can help make this project better by [supporting us on GitHub Sponsors](https://github.com/sponsors/shd101wyy), [[https://shd101wyy.github.io/markdown-preview-enhanced/#/paypal]], or [[https://shd101wyy.github.io/markdown-preview-enhanced/#/wechat]]. Thank you!
 
 ## Sponsors
 
@@ -27,11 +27,11 @@ Manage pull requests and conduct code reviews in your IDE with full source-tree 
   
 [![](https://camo.githubusercontent.com/c1233fa685e4210ca62c7c5fbb49c696d036972aa99334afeaa517195e2987cd/68747470733a2f2f6769746875622e626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f30352f6d6f6e612d68656172742d66656174757265642e706e673f)](https://github.com/sponsors/shd101wyy)
 
-These [GitHub Sponsors](https://github.com/sponsors/shd101wyy#sponsors) and [Backers](https://shd101wyy.github.io/markdown-preview-enhanced/#/backers) help push this project forward 🎉.
+These [[https://github.com/sponsors/shd101wyy#sponsors]] and [[https://shd101wyy.github.io/markdown-preview-enhanced/#/backers]] help push this project forward 🎉.
 
 ## Introduction
 
-Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, [math typesetting](https://shd101wyy.github.io/markdown-preview-enhanced/#/math), [mermaid](https://shd101wyy.github.io/markdown-preview-enhanced/#/diagrams?id=mermaid), [PlantUML](https://shd101wyy.github.io/markdown-preview-enhanced/#/diagrams?id=plantuml), [pandoc](https://shd101wyy.github.io/markdown-preview-enhanced/#/pandoc), PDF export, [code chunk](https://shd101wyy.github.io/markdown-preview-enhanced/#/code-chunk), [presentation writer](https://rawgit.com/shd101wyy/markdown-preview-enhanced/master/docs/presentation-intro.html), etc. A lot of its ideas are inspired by [Markdown Preview Plus](https://github.com/atom-community/markdown-preview-plus) and [RStudio Markdown](http://rmarkdown.rstudio.com/).
+Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, [[https://shd101wyy.github.io/markdown-preview-enhanced/#/math]], [[https://shd101wyy.github.io/markdown-preview-enhanced/#/diagrams?id=mermaid]], [[https://shd101wyy.github.io/markdown-preview-enhanced/#/diagrams?id=plantuml]], [[https://shd101wyy.github.io/markdown-preview-enhanced/#/pandoc]], PDF export, [[https://shd101wyy.github.io/markdown-preview-enhanced/#/code-chunk]], [presentation writer](https://rawgit.com/shd101wyy/markdown-preview-enhanced/master/docs/presentation-intro.html), etc. A lot of its ideas are inspired by [Markdown Preview Plus](https://github.com/atom-community/markdown-preview-plus) and [RStudio Markdown](http://rmarkdown.rstudio.com/).
 
 Feel free to ask questions, post issues, submit pull request, and request new features.
 
@@ -41,10 +41,10 @@ For more information about this project and how to use this extension, please ch
 
 To check out the documentation, visit
 
--   [English](https://shd101wyy.github.io/markdown-preview-enhanced/#/)
--   [简体中文](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/)
--   [正體中文](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-tw/)
--   [日本語](https://shd101wyy.github.io/markdown-preview-enhanced/#/ja-jp/)
+-   [[https://shd101wyy.github.io/markdown-preview-enhanced/#/]]
+-   [[https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/]]
+-   [[https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-tw/]]
+-   [[https://shd101wyy.github.io/markdown-preview-enhanced/#/ja-jp/]]
 
 Contact me if you are willing to help translate the documentation :)
 
@@ -90,7 +90,7 @@ Toggle sidebar TOC
 
 ## Changelog
 
-Newest updates for the current minor version can be found at the [newest notes](https://shd101wyy.github.io/markdown-preview-enhanced/#/newest). Detailed changes for each old release can be found at [history notes](https://shd101wyy.github.io/markdown-preview-enhanced/#/history).
+Newest updates for the current minor version can be found at the [[https://shd101wyy.github.io/markdown-preview-enhanced/#/newest]]. Detailed changes for each old release can be found at [[https://shd101wyy.github.io/markdown-preview-enhanced/#/history]].
 
 ## License
 

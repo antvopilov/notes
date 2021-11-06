@@ -102,7 +102,7 @@ Oct 25, 2021
 
 Jul 22, 2021
 
-## [README.md](https://github.com/#readme)
+## [[https://github.com/#readme]]
 
 Host your own second brain and digital garden for free.
 
