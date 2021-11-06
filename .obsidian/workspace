@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f62bae520710ddeb",
+        "id": "fca669fd8a0983f5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           },
           {
@@ -152,8 +159,9 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "f62bae520710ddeb",
+  "active": "fca669fd8a0983f5",
   "lastOpenFiles": [
+    "index.md",
     "python/python-package.md",
     "python/networkx.md",
     "python/python.md",
@@ -162,7 +170,6 @@
     "static-site-generator.md",
     "cms.md",
     "cookiecutter.md",
-    "scribus.md",
-    "youtube.md"
+    "scribus.md"
   ]
 }
