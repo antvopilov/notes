@@ -1,0 +1,6 @@
+---
+Aliases: Applications
+---
+
+
+# [[README|Applications]]

@@ -10,5 +10,6 @@
   "communityThemeSortOrder": "download",
   "communityPluginSortOrder": "download",
   "foldIndent": true,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "newLinkFormat": "relative"
 }

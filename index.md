@@ -1,1 +1,1 @@
-[[command-line-interface]]
+[[command-line-interface/command-line-interface]]

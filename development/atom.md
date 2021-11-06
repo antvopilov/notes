@@ -10,7 +10,7 @@ Atom is a modern open source text editor developed by GitHub. It is designed to 
 
 # Resources 
 
-[[apm]]
+[[development/apm]]
 
 https://github.com/atom-community/atom
 https://github.com/atom-community/ide-python
