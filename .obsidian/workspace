@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cookiecutter.md",
+            "file": "hokus.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cookiecutter.md",
+                "file": "hokus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cookiecutter.md",
+                "file": "hokus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cookiecutter.md"
+                "file": "hokus.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "f62bae520710ddeb",
   "lastOpenFiles": [
+    "hokus.md",
+    "cms.md",
     "cookiecutter.md",
     "scribus.md",
     "youtube.md",
@@ -168,8 +170,6 @@
     "jabref.md",
     "reference-managment.md",
     "index.md",
-    "reference-masnagmentæ.md",
-    "python/python.md",
-    "atom/apm.md"
+    "reference-masnagmentæ.md"
   ]
 }
