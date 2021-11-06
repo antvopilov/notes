@@ -8,6 +8,6 @@ aliases: Obsidian.md
 
 [obsidian-md · GitHub Topics · GitHub](https://github.com/topics/obsidian-md)
 
-[[obsidian-themes]]
+[[../markdown/obsidian-themes]]
 [[obsidian-plugins]]
 [[obsidian-publish]]

@@ -7,6 +7,6 @@ aliases: MacOS Command Line Tools
 # [[macos-command-line-tools|MacOS Command Line Tools]]
 
 
-[[mas]]
-[[pipx]]
+[[../command-line-interface/mas]]
+[[../command-line-interface/pipx]]
 

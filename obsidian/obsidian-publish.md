@@ -1,5 +1,5 @@
 
-[[obsidian-md]]
+[[obsidian/obsidian-md]]
 
 ## Resources
 

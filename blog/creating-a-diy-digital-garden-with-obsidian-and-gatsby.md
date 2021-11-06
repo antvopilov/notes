@@ -7,7 +7,7 @@ categories:
 - [[markdown]]
 - [[obsidian]]
 ---
-[[markdown]]
+[[../markdown/markdown]]
 https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e
 
 # Creating a DIY Digital Garden with Obsidian and Gatsby

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b73912bf164ed2",
+        "id": "6156dae4bdfaec48",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sphinx/sphinx.md",
+            "file": "simle-icons.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sphinx/sphinx.md",
+                "file": "simle-icons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sphinx/sphinx.md",
+                "file": "simle-icons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sphinx/sphinx.md"
+                "file": "simle-icons.md"
               }
             }
           },
@@ -159,17 +159,17 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "b9b73912bf164ed2",
+  "active": "6156dae4bdfaec48",
   "lastOpenFiles": [
-    "sphinx/sphinx.md",
-    "mkdocs/mkdocs-material.md",
-    "mkdocs/mkdocs.md",
-    "markdown.md",
-    "manim/manim.md",
-    "editor.md",
-    "applications/README.md",
+    "simle-icons.md",
+    "python/python-fire.md",
     "publishing.md",
-    "index.md",
-    "python/python-package.md"
+    "ptheoretical-physics-videos.md",
+    "programming-books.md",
+    "command-line-interface/pipx.md",
+    "command-line-interface/pandoc.md",
+    "shell/oh-my-zsh.md",
+    "obsidian/obsidian-plugins.md",
+    "obsidian/obsidian-md.md"
   ]
 }

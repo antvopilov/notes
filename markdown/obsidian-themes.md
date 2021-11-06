@@ -1,4 +1,4 @@
-[[obsidian-md]]
+[[obsidian/obsidian-md]]
 
 #  `= this.file.name`.
 

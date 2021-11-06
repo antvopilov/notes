@@ -7,10 +7,11 @@ Aliases:
 
 # [[python-package|Python Packages]]
 
-## Publishing
+## Publishing & Documenting
 
 - [[../sphinx/sphinx]]
 - [[../mkdocs/mkdocs]]
+- [[pdoc]]
 
 ## Packaging
 - [GitHub - takluyver/flit: Simplified packaging of Python modules](https://github.com/takluyver/flit)
