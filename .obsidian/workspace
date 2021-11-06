@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "scribus.md",
+            "file": "cookiecutter.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scribus.md",
+                "file": "cookiecutter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scribus.md",
+                "file": "cookiecutter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scribus.md"
+                "file": "cookiecutter.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "f62bae520710ddeb",
   "lastOpenFiles": [
+    "cookiecutter.md",
     "scribus.md",
+    "youtube.md",
+    "youtube-api.md",
     "jabref.md",
     "reference-managment.md",
     "index.md",
     "reference-masnagmentæ.md",
     "python/python.md",
-    "atom/apm.md",
-    "README.md",
-    "Home.md",
-    "programming-resources/programming-books.md"
+    "atom/apm.md"
   ]
 }
