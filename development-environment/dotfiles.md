@@ -6,7 +6,7 @@ Aliases: .dotfiles
 ![[dotfiles-logo.png]]
 # [[dotfiles|.dotfiles]]
 
-Local development environment setup via [[dotfiles]], [[Homebrew]] installations & [[macOS]] customization.
+Local development environment setup via [[dotfiles]], [[../homebrew/homebrew]] installations & [[../macos/macos]] customization.
 
 ---
 ## Tools

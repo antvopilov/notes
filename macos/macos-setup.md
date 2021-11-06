@@ -1,4 +1,4 @@
-[[macos|macOS]]
+[[macos/macos|macOS]]
 
 ---
 
@@ -6,9 +6,9 @@
 
 [[macos-xcode-command-line-tools]]
 [[macos-xcode]]
-[[homebrew]]
-[[macos-python]]
-[[macos-python-pyenv]]
+[[homebrew/homebrew]]
+[[macos/macos-python]]
+[[macos/macos-python-pyenv]]
 
 ## Resources
 

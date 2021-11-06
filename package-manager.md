@@ -6,5 +6,5 @@ Aliases:
 
 # [[package-manager|Package Managers]]
 
-- [[homebrew]]
+- [[homebrew/homebrew]]
 - [[atom/apm]]

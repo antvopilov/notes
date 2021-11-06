@@ -1,4 +1,4 @@
-[[iterm2]]
+[[terrminal/iterm2]]
 
 [[macos-terminal-shell]]
 

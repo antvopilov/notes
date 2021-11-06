@@ -1,3 +1,3 @@
-[[iterm2]]
+[[terrminal/iterm2]]
 
-[[hyper]]
+[[terrminal/hyper]]

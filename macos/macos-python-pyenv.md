@@ -1,5 +1,5 @@
 
-[[macos]]-[[macos-python]]
+[[macos/macos]]-[[macos/macos-python]]
 
 ---
 
@@ -8,7 +8,7 @@
 ## Preparations:
 
 - [[macos-xcode-command-line-tools#Install]]
-- [[homebrew#Install]]
+- [[homebrew/homebrew#Install]]
 - `brew install openssl readline sqlite3 xz zlib`
 - `brew update && brew upgrade`
 - `brew doctor`

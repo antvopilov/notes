@@ -4,7 +4,7 @@ Aliases:
 - Atom.io
 ---
 
-[[../index]] 
+[[../index]] - [[../editor]] 
 
 ![[../assets/simple-icons/atom.svg|100]]
 

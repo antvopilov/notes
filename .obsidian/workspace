@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5f86b1bda28017b1",
+        "id": "954010dfb9895d55",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "editor.md",
+            "file": "manim.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "editor.md",
+                "file": "manim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "editor.md",
+                "file": "manim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "editor.md"
+                "file": "manim.md"
               }
             }
           },
@@ -159,17 +159,17 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "5f86b1bda28017b1",
+  "active": "954010dfb9895d55",
   "lastOpenFiles": [
-    "editor.md",
-    "index.md",
-    "package-manager.md",
-    "python/python-packages.md",
-    "python/python.md",
-    "atom/atom.md",
-    "atom/apm.md",
-    "development-environment/dotfiles.md",
-    "atom/README.md",
-    "homebrew.md"
+    "manim.md",
+    "macos/macos-xcode-command-line-tools.md",
+    "macos/macos-xcode.md",
+    "applications/google-chrome-browser.md",
+    "macos/macos-terminal-shell.md",
+    "macos/macos-terminal.md",
+    "macos/macos-setup.md",
+    "macos/macos-python-pyenv.md",
+    "macos/macos-python.md",
+    "macos/macos-command-line-tools.md"
   ]
 }

@@ -18,9 +18,9 @@ Aliases:
 
 ## Preparations
 
-- [[macos-xcode-command-line-tools#Install]]
+- [[../macos/macos-xcode-command-line-tools#Install]]
 
-- [[macos-xcode#Install]]
+- [[../macos/macos-xcode#Install]]
 
 ## Install
 

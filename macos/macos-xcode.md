@@ -1,4 +1,4 @@
-[[macos|macOS]]
+[[macos/macos|macOS]]
 
 # Xcode
 

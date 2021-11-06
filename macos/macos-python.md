@@ -2,7 +2,7 @@
 aliases: MacOS Python
 ---
 
-[[macos|macOS]]
+[[macos/macos|macOS]]
 
 ---
 
