@@ -3,7 +3,7 @@
 ## Projects
 
 ## Categories
-[[reference-managment]]
+[[reference-managment]] [[package-manager/package-manager]]
 
 ## Templates
 

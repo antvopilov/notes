@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/31615322/zsh-conda-pip-installs-command-not-found

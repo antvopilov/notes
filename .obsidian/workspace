@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "package-manager/conda.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "package-manager/conda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "package-manager/conda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "package-manager/conda.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "fca669fd8a0983f5",
   "lastOpenFiles": [
+    "package-manager/conda.md",
+    "package-manager/package-manager.md",
     "index.md",
     "python/python-package.md",
     "python/networkx.md",
@@ -168,8 +170,6 @@
     "hokus.md",
     "hugo.md",
     "static-site-generator.md",
-    "cms.md",
-    "cookiecutter.md",
-    "scribus.md"
+    "cms.md"
   ]
 }
