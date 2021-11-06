@@ -1,10 +1,5 @@
 # Notes Hub
-## Topics
-[[macos|macOS]] 
 
-[[python]]
+![[index]]
 
-
-
-![[inbox]]
 

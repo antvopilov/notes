@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9e0958adfba53ced",
+        "id": "fb6af3ab2d8e18d3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "development/apm.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "development/apm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "development/apm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "development/apm.md"
               }
             }
           },
@@ -159,17 +159,17 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "9e0958adfba53ced",
+  "active": "fb6af3ab2d8e18d3",
   "lastOpenFiles": [
-    "README.md",
+    "development/apm.md",
     "sphinx/music.md",
+    "index.md",
+    "README.md",
     "sphinx/sphinx.md",
     "sphinx/sphinx-extensions.md",
     "categories/README.md",
     "applications/README.md",
     "google-chrome-browser.md",
-    "manim.md",
-    "development/dotfiles.md",
-    "development/README.md"
+    "manim.md"
   ]
 }
