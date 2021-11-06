@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "applications/README.md",
+            "file": "manim.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "7cb70bb0bec7f435"
+      },
+      {
+        "id": "c8fb6e0a65f3cc79",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "manim.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7cb70bb0bec7f435"
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "applications/README.md",
+                "file": "manim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "applications/README.md",
+                "file": "manim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "applications/README.md"
+                "file": "manim.md"
               }
             }
           },
@@ -161,6 +174,7 @@
   },
   "active": "a4a924234041fba9",
   "lastOpenFiles": [
+    "manim.md",
     "applications/README.md",
     "google-chrome-browser.md",
     "development/apm.md",
@@ -169,7 +183,6 @@
     "inbox/buttom-examples.md",
     "inbox/inbox.md",
     "README.md",
-    "homebrew.md",
-    "development/dotfiles.md"
+    "homebrew.md"
   ]
 }

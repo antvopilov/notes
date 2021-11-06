@@ -1,5 +1,7 @@
 ---
-Aliases: Applications
+Aliases:
+- Applications
+- app
 ---
 
 
