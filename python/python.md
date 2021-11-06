@@ -13,6 +13,9 @@ Aliases:
 
 
 ## Resources
+
+[Home - Python Developer's GuideContentsExpand](https://devguide.python.org/)
+[Python Packaging User Guide — Python Packaging User Guide](https://packaging.python.org/)
 ### Docs
 
 https://docs.python-guide.org/

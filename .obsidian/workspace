@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "atom/apm.md",
+            "file": "python/python.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "atom/apm.md",
+            "file": "python/python.md",
             "mode": "preview"
           }
         },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atom/apm.md",
+                "file": "python/python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atom/apm.md",
+                "file": "python/python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atom/apm.md"
+                "file": "python/python.md"
               }
             }
           },
@@ -174,6 +174,7 @@
   },
   "active": "33e512eeb3ee643f",
   "lastOpenFiles": [
+    "python/python.md",
     "atom/apm.md",
     "index.md",
     "README.md",
@@ -182,7 +183,6 @@
     "theoretical-physics/theoretical-physics-videos.md",
     "publishing/publishing.md",
     "terrminal/terminal.md",
-    "visual-studio-code/visual-studio-code.md",
-    "applications/tor-browser.md"
+    "visual-studio-code/visual-studio-code.md"
   ]
 }
