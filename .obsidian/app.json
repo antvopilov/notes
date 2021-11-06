@@ -11,5 +11,6 @@
   "communityPluginSortOrder": "download",
   "foldIndent": true,
   "fileSortOrder": "alphabetical",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "newFileLocation": "current"
 }

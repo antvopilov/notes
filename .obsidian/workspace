@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "manim.md",
+            "file": "sphinx/sphinx.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "manim.md",
+            "file": "sphinx/sphinx.md",
             "mode": "preview"
           }
         },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manim.md",
+                "file": "sphinx/sphinx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manim.md",
+                "file": "sphinx/sphinx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manim.md"
+                "file": "sphinx/sphinx.md"
               }
             }
           },
@@ -174,15 +174,15 @@
   },
   "active": "a4a924234041fba9",
   "lastOpenFiles": [
-    "manim.md",
+    "sphinx/sphinx.md",
+    "categories/README.md",
     "applications/README.md",
     "google-chrome-browser.md",
+    "manim.md",
+    "development/dotfiles.md",
+    "development/README.md",
     "development/apm.md",
     "command-line-interface/command-line-interface.md",
-    "blog/creating-a-diy-digital-garden-with-obsidian-and-gatsby.md",
-    "inbox/buttom-examples.md",
-    "inbox/inbox.md",
-    "README.md",
-    "homebrew.md"
+    "blog/creating-a-diy-digital-garden-with-obsidian-and-gatsby.md"
   ]
 }
