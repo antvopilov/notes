@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "package-manager/conda.md",
+            "file": "hugo-themes.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "package-manager/conda.md",
+                "file": "hugo-themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "package-manager/conda.md",
+                "file": "hugo-themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "package-manager/conda.md"
+                "file": "hugo-themes.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "fca669fd8a0983f5",
   "lastOpenFiles": [
+    "hugo-themes.md",
+    "hugo.md",
     "package-manager/conda.md",
     "package-manager/package-manager.md",
     "index.md",
@@ -168,8 +170,6 @@
     "python/networkx.md",
     "python/python.md",
     "hokus.md",
-    "hugo.md",
-    "static-site-generator.md",
-    "cms.md"
+    "static-site-generator.md"
   ]
 }
