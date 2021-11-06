@@ -11,6 +11,9 @@ Aliases:
 
 [[python-package|Python Packages]]
 
+## Scientific Python
+
+[NumFOCUS: A Nonprofit Supporting Open Code for Better Science](https://numfocus.org/)
 
 ## Resources
 

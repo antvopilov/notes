@@ -7,11 +7,8 @@
         "id": "f62bae520710ddeb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "hokus.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hokus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hokus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "hokus.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,15 +154,15 @@
   },
   "active": "f62bae520710ddeb",
   "lastOpenFiles": [
+    "python/python-package.md",
+    "python/networkx.md",
+    "python/python.md",
     "hokus.md",
+    "hugo.md",
+    "static-site-generator.md",
     "cms.md",
     "cookiecutter.md",
     "scribus.md",
-    "youtube.md",
-    "youtube-api.md",
-    "jabref.md",
-    "reference-managment.md",
-    "index.md",
-    "reference-masnagmentæ.md"
+    "youtube.md"
   ]
 }

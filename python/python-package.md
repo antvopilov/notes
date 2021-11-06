@@ -6,7 +6,8 @@ Aliases:
 [[../index]] - [[python]]
 
 # [[python-package|Python Packages]]
-
+## Network
+- [[networkx]]
 ## Publishing & Documenting
 
 - [[../sphinx/sphinx]]
