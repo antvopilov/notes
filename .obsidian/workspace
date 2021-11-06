@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python/python.md",
+            "file": "python/python-packages.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python/python.md",
+            "file": "python/python-packages.md",
             "mode": "preview"
           }
         },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/python.md",
+                "file": "python/python-packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/python.md",
+                "file": "python/python-packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/python.md"
+                "file": "python/python-packages.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "5f86b1bda28017b1",
   "lastOpenFiles": [
-    "python/python.md",
     "python/python-packages.md",
+    "python/python.md",
     "index.md",
     "editor.md",
     "atom/atom.md",
