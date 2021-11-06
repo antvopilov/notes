@@ -4,7 +4,7 @@ aliases:
 - atom package
 ---
 
-[[atom]] [[package-manager]] 
+[[atom]] [[../package-manager/package-manager]] 
 # Atom Package Manager
 
 [Repo](https://github.com/atom/apm)

@@ -1,14 +1,9 @@
 # Index
-## Development
-- ![[package-manager#package-manager Package Managers]]
-- [[editor]]:
-	- [[atom/atom]]
-- [[publishing]]
 
-### Languages
+## Projects
 
-![[python/python#python Python]]
+## Categories
 
-## Applications
+## Templates
 
-[[command-line-interface/command-line-interface]]
+ 

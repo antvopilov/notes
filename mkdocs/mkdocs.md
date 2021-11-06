@@ -1,3 +1,3 @@
 # [[mkdocs]]
 
-[[../python/python-package]] - [[../publishing]]
+[[../python/python-package]] - [[../publishing/publishing]]

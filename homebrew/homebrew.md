@@ -5,7 +5,7 @@ Aliases:
 - brew.sh
 ---
 
-[[index]]-[[package-manager]]
+[[index]]-[[../package-manager/package-manager]]
 
 ![[assets/simple-icons/homebrew.svg|100]]
 
