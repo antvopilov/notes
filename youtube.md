@@ -1,1 +1,2 @@
+[[index]]
 [[youtube-api]]

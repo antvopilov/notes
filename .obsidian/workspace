@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "f896f4cc16c6d6e1",
+    "id": "d9941f0bf451efd2",
     "type": "split",
     "children": [
       {
-        "id": "658bdf0b127c7904",
+        "id": "4e5fcb8638fe2622",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,6 +126,14 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5400feb796ada2c3",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
               "state": {}
             }
           }
@@ -143,17 +144,17 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "658bdf0b127c7904",
+  "active": "4e5fcb8638fe2622",
   "lastOpenFiles": [
+    "cookiecutter.md",
+    "index.md",
+    "youtube.md",
     "README.md",
     "dash.md",
-    "index.md",
     "obsidian/obsidian-themes.md",
     "hugo-themes.md",
     "hugo.md",
     "package-manager/conda.md",
-    "package-manager/package-manager.md",
-    "python/python-package.md",
-    "python/networkx.md"
+    "package-manager/package-manager.md"
   ]
 }
