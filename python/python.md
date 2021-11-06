@@ -6,6 +6,7 @@ Aliases:
 [[../index]] 
 
 ![[../assets/simple-icons/python.svg|100]]
+
 # [[python|Python]]
 
 ![[python-packages|Python Packages]]
