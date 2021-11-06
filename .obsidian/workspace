@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "fca669fd8a0983f5",
+        "id": "5c597144f276aa3a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "hugo-themes.md",
-            "mode": "source"
+            "file": "README.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hugo-themes.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hugo-themes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hugo-themes.md"
+                "file": "README.md"
               }
             }
           },
@@ -159,8 +159,10 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "fca669fd8a0983f5",
+  "active": "5c597144f276aa3a",
   "lastOpenFiles": [
+    "README.md",
+    "obsidian/obsidian-themes.md",
     "hugo-themes.md",
     "hugo.md",
     "package-manager/conda.md",
@@ -168,8 +170,6 @@
     "index.md",
     "python/python-package.md",
     "python/networkx.md",
-    "python/python.md",
-    "hokus.md",
-    "static-site-generator.md"
+    "python/python.md"
   ]
 }
