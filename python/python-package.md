@@ -5,12 +5,12 @@ Aliases:
 
 [[../index]] - [[python]]
 
-# [[python-packages|Python Packages]]
+# [[python-package|Python Packages]]
 
 ## Publishing
 
 - [[../sphinx/sphinx]]
-- 
+- [[../mkdocs/mkdocs]]
 
 ## Packaging
 - [GitHub - takluyver/flit: Simplified packaging of Python modules](https://github.com/takluyver/flit)

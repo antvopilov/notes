@@ -3,6 +3,7 @@
 - ![[package-manager#package-manager Package Managers]]
 - [[editor]]:
 	- [[atom/atom]]
+- [[publishing]]
 
 ### Languages
 
