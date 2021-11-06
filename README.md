@@ -1,5 +1,5 @@
 # Notes Hub
 
-![[index]]
+![[index#Index]]
 
 
