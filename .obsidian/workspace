@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python/python-packages.md",
+            "file": "editor.md",
             "mode": "source"
           }
-        },
-        "group": "7a5f0f3e317246b8"
-      },
-      {
-        "id": "80ff9c7395f67d11",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "python/python-packages.md",
-            "mode": "preview"
-          }
-        },
-        "group": "7a5f0f3e317246b8"
+        }
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/python-packages.md",
+                "file": "editor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/python-packages.md",
+                "file": "editor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/python-packages.md"
+                "file": "editor.md"
               }
             }
           },
@@ -174,15 +161,15 @@
   },
   "active": "5f86b1bda28017b1",
   "lastOpenFiles": [
+    "editor.md",
+    "index.md",
+    "package-manager.md",
     "python/python-packages.md",
     "python/python.md",
-    "index.md",
-    "editor.md",
     "atom/atom.md",
     "atom/apm.md",
     "development-environment/dotfiles.md",
     "atom/README.md",
-    "homebrew.md",
-    "package-manager.md"
+    "homebrew.md"
   ]
 }

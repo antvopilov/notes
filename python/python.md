@@ -9,8 +9,7 @@ Aliases:
 
 # [[python|Python]]
 
-![[python-packages|Python Packages]]
-
+[[python-packages|Python Packages]]
 
 ## Resources
 ### Docs

@@ -1,13 +1,12 @@
 # Index
 ## Development
-- [[package-manager]]:
-	- [[homebrew]]
-	- [[atom/apm]]
+- ![[package-manager#package-manager Package Managers]]
 - [[editor]]:
 	- [[atom/atom]]
 
 ### Languages
-![[python/python]]
+
+![[python/python#python Python]]
 
 ## Applications
 

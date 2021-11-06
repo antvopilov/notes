@@ -1,0 +1,5 @@
+---
+Aliases:
+- Editor
+- Code Editor
+---
