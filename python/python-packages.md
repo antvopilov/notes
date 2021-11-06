@@ -7,6 +7,11 @@ Aliases:
 
 # [[python-packages|Python Packages]]
 
+## Publishing
+
+- [[../sphinx/sphinx]]
+- 
+
 ## Packaging
 - [GitHub - takluyver/flit: Simplified packaging of Python modules](https://github.com/takluyver/flit)
 
