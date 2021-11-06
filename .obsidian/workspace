@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "jabref.md",
+            "file": "scribus.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jabref.md",
+                "file": "scribus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jabref.md",
+                "file": "scribus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jabref.md"
+                "file": "scribus.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "f62bae520710ddeb",
   "lastOpenFiles": [
+    "scribus.md",
     "jabref.md",
     "reference-managment.md",
     "index.md",
@@ -169,7 +170,6 @@
     "atom/apm.md",
     "README.md",
     "Home.md",
-    "programming-resources/programming-books.md",
-    "theoretical-physics/theoretical-physics-videos.md"
+    "programming-resources/programming-books.md"
   ]
 }

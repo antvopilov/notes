@@ -1,0 +1,1 @@
+[GitHub - scribusproject/scribus: Mirror of official Scribus SVN (however you should really use SVN at svn://scribus.net) (http://bugs.scribus.net ← Submit PRs & Bugs)](https://github.com/scribusproject/scribus)
