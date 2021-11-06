@@ -3,7 +3,12 @@
 - [[package-manager]]:
 	- [[homebrew]]
 	- [[atom/apm]]
-### Python
+- [[editor]]:
+	- [[atom/atom]]
+
+### Languages
+![[python/python]]
+
 ## Applications
 
 [[command-line-interface/command-line-interface]]

@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "atom/atom.md",
+            "file": "python/python.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "7a5f0f3e317246b8"
+      },
+      {
+        "id": "80ff9c7395f67d11",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "python/python.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7a5f0f3e317246b8"
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atom/atom.md",
+                "file": "python/python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atom/atom.md",
+                "file": "python/python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atom/atom.md"
+                "file": "python/python.md"
               }
             }
           },
@@ -161,15 +174,15 @@
   },
   "active": "5f86b1bda28017b1",
   "lastOpenFiles": [
+    "python/python.md",
+    "python/python-packages.md",
+    "index.md",
+    "editor.md",
     "atom/atom.md",
     "atom/apm.md",
     "development-environment/dotfiles.md",
     "atom/README.md",
-    "index.md",
     "homebrew.md",
-    "package-manager.md",
-    "sphinx/music.md",
-    "README.md",
-    "sphinx/sphinx.md"
+    "package-manager.md"
   ]
 }
