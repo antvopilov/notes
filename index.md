@@ -1,5 +1,8 @@
 # Index
 ## Development
+- [[package-manager]]:
+	- [[homebrew]]
+	- [[a]]
 ### Python
 ## Applications
 

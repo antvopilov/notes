@@ -5,11 +5,16 @@ Aliases:
 - brew.sh
 ---
 
-![[homebrew.svg|200]]
+[[index]]-[[package-manager]]
 
-# [Homebrew](https://brew.sh/)
+![[assets/simple-icons/homebrew.svg|100]]
 
-**The Missing Package Manager for macOS (or Linux)**
+# [[homebrew|Homebrew]]
+
+[The Missing Package Manager for macOS (or Linux) — Homebrew](https://brew.sh/)
+[Homebrew's installation instructions](https://docs.brew.sh/Installation)
+
+---
 
 ## Preparations
 

@@ -9,3 +9,7 @@ aliases:
 
 [Repo](https://github.com/atom/apm)
 
+## Packages
+
+[sphinx-preview](https://atom.io/packages/sphinx-preview)
+
