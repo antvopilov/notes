@@ -175,6 +175,7 @@
   "active": "a4a924234041fba9",
   "lastOpenFiles": [
     "sphinx/sphinx.md",
+    "sphinx/sphinx-extensions.md",
     "categories/README.md",
     "applications/README.md",
     "google-chrome-browser.md",
@@ -182,7 +183,6 @@
     "development/dotfiles.md",
     "development/README.md",
     "development/apm.md",
-    "command-line-interface/command-line-interface.md",
-    "blog/creating-a-diy-digital-garden-with-obsidian-and-gatsby.md"
+    "command-line-interface/command-line-interface.md"
   ]
 }
