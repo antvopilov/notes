@@ -57,7 +57,7 @@
             }
           },
           {
-            "id": "72ad0ca615bf9419",
+            "id": "2a54d31549d71adc",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -129,26 +129,10 @@
             }
           },
           {
-            "id": "74141ca502487a7d",
+            "id": "396c521800b19bed",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "c2fecdfda8dfc34e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "5dc44263ce5a961a",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
               "state": {}
             }
           }
