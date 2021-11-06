@@ -1,7 +1,0 @@
----
-Aliases: 
-- Development
-- Dev
-- dev
----
-

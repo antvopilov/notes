@@ -6405,7 +6405,7 @@ var require_utils2 = __commonJS({
   "node_modules/obsidian-community-lib/dist/utils.js"(exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
-    exports.addChangelogButton = exports.ChangelogModal = exports.linkedQ = exports.openOrSwitch = exports.createNewMDNote = exports.hoverPreview = exports.isInVault = exports.getSelectionFromCurrFile = exports.getSelectionFromEditor = exports.copy = exports.getAvailablePathForAttachments = exports.base64ToArrayBuffer = exports.addFeatherIcon = exports.addAllFeatherIcons = exports.wait = void 0;
+    exports.waitForResolvedLinks = exports.resolvedLinksComplete = exports.addRenderedMarkdownButton = exports.RenderedMarkdownModal = exports.saveViewSide = exports.openView = exports.linkedQ = exports.openOrSwitch = exports.stripMD = exports.addMD = exports.createNewMDNote = exports.hoverPreview = exports.isInVault = exports.getSelectionFromCurrFile = exports.getSelectionFromEditor = exports.copy = exports.getAvailablePathForAttachments = exports.base64ToArrayBuffer = exports.addFeatherIcon = exports.addAllFeatherIcons = exports.wait = void 0;
     var feather = require_feather();
     var obsidian_1 = require("obsidian");
     function wait2(delay) {
@@ -6507,14 +6507,24 @@ var require_utils2 = __commonJS({
       });
     }
     exports.createNewMDNote = createNewMDNote;
+    var addMD = (noteName) => {
+      let withMD = noteName.slice();
+      if (!withMD.endsWith(".md")) {
+        withMD += ".md";
+      }
+      return withMD;
+    };
+    exports.addMD = addMD;
+    var stripMD = (noteName) => noteName.split(".md").slice(0, -1).join(".md");
+    exports.stripMD = stripMD;
     function openOrSwitch3(_0, _1, _2) {
       return __async(this, arguments, function* (app, dest, event, options = { createNewFile: true }) {
         const { workspace } = app;
-        const currFile = workspace.getActiveFile();
-        let destFile = app.metadataCache.getFirstLinkpathDest(dest, currFile.path);
+        const destStripped = (0, exports.stripMD)(dest);
+        let destFile = app.metadataCache.getFirstLinkpathDest(destStripped, "");
         if (!destFile) {
           if (options.createNewFile) {
-            destFile = yield createNewMDNote(app, dest, currFile.path);
+            destFile = yield createNewMDNote(app, destStripped);
           } else
             return;
         }
@@ -6522,7 +6532,7 @@ var require_utils2 = __commonJS({
         workspace.iterateAllLeaves((leaf) => {
           var _a, _b;
           if (leaf.view instanceof obsidian_1.MarkdownView) {
-            if (((_b = (_a = leaf.view) == null ? void 0 : _a.file) == null ? void 0 : _b.basename) === dest) {
+            if (((_b = (_a = leaf.view) == null ? void 0 : _a.file) == null ? void 0 : _b.basename) === destStripped) {
               leavesWithDestAlreadyOpen.push(leaf);
             }
           }
@@ -6553,31 +6563,88 @@ var require_utils2 = __commonJS({
         return fromTo;
     }
     exports.linkedQ = linkedQ;
-    var ChangelogModal = class extends obsidian_1.Modal {
-      constructor(app, plugin, url) {
+    function openView(app, viewType, viewClass, side = "right") {
+      return __async(this, null, function* () {
+        let leaf = null;
+        for (leaf of app.workspace.getLeavesOfType(viewType)) {
+          if (leaf.view instanceof viewClass) {
+            return;
+          }
+          yield leaf.setViewState({ type: "empty" });
+          break;
+        }
+        leaf = (leaf != null ? leaf : side === "right") ? app.workspace.getRightLeaf(false) : app.workspace.getLeftLeaf(false);
+        leaf.setViewState({
+          type: viewType,
+          active: true
+        });
+      });
+    }
+    exports.openView = openView;
+    function saveViewSide(app, plugin, viewType, settingName) {
+      return __async(this, null, function* () {
+        const leaf = app.workspace.getLeavesOfType(viewType)[0];
+        if (!leaf) {
+          console.info(`Obsidian-Community-Lib: No instance of '${viewType}' open, cannot save side`);
+          return;
+        }
+        const side = leaf.getRoot().side;
+        plugin.settings[settingName] = side;
+        yield plugin.saveSettings();
+        return side;
+      });
+    }
+    exports.saveViewSide = saveViewSide;
+    var RenderedMarkdownModal = class extends obsidian_1.Modal {
+      constructor(app, plugin, source, fetch) {
         super(app);
         this.plugin = plugin;
-        this.url = url;
+        this.source = source;
+        this.fetch = fetch;
       }
       onOpen() {
         return __async(this, null, function* () {
-          let { contentEl, url, plugin } = this;
-          const changelog = yield (0, obsidian_1.request)({ url });
-          const logDiv = contentEl.createDiv();
-          obsidian_1.MarkdownRenderer.renderMarkdown(changelog, logDiv, "", plugin);
+          let { contentEl, source, plugin, fetch } = this;
+          let content = source;
+          if (fetch) {
+            contentEl.createDiv({ text: `Waiting for content from: '${source}'` });
+            content = yield (0, obsidian_1.request)({ url: source });
+            contentEl.empty();
+          }
+          const logDiv = contentEl.createDiv({ cls: "OCL-RenderedMarkdownModal" });
+          obsidian_1.MarkdownRenderer.renderMarkdown(content, logDiv, "", plugin);
         });
       }
       onClose() {
         this.contentEl.empty();
       }
     };
-    exports.ChangelogModal = ChangelogModal;
-    function addChangelogButton(app, plugin, containerEl, url, displayText = "Changlog") {
+    exports.RenderedMarkdownModal = RenderedMarkdownModal;
+    function addRenderedMarkdownButton(app, plugin, containerEl, source, fetch, displayText) {
       containerEl.createEl("button", { text: displayText }, (but) => but.onClickEvent(() => {
-        new ChangelogModal(app, plugin, url).open();
+        new RenderedMarkdownModal(app, plugin, source, fetch).open();
       }));
     }
-    exports.addChangelogButton = addChangelogButton;
+    exports.addRenderedMarkdownButton = addRenderedMarkdownButton;
+    function resolvedLinksComplete(app, noFiles) {
+      const { resolvedLinks } = app.metadataCache;
+      return Object.keys(resolvedLinks).length === noFiles;
+    }
+    exports.resolvedLinksComplete = resolvedLinksComplete;
+    function waitForResolvedLinks(app, delay = 1e3, max = 50) {
+      return __async(this, null, function* () {
+        const noFiles = app.vault.getMarkdownFiles().length;
+        let i = 0;
+        while (!resolvedLinksComplete(app, noFiles) && i < max) {
+          yield wait2(delay);
+          i++;
+        }
+        if (i === max) {
+          throw Error("Obsidian-Community-Lib: ResolvedLinks did not finish initialising. `max` iterations was reached first.");
+        }
+      });
+    }
+    exports.waitForResolvedLinks = waitForResolvedLinks;
   }
 });
 
@@ -6586,7 +6653,7 @@ var require_dist3 = __commonJS({
   "node_modules/obsidian-community-lib/dist/index.js"(exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
-    exports.ChangelogModal = exports.addChangelogButton = exports.linkedQ = exports.openOrSwitch = exports.createNewMDNote = exports.isInVault = exports.hoverPreview = exports.getSelectionFromEditor = exports.getSelectionFromCurrFile = exports.copy = exports.wait = exports.getAvailablePathForAttachments = exports.base64ToArrayBuffer = exports.addFeatherIcon = exports.addAllFeatherIcons = void 0;
+    exports.waitForResolvedLinks = exports.resolvedLinksComplete = exports.stripMD = exports.addMD = exports.saveViewSide = exports.openView = exports.RenderedMarkdownModal = exports.addRenderedMarkdownButton = exports.linkedQ = exports.openOrSwitch = exports.createNewMDNote = exports.isInVault = exports.hoverPreview = exports.getSelectionFromEditor = exports.getSelectionFromCurrFile = exports.copy = exports.wait = exports.getAvailablePathForAttachments = exports.base64ToArrayBuffer = exports.addFeatherIcon = exports.addAllFeatherIcons = void 0;
     var utils_1 = require_utils2();
     Object.defineProperty(exports, "addAllFeatherIcons", { enumerable: true, get: function() {
       return utils_1.addAllFeatherIcons;
@@ -6627,11 +6694,29 @@ var require_dist3 = __commonJS({
     Object.defineProperty(exports, "linkedQ", { enumerable: true, get: function() {
       return utils_1.linkedQ;
     } });
-    Object.defineProperty(exports, "addChangelogButton", { enumerable: true, get: function() {
-      return utils_1.addChangelogButton;
+    Object.defineProperty(exports, "addRenderedMarkdownButton", { enumerable: true, get: function() {
+      return utils_1.addRenderedMarkdownButton;
     } });
-    Object.defineProperty(exports, "ChangelogModal", { enumerable: true, get: function() {
-      return utils_1.ChangelogModal;
+    Object.defineProperty(exports, "RenderedMarkdownModal", { enumerable: true, get: function() {
+      return utils_1.RenderedMarkdownModal;
+    } });
+    Object.defineProperty(exports, "openView", { enumerable: true, get: function() {
+      return utils_1.openView;
+    } });
+    Object.defineProperty(exports, "saveViewSide", { enumerable: true, get: function() {
+      return utils_1.saveViewSide;
+    } });
+    Object.defineProperty(exports, "addMD", { enumerable: true, get: function() {
+      return utils_1.addMD;
+    } });
+    Object.defineProperty(exports, "stripMD", { enumerable: true, get: function() {
+      return utils_1.stripMD;
+    } });
+    Object.defineProperty(exports, "resolvedLinksComplete", { enumerable: true, get: function() {
+      return utils_1.resolvedLinksComplete;
+    } });
+    Object.defineProperty(exports, "waitForResolvedLinks", { enumerable: true, get: function() {
+      return utils_1.waitForResolvedLinks;
     } });
   }
 });
@@ -6860,7 +6945,7 @@ var ChangedFilesModal = class extends import_obsidian2.FuzzySuggestModal {
     return this.changedFiles;
   }
   getItemText(item) {
-    if (item.index == "?" && item.working_dir == "?") {
+    if (item.index == "?" && item.working_dir == "U") {
       return `Untracked | ${item.path}`;
     }
     let working_dir = "";
@@ -6993,6 +7078,7 @@ var SimpleGit = class extends GitManager {
           const res = this.formatPath(e.path);
           e.path = res.path;
           e.from = res.from;
+          e.working_dir = e.working_dir === "?" ? "U" : e.working_dir;
           return e;
         }),
         staged: status.files.filter((e) => e.index !== " " && e.index != "?").map((e) => {
@@ -8006,7 +8092,7 @@ function create_fragment(ctx) {
       span1 = element("span");
       t4 = text(t4_value);
       attr(span0, "class", "path svelte-1ncg2cs");
-      attr(span0, "aria-label-position", "left");
+      attr(span0, "aria-label-position", ctx[2]);
       attr(span0, "aria-label", span0_aria_label_value = ctx[0].path.split("/").last() != ctx[0].path ? ctx[0].path : "");
       attr(div0, "data-icon", "feather-skip-back");
       attr(div0, "aria-label", "Discard");
@@ -8028,20 +8114,20 @@ function create_fragment(ctx) {
       append(main, div3);
       append(div3, div2);
       append(div2, div0);
-      ctx[9](div0);
+      ctx[10](div0);
       append(div2, t2);
       append(div2, div1);
-      ctx[10](div1);
+      ctx[11](div1);
       append(div3, t3);
       append(div3, span1);
       append(span1, t4);
       if (!mounted) {
         dispose = [
-          listen(span0, "mouseover", ctx[2]),
-          listen(span0, "click", ctx[3]),
-          listen(span0, "focus", ctx[8]),
-          listen(div0, "click", ctx[5]),
-          listen(div1, "click", ctx[4])
+          listen(span0, "mouseover", ctx[3]),
+          listen(span0, "click", ctx[4]),
+          listen(span0, "focus", ctx[9]),
+          listen(div0, "click", ctx[6]),
+          listen(div1, "click", ctx[5])
         ];
         mounted = true;
       }
@@ -8049,6 +8135,9 @@ function create_fragment(ctx) {
     p(ctx2, [dirty]) {
       if (dirty & 1 && t0_value !== (t0_value = ctx2[0].path.split("/").last().replace(".md", "") + ""))
         set_data(t0, t0_value);
+      if (dirty & 4) {
+        attr(span0, "aria-label-position", ctx2[2]);
+      }
       if (dirty & 1 && span0_aria_label_value !== (span0_aria_label_value = ctx2[0].path.split("/").last() != ctx2[0].path ? ctx2[0].path : "")) {
         attr(span0, "aria-label", span0_aria_label_value);
       }
@@ -8063,14 +8152,15 @@ function create_fragment(ctx) {
     d(detaching) {
       if (detaching)
         detach(main);
-      ctx[9](null);
       ctx[10](null);
+      ctx[11](null);
       mounted = false;
       run_all(dispose);
     }
   };
 }
 function instance($$self, $$props, $$invalidate) {
+  let side;
   let { change } = $$props;
   let { view } = $$props;
   let { manager } = $$props;
@@ -8093,7 +8183,7 @@ function instance($$self, $$props, $$invalidate) {
     });
   }
   function discard() {
-    const deleteFile = change.index == "?";
+    const deleteFile = change.working_dir == "U";
     new DiscardModal(view.app, deleteFile, change.path).myOpen().then((shouldDiscard) => {
       if (shouldDiscard === true) {
         if (deleteFile) {
@@ -8127,13 +8217,20 @@ function instance($$self, $$props, $$invalidate) {
     if ("change" in $$props2)
       $$invalidate(0, change = $$props2.change);
     if ("view" in $$props2)
-      $$invalidate(6, view = $$props2.view);
+      $$invalidate(7, view = $$props2.view);
     if ("manager" in $$props2)
-      $$invalidate(7, manager = $$props2.manager);
+      $$invalidate(8, manager = $$props2.manager);
+  };
+  $$self.$$.update = () => {
+    if ($$self.$$.dirty & 128) {
+      $:
+        $$invalidate(2, side = view.leaf.getRoot().side == "left" ? "right" : "left");
+    }
   };
   return [
     change,
     buttons,
+    side,
     hover,
     open,
     stage,
@@ -8148,7 +8245,7 @@ function instance($$self, $$props, $$invalidate) {
 var FileComponent = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance, create_fragment, safe_not_equal, { change: 0, view: 6, manager: 7 }, add_css);
+    init(this, options, instance, create_fragment, safe_not_equal, { change: 0, view: 7, manager: 8 }, add_css);
   }
 };
 var fileComponent_default = FileComponent;
@@ -8189,7 +8286,7 @@ function create_fragment2(ctx) {
       span1 = element("span");
       t3 = text(t3_value);
       attr(span0, "class", "path svelte-1m5vxuz");
-      attr(span0, "aria-label-position", "left");
+      attr(span0, "aria-label-position", ctx[3]);
       attr(span0, "aria-label", span0_aria_label_value = ctx[0].path.split("/").last() != ctx[0].path ? ctx[0].path : "");
       attr(div0, "data-icon", "feather-minus");
       attr(div0, "aria-label", "Unstage");
@@ -8208,16 +8305,16 @@ function create_fragment2(ctx) {
       append(main, div2);
       append(div2, div1);
       append(div1, div0);
-      ctx[9](div0);
+      ctx[10](div0);
       append(div2, t2);
       append(div2, span1);
       append(span1, t3);
       if (!mounted) {
         dispose = [
-          listen(span0, "mouseover", ctx[3]),
-          listen(span0, "focus", ctx[8]),
-          listen(span0, "click", ctx[4]),
-          listen(div0, "click", ctx[5])
+          listen(span0, "mouseover", ctx[4]),
+          listen(span0, "focus", ctx[9]),
+          listen(span0, "click", ctx[5]),
+          listen(div0, "click", ctx[6])
         ];
         mounted = true;
       }
@@ -8225,6 +8322,9 @@ function create_fragment2(ctx) {
     p(ctx2, [dirty]) {
       if (dirty & 4 && t0_value !== (t0_value = ctx2[2].split("/").last().replace(".md", "") + ""))
         set_data(t0, t0_value);
+      if (dirty & 8) {
+        attr(span0, "aria-label-position", ctx2[3]);
+      }
       if (dirty & 1 && span0_aria_label_value !== (span0_aria_label_value = ctx2[0].path.split("/").last() != ctx2[0].path ? ctx2[0].path : "")) {
         attr(span0, "aria-label", span0_aria_label_value);
       }
@@ -8239,7 +8339,7 @@ function create_fragment2(ctx) {
     d(detaching) {
       if (detaching)
         detach(main);
-      ctx[9](null);
+      ctx[10](null);
       mounted = false;
       run_all(dispose);
     }
@@ -8247,6 +8347,7 @@ function create_fragment2(ctx) {
 }
 function instance2($$self, $$props, $$invalidate) {
   let formattedPath;
+  let side;
   let { change } = $$props;
   let { view } = $$props;
   let { manager } = $$props;
@@ -8281,20 +8382,25 @@ function instance2($$self, $$props, $$invalidate) {
     if ("change" in $$props2)
       $$invalidate(0, change = $$props2.change);
     if ("view" in $$props2)
-      $$invalidate(6, view = $$props2.view);
+      $$invalidate(7, view = $$props2.view);
     if ("manager" in $$props2)
-      $$invalidate(7, manager = $$props2.manager);
+      $$invalidate(8, manager = $$props2.manager);
   };
   $$self.$$.update = () => {
     if ($$self.$$.dirty & 1) {
       $:
         $$invalidate(2, formattedPath = change.path);
     }
+    if ($$self.$$.dirty & 128) {
+      $:
+        $$invalidate(3, side = view.leaf.getRoot().side == "left" ? "right" : "left");
+    }
   };
   return [
     change,
     buttons,
     formattedPath,
+    side,
     hover,
     open,
     unstage,
@@ -8307,14 +8413,14 @@ function instance2($$self, $$props, $$invalidate) {
 var StagedFileComponent = class extends SvelteComponent {
   constructor(options) {
     super();
-    init(this, options, instance2, create_fragment2, safe_not_equal, { change: 0, view: 6, manager: 7 }, add_css2);
+    init(this, options, instance2, create_fragment2, safe_not_equal, { change: 0, view: 7, manager: 8 }, add_css2);
   }
 };
 var stagedFileComponent_default = StagedFileComponent;
 
 // src/ui/sidebar/gitView.svelte
 function add_css3(target) {
-  append_styles(target, "svelte-j7wjwu", '@charset "UTF-8";.file-view.svelte-j7wjwu.svelte-j7wjwu{margin-left:5px}.opener.svelte-j7wjwu.svelte-j7wjwu{display:flex;justify-content:space-between;align-items:center;padding:0 4px}.opener.svelte-j7wjwu .collapse-icon.svelte-j7wjwu::after{content:"\xA0"}.opener.svelte-j7wjwu div.svelte-j7wjwu{display:flex}.opener.svelte-j7wjwu svg.svelte-j7wjwu{transform:rotate(-90deg)}.opener.open.svelte-j7wjwu svg.svelte-j7wjwu{transform:rotate(0)}.contents.svelte-j7wjwu.svelte-j7wjwu{height:calc(100% - 5rem);overflow-y:scroll;padding-left:10px}main.svelte-j7wjwu.svelte-j7wjwu{height:100%;overflow-y:hidden}.nav-buttons-container.svelte-j7wjwu.svelte-j7wjwu{justify-content:space-between}.group.svelte-j7wjwu.svelte-j7wjwu{display:flex}');
+  append_styles(target, "svelte-f1l5rx", '@charset "UTF-8";.file-view.svelte-f1l5rx.svelte-f1l5rx{margin-left:5px}.opener.svelte-f1l5rx.svelte-f1l5rx{display:flex;justify-content:space-between;align-items:center;padding:0 4px}.opener.svelte-f1l5rx .collapse-icon.svelte-f1l5rx::after{content:"\xA0"}.opener.svelte-f1l5rx div.svelte-f1l5rx{display:flex}.opener.svelte-f1l5rx svg.svelte-f1l5rx{transform:rotate(-90deg)}.opener.open.svelte-f1l5rx svg.svelte-f1l5rx{transform:rotate(0)}.git-view-body.svelte-f1l5rx.svelte-f1l5rx{height:calc(100% - 5rem);overflow-y:scroll;padding-left:10px}main.svelte-f1l5rx.svelte-f1l5rx{height:100%;overflow-y:hidden}.nav-buttons-container.svelte-f1l5rx.svelte-f1l5rx{justify-content:space-between}.group.svelte-f1l5rx.svelte-f1l5rx{display:flex}');
 }
 function get_each_context(ctx, list, i) {
   const child_ctx = ctx.slice();
@@ -8381,7 +8487,7 @@ function create_if_block(ctx) {
       div3 = element("div");
       div2 = element("div");
       div1 = element("div");
-      div1.innerHTML = `<div class="tree-item-icon collapse-icon svelte-j7wjwu" style=""><svg viewBox="0 0 100 100" class="right-triangle svelte-j7wjwu" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div> 
+      div1.innerHTML = `<div class="tree-item-icon collapse-icon svelte-f1l5rx" style=""><svg viewBox="0 0 100 100" class="right-triangle svelte-f1l5rx" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div> 
             <span>Staged Changes</span>`;
       t2 = space();
       span1 = element("span");
@@ -8393,7 +8499,7 @@ function create_if_block(ctx) {
       div7 = element("div");
       div6 = element("div");
       div5 = element("div");
-      div5.innerHTML = `<div class="tree-item-icon collapse-icon svelte-j7wjwu" style=""><svg viewBox="0 0 100 100" class="right-triangle svelte-j7wjwu" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div> 
+      div5.innerHTML = `<div class="tree-item-icon collapse-icon svelte-f1l5rx" style=""><svg viewBox="0 0 100 100" class="right-triangle svelte-f1l5rx" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div> 
             <span>Changes</span>`;
       t8 = space();
       span3 = element("span");
@@ -8401,14 +8507,14 @@ function create_if_block(ctx) {
       t10 = space();
       if (if_block1)
         if_block1.c();
-      attr(div1, "class", "svelte-j7wjwu");
+      attr(div1, "class", "svelte-f1l5rx");
       attr(span1, "class", "tree-item-flair");
-      attr(div2, "class", "opener tree-item-self is-clickable svelte-j7wjwu");
+      attr(div2, "class", "opener tree-item-self is-clickable svelte-f1l5rx");
       toggle_class(div2, "open", ctx[6]);
       attr(div3, "class", "staged");
-      attr(div5, "class", "svelte-j7wjwu");
+      attr(div5, "class", "svelte-f1l5rx");
       attr(span3, "class", "tree-item-flair");
-      attr(div6, "class", "opener tree-item-self is-clickable svelte-j7wjwu");
+      attr(div6, "class", "opener tree-item-self is-clickable svelte-f1l5rx");
       toggle_class(div6, "open", ctx[5]);
       attr(div7, "class", "changes");
     },
@@ -8537,7 +8643,7 @@ function create_if_block_2(ctx) {
       for (let i = 0; i < each_blocks.length; i += 1) {
         each_blocks[i].c();
       }
-      attr(div, "class", "file-view svelte-j7wjwu");
+      attr(div, "class", "file-view svelte-f1l5rx");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -8667,7 +8773,7 @@ function create_if_block_1(ctx) {
       for (let i = 0; i < each_blocks.length; i += 1) {
         each_blocks[i].c();
       }
-      attr(div, "class", "file-view svelte-j7wjwu");
+      attr(div, "class", "file-view svelte-f1l5rx");
     },
     m(target, anchor) {
       insert(target, div, anchor);
@@ -8781,7 +8887,6 @@ function create_each_block(ctx) {
 }
 function create_fragment3(ctx) {
   let main;
-  let div9;
   let div8;
   let div5;
   let div0;
@@ -8800,7 +8905,7 @@ function create_fragment3(ctx) {
   let input;
   let t6;
   let t7;
-  let div10;
+  let div9;
   let current;
   let mounted;
   let dispose;
@@ -8809,7 +8914,6 @@ function create_fragment3(ctx) {
   return {
     c() {
       main = element("main");
-      div9 = element("div");
       div8 = element("div");
       div5 = element("div");
       div0 = element("div");
@@ -8830,7 +8934,7 @@ function create_fragment3(ctx) {
       if (if_block0)
         if_block0.c();
       t7 = space();
-      div10 = element("div");
+      div9 = element("div");
       if (if_block1)
         if_block1.c();
       attr(div0, "id", "commit-btn");
@@ -8853,7 +8957,7 @@ function create_fragment3(ctx) {
       attr(div4, "class", "nav-action-button");
       attr(div4, "data-icon", "feather-download");
       attr(div4, "aria-label", "Pull");
-      attr(div5, "class", "group svelte-j7wjwu");
+      attr(div5, "class", "group svelte-f1l5rx");
       attr(div6, "id", "refresh");
       attr(div6, "class", "nav-action-button");
       attr(div6, "data-icon", "feather-refresh-cw");
@@ -8863,15 +8967,13 @@ function create_fragment3(ctx) {
       attr(input, "spellcheck", "true");
       attr(input, "placeholder", "Commit Message");
       attr(div7, "class", "search-input-container");
-      attr(div8, "class", "nav-buttons-container svelte-j7wjwu");
-      attr(div9, "class", "control");
-      attr(div10, "class", "contents svelte-j7wjwu");
-      attr(main, "class", "svelte-j7wjwu");
+      attr(div8, "class", "nav-buttons-container svelte-f1l5rx");
+      attr(div9, "class", "git-view-body svelte-f1l5rx");
+      attr(main, "class", "svelte-f1l5rx");
     },
     m(target, anchor) {
       insert(target, main, anchor);
-      append(main, div9);
-      append(div9, div8);
+      append(main, div8);
       append(div8, div5);
       append(div5, div0);
       ctx[14](div0);
@@ -8898,9 +9000,9 @@ function create_fragment3(ctx) {
       if (if_block0)
         if_block0.m(div7, null);
       append(main, t7);
-      append(main, div10);
+      append(main, div9);
       if (if_block1)
-        if_block1.m(div10, null);
+        if_block1.m(div9, null);
       current = true;
       if (!mounted) {
         dispose = [
@@ -8944,7 +9046,7 @@ function create_fragment3(ctx) {
           if_block1 = create_if_block(ctx2);
           if_block1.c();
           transition_in(if_block1, 1);
-          if_block1.m(div10, null);
+          if_block1.m(div9, null);
         }
       } else if (if_block1) {
         group_outros();
@@ -9008,6 +9110,7 @@ function instance3($$self, $$props, $$invalidate) {
     plugin.app.metadataCache.offref(event);
   });
   function commit() {
+    $$invalidate(7, loading = true);
     plugin.gitManager.commit(commitMessage).then(() => {
       if (commitMessage !== plugin.settings.commitMessage) {
         $$invalidate(2, commitMessage = "");
@@ -9024,16 +9127,19 @@ function instance3($$self, $$props, $$invalidate) {
     });
   }
   function stageAll() {
+    $$invalidate(7, loading = true);
     plugin.gitManager.stageAll().then(() => {
       refresh();
     });
   }
   function unstageAll() {
+    $$invalidate(7, loading = true);
     plugin.gitManager.unstageAll().then(() => {
       refresh();
     });
   }
   function push() {
+    $$invalidate(7, loading = true);
     plugin.remotesAreSet().then((ready) => {
       if (ready) {
         plugin.gitManager.push().then((pushedFiles) => {
@@ -9044,6 +9150,7 @@ function instance3($$self, $$props, $$invalidate) {
     });
   }
   function pull() {
+    $$invalidate(7, loading = true);
     plugin.pullChangesFromRemote().then(() => {
       refresh();
     });

@@ -2,7 +2,7 @@
 ## Development
 - [[package-manager]]:
 	- [[homebrew]]
-	- [[a]]
+	- [[atom/apm]]
 ### Python
 ## Applications
 

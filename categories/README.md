@@ -6,5 +6,5 @@ Aliases:
 
 # [[README|Categories]]
 
-![[../development/README|Development]]
+![[../atom/README|Development]]
 

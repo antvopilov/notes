@@ -8,7 +8,7 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./assets",
   "communityThemeSortOrder": "download",
-  "communityPluginSortOrder": "download",
+  "communityPluginSortOrder": "release",
   "foldIndent": true,
   "fileSortOrder": "alphabetical",
   "newLinkFormat": "relative",
