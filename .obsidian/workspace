@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "2a54d31549d71adc",
+            "id": "d8e34138ac484781",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -122,18 +122,10 @@
             }
           },
           {
-            "id": "396c521800b19bed",
+            "id": "63dec13b56bc5d93",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "5400feb796ada2c3",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
               "state": {}
             }
           }
