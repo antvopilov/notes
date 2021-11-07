@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian/yadm.md",
+            "file": "cookiecutter.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/yadm.md",
+                "file": "cookiecutter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian/yadm.md",
+                "file": "cookiecutter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/yadm.md"
+                "file": "cookiecutter.md"
               }
             }
           },
@@ -153,6 +153,7 @@
   },
   "active": "90cfa5f8e2752ba4",
   "lastOpenFiles": [
+    "cookiecutter.md",
     "obsidian/yadm.md",
     "obsidian/obsidian-md.md",
     "cockpit.md",
@@ -161,7 +162,6 @@
     "anaconda.md",
     "readItlater/No title.md",
     "python/python.md",
-    "mkdocs/mkdocs.md",
-    "index.md"
+    "mkdocs/mkdocs.md"
   ]
 }
