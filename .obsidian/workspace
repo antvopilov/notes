@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cookiecutter.md",
-            "mode": "source"
+            "file": "terrminal/iterm2.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cookiecutter.md",
+                "file": "terrminal/iterm2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cookiecutter.md",
+                "file": "terrminal/iterm2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cookiecutter.md"
+                "file": "terrminal/iterm2.md"
               }
             }
           },
@@ -153,6 +153,7 @@
   },
   "active": "90cfa5f8e2752ba4",
   "lastOpenFiles": [
+    "terrminal/iterm2.md",
     "cookiecutter.md",
     "obsidian/yadm.md",
     "obsidian/obsidian-md.md",
@@ -161,7 +162,6 @@
     "manim/manim.md",
     "anaconda.md",
     "readItlater/No title.md",
-    "python/python.md",
-    "mkdocs/mkdocs.md"
+    "python/python.md"
   ]
 }
