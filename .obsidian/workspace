@@ -7,8 +7,11 @@
         "id": "90cfa5f8e2752ba4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "manim/manim.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "manim/manim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "manim/manim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "manim/manim.md"
+              }
             }
           },
           {
@@ -146,6 +153,8 @@
   },
   "active": "90cfa5f8e2752ba4",
   "lastOpenFiles": [
+    "manim/manim.md",
+    "anaconda.md",
     "readItlater/No title.md",
     "python/python.md",
     "mkdocs/mkdocs.md",
@@ -153,8 +162,6 @@
     "package-manager/package-manager.md",
     "cookiecutter.md",
     "youtube.md",
-    "README.md",
-    "dash.md",
-    "obsidian/obsidian-themes.md"
+    "README.md"
   ]
 }
