@@ -1,13 +1,13 @@
 {
   "main": {
-    "id": "d9941f0bf451efd2",
+    "id": "e5fa67fe402cd257",
     "type": "split",
     "children": [
       {
-        "id": "b2ac918d6afb12b1",
+        "id": "90cfa5f8e2752ba4",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5121879577637
+    "width": 328
   },
   "right": {
     "id": "85eb7df0db560104",
@@ -128,6 +128,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "5353f53144d4e0f4",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
         ]
       }
@@ -136,8 +144,9 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "b2ac918d6afb12b1",
+  "active": "90cfa5f8e2752ba4",
   "lastOpenFiles": [
+    "readItlater/No title.md",
     "python/python.md",
     "mkdocs/mkdocs.md",
     "index.md",
@@ -146,7 +155,6 @@
     "youtube.md",
     "README.md",
     "dash.md",
-    "obsidian/obsidian-themes.md",
-    "hugo-themes.md"
+    "obsidian/obsidian-themes.md"
   ]
 }
