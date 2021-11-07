@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "manim/manim.md",
+            "file": "obsidian/yadm.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manim/manim.md",
+                "file": "obsidian/yadm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manim/manim.md",
+                "file": "obsidian/yadm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manim/manim.md"
+                "file": "obsidian/yadm.md"
               }
             }
           },
@@ -153,15 +153,15 @@
   },
   "active": "90cfa5f8e2752ba4",
   "lastOpenFiles": [
+    "obsidian/yadm.md",
+    "obsidian/obsidian-md.md",
+    "cockpit.md",
+    "pycharm/Pycharm-Anaconda-QT-Designer.md",
     "manim/manim.md",
     "anaconda.md",
     "readItlater/No title.md",
     "python/python.md",
     "mkdocs/mkdocs.md",
-    "index.md",
-    "package-manager/package-manager.md",
-    "cookiecutter.md",
-    "youtube.md",
-    "README.md"
+    "index.md"
   ]
 }

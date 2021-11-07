@@ -1,0 +1,3 @@
+[[cms]]
+
+https://getcockpit.com/
