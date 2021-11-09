@@ -7,11 +7,8 @@
         "id": "90cfa5f8e2752ba4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "editor/slidev.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "editor/slidev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "editor/slidev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "editor/slidev.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,6 +146,8 @@
   },
   "active": "90cfa5f8e2752ba4",
   "lastOpenFiles": [
+    "package-manager/npm.md",
+    "package-manager/package-manager.md",
     "editor/slidev.md",
     "editor/codemirror.md",
     "editor/editor.md",
@@ -160,8 +155,6 @@
     "cookiecutter.md",
     "obsidian/yadm.md",
     "obsidian/obsidian-md.md",
-    "cockpit.md",
-    "pycharm/Pycharm-Anaconda-QT-Designer.md",
-    "manim/manim.md"
+    "cockpit.md"
   ]
 }

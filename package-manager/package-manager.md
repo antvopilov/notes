@@ -11,3 +11,4 @@ Aliases:
 - [[homebrew/homebrew]]
 - [[atom/apm]]
 - [[conda]]
+- [[npm]]
