@@ -7,8 +7,11 @@
         "id": "90cfa5f8e2752ba4",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "editor/animation.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "editor/animation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "editor/animation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "editor/animation.md"
+              }
             }
           },
           {
@@ -146,15 +153,15 @@
   },
   "active": "90cfa5f8e2752ba4",
   "lastOpenFiles": [
-    "package-manager/npm.md",
-    "package-manager/package-manager.md",
+    "editor/animation.md",
+    "editor/motion.vueuse.md",
     "editor/slidev.md",
+    "package-manager/package-manager.md",
+    "package-manager/npm.md",
     "editor/codemirror.md",
     "editor/editor.md",
     "terrminal/iterm2.md",
     "cookiecutter.md",
-    "obsidian/yadm.md",
-    "obsidian/obsidian-md.md",
-    "cockpit.md"
+    "obsidian/yadm.md"
   ]
 }
