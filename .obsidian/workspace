@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "shell/zsh-themes.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "shell/zsh-themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "shell/zsh-themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "shell/zsh-themes.md"
               }
             }
           },
@@ -153,15 +153,15 @@
   },
   "active": "0bf7d6ffaf5b2b56",
   "lastOpenFiles": [
+    "shell/zsh-themes.md",
+    "shell/zsh.md",
+    "shell/README.md",
+    "README.md",
+    "shell/oh-my-zsh.md",
     "index.md",
     "python/README.md",
     "inbox/inbox.md",
-    "shell/oh-my-zsh.md",
     "editor/animation.md",
-    "editor/motion.vueuse.md",
-    "editor/slidev.md",
-    "package-manager/package-manager.md",
-    "package-manager/npm.md",
-    "editor/codemirror.md"
+    "editor/motion.vueuse.md"
   ]
 }

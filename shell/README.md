@@ -1,0 +1,6 @@
+---
+aliases: 
+- shell
+---
+
+[[zsh]]
