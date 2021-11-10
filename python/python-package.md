@@ -3,7 +3,7 @@ Aliases:
 - Python Packages
 ---
 
-[[../index]] - [[python]]
+[[../index]] - [[python/README]]
 
 # [[python-package|Python Packages]]
 ## Network

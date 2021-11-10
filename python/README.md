@@ -7,7 +7,7 @@ Aliases:
 
 ![[../assets/simple-icons/python.svg|100]]
 
-# [[python|Python]]
+# [[python/README|Python]]
 
 [[python-package|Python Packages]]
 

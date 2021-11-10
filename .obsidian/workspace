@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "90cfa5f8e2752ba4",
+        "id": "0bf7d6ffaf5b2b56",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "editor/animation.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "editor/animation.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "editor/animation.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "editor/animation.md"
+                "file": "index.md"
               }
             }
           },
@@ -151,17 +151,17 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "90cfa5f8e2752ba4",
+  "active": "0bf7d6ffaf5b2b56",
   "lastOpenFiles": [
+    "index.md",
+    "python/README.md",
+    "inbox/inbox.md",
+    "shell/oh-my-zsh.md",
     "editor/animation.md",
     "editor/motion.vueuse.md",
     "editor/slidev.md",
     "package-manager/package-manager.md",
     "package-manager/npm.md",
-    "editor/codemirror.md",
-    "editor/editor.md",
-    "terrminal/iterm2.md",
-    "cookiecutter.md",
-    "obsidian/yadm.md"
+    "editor/codemirror.md"
   ]
 }
