@@ -37,5 +37,6 @@
   "obsidian-admonition",
   "code-block-copy",
   "emoji-shortcodes",
-  "obsidian-link-converter"
+  "obsidian-link-converter",
+  "metadata-extractor"
 ]

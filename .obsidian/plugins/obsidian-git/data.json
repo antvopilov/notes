@@ -10,5 +10,6 @@
   "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": true,
-  "gitPath": ""
+  "gitPath": "",
+  "customMessageOnAutoBackup": false
 }
