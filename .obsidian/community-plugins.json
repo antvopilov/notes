@@ -12,7 +12,6 @@
   "extract-url",
   "obsidian-latex",
   "obsidian-dynamic-toc",
-  "longform",
   "obsidian-jupyter",
   "obsidian-read-it-later",
   "obsidian-autocomplete-plugin",
@@ -31,12 +30,13 @@
   "find-unlinked-files",
   "obsidian-reminder-plugin",
   "obsidian-html-tags-autocomplete",
-  "obsidian-image-toolkit",
   "customizable-sidebar",
   "txt-as-md-obsidian",
   "obsidian-admonition",
   "code-block-copy",
   "emoji-shortcodes",
   "obsidian-link-converter",
-  "metadata-extractor"
+  "metadata-extractor",
+  "obsidian-advanced-uri",
+  "quick-latex"
 ]
