@@ -1,0 +1,4034 @@
+[
+  {
+    "fileName": "youtube",
+    "relativePath": "youtube.md",
+    "links": [
+      {
+        "link": "index"
+      },
+      {
+        "link": "youtube-api"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!",
+        "link": "",
+        "relativePath": "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /"
+      },
+      {
+        "fileName": "GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!",
+        "link": "",
+        "relativePath": "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /zh-cn/"
+      },
+      {
+        "fileName": "GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!",
+        "link": "",
+        "relativePath": "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /zh-tw/"
+      },
+      {
+        "fileName": "GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!",
+        "link": "",
+        "relativePath": "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /ja-jp/"
+      },
+      {
+        "fileName": "GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!",
+        "link": "",
+        "relativePath": "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /"
+      },
+      {
+        "fileName": "GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!",
+        "link": "",
+        "relativePath": "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /zh-cn/"
+      },
+      {
+        "fileName": "GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!",
+        "link": "",
+        "relativePath": "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /zh-tw/"
+      },
+      {
+        "fileName": "GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!",
+        "link": "",
+        "relativePath": "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /ja-jp/"
+      },
+      {
+        "fileName": "homebrew",
+        "link": "",
+        "relativePath": "homebrew/homebrew.md",
+        "displayText": "The Missing Package Manager for macOS (or Linux) — Homebrew"
+      }
+    ]
+  },
+  {
+    "fileName": "youtube-api",
+    "relativePath": "youtube-api.md"
+  },
+  {
+    "fileName": "visual-studio-code",
+    "relativePath": "visual-studio-code/visual-studio-code.md"
+  },
+  {
+    "fileName": "video-to-ascii",
+    "relativePath": "video-to-ascii.md",
+    "links": [
+      {
+        "link": "README",
+        "relativePath": "shell/README.md",
+        "displayText": "Python"
+      },
+      {
+        "link": "ascii"
+      }
+    ]
+  },
+  {
+    "fileName": "theoretical-physics-videos",
+    "relativePath": "theoretical-physics/theoretical-physics-videos.md"
+  },
+  {
+    "fileName": "terminal",
+    "relativePath": "terrminal/terminal.md",
+    "links": [
+      {
+        "link": "iterm2",
+        "relativePath": "terrminal/iterm2.md",
+        "displayText": "terrminal/iterm2"
+      },
+      {
+        "link": "hyper",
+        "relativePath": "terrminal/hyper.md",
+        "displayText": "terrminal/hyper"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "oh-my-zsh",
+        "link": "terminal",
+        "relativePath": "shell/oh-my-zsh.md",
+        "displayText": "../terrminal/terminal"
+      }
+    ]
+  },
+  {
+    "fileName": "iterm2",
+    "relativePath": "terrminal/iterm2.md",
+    "headings": [
+      {
+        "heading": "macOS terminal",
+        "level": 3
+      },
+      {
+        "heading": "[](https://github.com/zyedidia/micro#linux-clipboard-support)",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "terminal",
+        "link": "iterm2",
+        "relativePath": "terrminal/terminal.md",
+        "displayText": "terrminal/iterm2"
+      },
+      {
+        "fileName": "macos-terminal",
+        "link": "iterm2",
+        "relativePath": "macos/macos-terminal.md",
+        "displayText": "terrminal/iterm2"
+      }
+    ]
+  },
+  {
+    "fileName": "hyper",
+    "relativePath": "terrminal/hyper.md",
+    "backlinks": [
+      {
+        "fileName": "terminal",
+        "link": "hyper",
+        "relativePath": "terrminal/terminal.md",
+        "displayText": "terrminal/hyper"
+      }
+    ]
+  },
+  {
+    "fileName": "static-site-generator",
+    "relativePath": "static-site-generator.md",
+    "links": [
+      {
+        "link": "index"
+      }
+    ]
+  },
+  {
+    "fileName": "sphinx",
+    "relativePath": "sphinx/sphinx.md",
+    "headings": [
+      {
+        "heading": "[[sphinx]]",
+        "level": 1
+      },
+      {
+        "heading": "Installing",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "index",
+        "displayText": "../index"
+      },
+      {
+        "link": "python-package",
+        "relativePath": "python/python-package.md",
+        "displayText": "../python/python-package"
+      },
+      {
+        "link": "publishing",
+        "relativePath": "publishing/publishing.md",
+        "displayText": "../publishing/publishing"
+      },
+      {
+        "link": "sphinx",
+        "relativePath": "sphinx/sphinx.md"
+      },
+      {
+        "link": "sphinx-extensions",
+        "relativePath": "sphinx/sphinx-extensions.md"
+      },
+      {
+        "link": "sphinx-themes",
+        "relativePath": "sphinx/sphinx-themes.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "sphinx-themes",
+        "link": "sphinx",
+        "relativePath": "sphinx/sphinx-themes.md"
+      },
+      {
+        "fileName": "sphinx-extensions",
+        "link": "sphinx",
+        "relativePath": "sphinx/sphinx-extensions.md"
+      },
+      {
+        "fileName": "python-package",
+        "link": "sphinx",
+        "relativePath": "python/python-package.md",
+        "displayText": "../sphinx/sphinx"
+      }
+    ]
+  },
+  {
+    "fileName": "sphinx-themes",
+    "relativePath": "sphinx/sphinx-themes.md",
+    "headings": [
+      {
+        "heading": "[[sphinx-themes]]",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "sphinx",
+        "relativePath": "sphinx/sphinx.md"
+      },
+      {
+        "link": "sphinx-themes",
+        "relativePath": "sphinx/sphinx-themes.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "sphinx",
+        "link": "sphinx-themes",
+        "relativePath": "sphinx/sphinx.md"
+      }
+    ]
+  },
+  {
+    "fileName": "sphinx-extensions",
+    "relativePath": "sphinx/sphinx-extensions.md",
+    "aliases": [
+      "Sphinx Extensions"
+    ],
+    "headings": [
+      {
+        "heading": "[[sphinx-extensions|Sphinx Extensions]]",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "sphinx",
+        "relativePath": "sphinx/sphinx.md"
+      },
+      {
+        "link": "sphinx-extensions",
+        "relativePath": "sphinx/sphinx-extensions.md",
+        "displayText": "Sphinx Extensions"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "sphinx",
+        "link": "sphinx-extensions",
+        "relativePath": "sphinx/sphinx.md"
+      }
+    ]
+  },
+  {
+    "fileName": "zsh",
+    "relativePath": "shell/zsh.md",
+    "links": [
+      {
+        "link": "zsh-themes",
+        "relativePath": "shell/zsh-themes.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "oh-my-zsh",
+        "link": "zsh",
+        "relativePath": "shell/oh-my-zsh.md"
+      },
+      {
+        "fileName": "README",
+        "link": "zsh",
+        "relativePath": "shell/README.md"
+      },
+      {
+        "fileName": "Use environment variables in Terminal on Mac",
+        "link": "zsh",
+        "relativePath": "readItlater/Use environment variables in Terminal on Mac.md",
+        "displayText": "zsh man page"
+      }
+    ]
+  },
+  {
+    "fileName": "zsh-themes",
+    "relativePath": "shell/zsh-themes.md",
+    "backlinks": [
+      {
+        "fileName": "zsh",
+        "link": "zsh-themes",
+        "relativePath": "shell/zsh.md"
+      }
+    ]
+  },
+  {
+    "fileName": "oh-my-zsh",
+    "relativePath": "shell/oh-my-zsh.md",
+    "headings": [
+      {
+        "heading": "[[oh-my-zsh]]",
+        "level": 1
+      },
+      {
+        "heading": "Install",
+        "level": 1
+      },
+      {
+        "heading": "[[rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.](https://github.com/ohmyzsh/ohmyzsh|GitHub - ohmyzsh/ohmyzsh: 🙃   A delightful community-driven (with 1900+ contributors|[with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.]] framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.]]",
+        "level": 1
+      },
+      {
+        "heading": "[ohmyzsh/README.md at master · ohmyzsh/ohmyzsh · GitHub](https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md)",
+        "level": 1
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#getting-started]]Getting Started",
+        "level": 2
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#prerequisites]]Prerequisites",
+        "level": 3
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#basic-installation]]Basic Installation",
+        "level": 3
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#manual-inspection]]Manual inspection",
+        "level": 4
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#using-oh-my-zsh]]Using Oh My Zsh",
+        "level": 2
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#plugins]]Plugins",
+        "level": 3
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#enabling-plugins]]Enabling Plugins",
+        "level": 4
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#using-plugins]]Using Plugins",
+        "level": 4
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#themes]]Themes",
+        "level": 3
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#selecting-a-theme]]Selecting a Theme",
+        "level": 4
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#faq]]FAQ",
+        "level": 3
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#advanced-topics]]Advanced Topics",
+        "level": 2
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#advanced-installation]]Advanced Installation",
+        "level": 3
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#custom-directory]]Custom Directory",
+        "level": 4
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#unattended-install]]Unattended install",
+        "level": 4
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#installing-from-a-forked-repository]]Installing from a forked repository",
+        "level": 4
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#manual-installation]]Manual Installation",
+        "level": 4
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#1-clone-the-repository]]1. Clone the repository",
+        "level": 5
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#2-optionally-backup-your-existing-zshrc-file]]2. *Optionally*, backup your existing `~/.zshrc` file",
+        "level": 5
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#3-create-a-new-zsh-configuration-file]]3. Create a new zsh configuration file",
+        "level": 5
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#4-change-your-default-shell]]4. Change your default shell",
+        "level": 5
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#5-initialize-your-new-zsh-configuration]]5. Initialize your new zsh configuration",
+        "level": 5
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#installation-problems]]Installation Problems",
+        "level": 3
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#custom-plugins-and-themes]]Custom Plugins and Themes",
+        "level": 3
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#getting-updates]]Getting Updates",
+        "level": 2
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#manual-updates]]Manual Updates",
+        "level": 3
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#uninstalling-oh-my-zsh]]Uninstalling Oh My Zsh",
+        "level": 2
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#how-do-i-contribute-to-oh-my-zsh]]How do I contribute to Oh My Zsh?",
+        "level": 2
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#do-not-send-us-themes]]Do NOT send us themes",
+        "level": 3
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#contributors]]Contributors",
+        "level": 2
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#follow-us]]Follow Us",
+        "level": 2
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#merchandise]]Merchandise",
+        "level": 2
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#license]]License",
+        "level": 2
+      },
+      {
+        "heading": "[[https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md#about-planet-argon]]About Planet Argon",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "shell"
+      },
+      {
+        "link": "zsh",
+        "relativePath": "shell/zsh.md"
+      },
+      {
+        "link": "terminal",
+        "relativePath": "terrminal/terminal.md",
+        "displayText": "../terrminal/terminal"
+      },
+      {
+        "link": "command-line-interface",
+        "relativePath": "command-line-interface/command-line-interface.md",
+        "displayText": "command-line-interface/command-line-interface"
+      },
+      {
+        "link": "oh-my-zsh",
+        "relativePath": "shell/oh-my-zsh.md"
+      },
+      {
+        "link": "ohmyzsh",
+        "displayText": "GitHub - ohmyzsh/ohmyzsh: 🙃   A delightful community-driven (with 1900+ contributors|[with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community."
+      },
+      {
+        "link": "README.md#getting-started",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > getting-started"
+      },
+      {
+        "link": "README.md#prerequisites",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > prerequisites"
+      },
+      {
+        "link": "README.md#basic-installation",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > basic-installation"
+      },
+      {
+        "link": "README.md#manual-inspection",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > manual-inspection"
+      },
+      {
+        "link": "README.md#using-oh-my-zsh",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > using-oh-my-zsh"
+      },
+      {
+        "link": "README.md#plugins",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > plugins"
+      },
+      {
+        "link": "README.md#enabling-plugins",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > enabling-plugins"
+      },
+      {
+        "link": "README.md#using-plugins",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > using-plugins"
+      },
+      {
+        "link": "README.md#themes",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > themes"
+      },
+      {
+        "link": "README.md#selecting-a-theme",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > selecting-a-theme"
+      },
+      {
+        "link": "README.md#faq",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > faq"
+      },
+      {
+        "link": "README.md#advanced-topics",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > advanced-topics"
+      },
+      {
+        "link": "README.md#advanced-installation",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > advanced-installation"
+      },
+      {
+        "link": "README.md#custom-directory",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > custom-directory"
+      },
+      {
+        "link": "README.md#unattended-install",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > unattended-install"
+      },
+      {
+        "link": "README.md#installing-from-a-forked-repository",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > installing-from-a-forked-repository"
+      },
+      {
+        "link": "README.md#manual-installation",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > manual-installation"
+      },
+      {
+        "link": "README.md#1-clone-the-repository",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > 1-clone-the-repository"
+      },
+      {
+        "link": "README.md#2-optionally-backup-your-existing-zshrc-file",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > 2-optionally-backup-your-existing-zshrc-file"
+      },
+      {
+        "link": "README.md#3-create-a-new-zsh-configuration-file",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > 3-create-a-new-zsh-configuration-file"
+      },
+      {
+        "link": "README.md#4-change-your-default-shell",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > 4-change-your-default-shell"
+      },
+      {
+        "link": "README.md#5-initialize-your-new-zsh-configuration",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > 5-initialize-your-new-zsh-configuration"
+      },
+      {
+        "link": "README.md#installation-problems",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > installation-problems"
+      },
+      {
+        "link": "README.md#custom-plugins-and-themes",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > custom-plugins-and-themes"
+      },
+      {
+        "link": "README.md#getting-updates",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > getting-updates"
+      },
+      {
+        "link": "README.md#manual-updates",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > manual-updates"
+      },
+      {
+        "link": "README.md#uninstalling-oh-my-zsh",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > uninstalling-oh-my-zsh"
+      },
+      {
+        "link": "README.md#how-do-i-contribute-to-oh-my-zsh",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > how-do-i-contribute-to-oh-my-zsh"
+      },
+      {
+        "link": "README.md#do-not-send-us-themes",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > do-not-send-us-themes"
+      },
+      {
+        "link": "README.md#contributors",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > contributors"
+      },
+      {
+        "link": "README.md#follow-us",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > follow-us"
+      },
+      {
+        "link": "README.md#merchandise",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > merchandise"
+      },
+      {
+        "link": "README.md#license",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > license"
+      },
+      {
+        "link": "README.md#about-planet-argon",
+        "cleanLink": "README.md",
+        "displayText": "https://github.com/ohmyzsh/ohmyzsh/blob/master/README.md > about-planet-argon"
+      }
+    ]
+  },
+  {
+    "fileName": "README",
+    "relativePath": "shell/README.md",
+    "aliases": [
+      "shell"
+    ],
+    "links": [
+      {
+        "link": "zsh",
+        "relativePath": "shell/zsh.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "video-to-ascii",
+        "link": "README",
+        "relativePath": "video-to-ascii.md",
+        "displayText": "Python"
+      },
+      {
+        "fileName": "python-package",
+        "link": "README",
+        "relativePath": "python/python-package.md",
+        "displayText": "python/README"
+      },
+      {
+        "fileName": "python-fire",
+        "link": "README",
+        "relativePath": "python/python-fire.md",
+        "displayText": "python/README"
+      },
+      {
+        "fileName": "pdoc",
+        "link": "README",
+        "relativePath": "python/pdoc.md",
+        "displayText": "python/README"
+      },
+      {
+        "fileName": "manim",
+        "link": "README",
+        "relativePath": "manim/manim.md",
+        "displayText": "python/README"
+      },
+      {
+        "fileName": "dash",
+        "link": "README",
+        "relativePath": "dash.md",
+        "displayText": "python/README"
+      },
+      {
+        "fileName": "cookiecutter",
+        "link": "README",
+        "relativePath": "cookiecutter.md",
+        "displayText": "python/README"
+      },
+      {
+        "fileName": "httpie",
+        "link": "README",
+        "relativePath": "command-line-interface/httpie.md",
+        "displayText": "python/README"
+      }
+    ]
+  },
+  {
+    "fileName": "scribus",
+    "relativePath": "scribus.md",
+    "links": [
+      {
+        "link": "scribus",
+        "displayText": "GitHub - scribusproject/scribus: Mirror of official Scribus SVN (however you should really use SVN at svn://scribus.net) (http://bugs.scribus.net ← Submit PRs & Bugs)"
+      }
+    ]
+  },
+  {
+    "fileName": "reference-managment",
+    "relativePath": "reference-managment.md",
+    "links": [
+      {
+        "link": "jabref"
+      }
+    ]
+  },
+  {
+    "fileName": "Use environment variables in Terminal on Mac",
+    "relativePath": "readItlater/Use environment variables in Terminal on Mac.md",
+    "headings": [
+      {
+        "heading": "[Use environment variables in Terminal on Mac](https://support.apple.com/en-gb/guide/terminal/apd382cc5fa-4f58-4449-b20a-41c53c006f8f/mac)",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "ReadItLater"
+      },
+      {
+        "link": "Article"
+      },
+      {
+        "link": "zsh",
+        "relativePath": "shell/zsh.md",
+        "displayText": "zsh man page"
+      }
+    ]
+  },
+  {
+    "fileName": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
+    "relativePath": "readItlater/Quasar Framework - Build high-performance VueJS user interfaces in record time.md",
+    "headings": [
+      {
+        "heading": "[Quasar Framework - Build high-performance VueJS user interfaces in record time](https://quasar.dev/)",
+        "level": 1
+      },
+      {
+        "heading": "All Platforms in One Go",
+        "level": 4
+      },
+      {
+        "heading": "Impressive User Interface Building Blocks",
+        "level": 4
+      },
+      {
+        "heading": "Quasar Icon Genie",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "ReadItLater"
+      },
+      {
+        "link": "Article"
+      },
+      {
+        "link": "introduction",
+        "displayText": "IconGenie"
+      }
+    ]
+  },
+  {
+    "fileName": "Introduction  Templater",
+    "relativePath": "readItlater/Introduction  Templater.md",
+    "headings": [
+      {
+        "heading": "[Introduction | Templater](https://silentvoid13.github.io/Templater/docs/)",
+        "level": 1
+      },
+      {
+        "heading": "Quick Example[[https://silentvoid13.github.io/#](https://silentvoid13.github.io/#quick-example \"Direct link to heading\"]]",
+        "level": 2
+      },
+      {
+        "heading": "<% tp.file.title %>",
+        "level": 1
+      },
+      {
+        "heading": "Test Test",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "ReadItLater"
+      },
+      {
+        "link": "Article"
+      },
+      {
+        "link": "#quick-example \"Direct link to heading\"",
+        "relativePath": "readItlater/Introduction  Templater.md",
+        "cleanLink": "Introduction  Templater",
+        "displayText": "https://silentvoid13.github.io/ > ](https://silentvoid13.github.io/ > quick-example \"Direct link to heading\""
+      },
+      {
+        "link": "<% tp.date.now(\"YYYY-MM-DD\", -1) %>"
+      },
+      {
+        "link": "<% tp.date.now(\"YYYY-MM-DD\", 1) %>"
+      },
+      {
+        "link": "2021-04-08"
+      },
+      {
+        "link": "2021-04-10"
+      }
+    ]
+  },
+  {
+    "fileName": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+    "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+    "headings": [
+      {
+        "heading": "[GitHub - yzhang-gh/vscode-markdown: Markdown All in One](https://github.com/yzhang-gh/vscode-markdown)",
+        "level": 1
+      },
+      {
+        "heading": "Markdown Support for Visual Studio Code",
+        "level": 2
+      },
+      {
+        "heading": "Features",
+        "level": 2
+      },
+      {
+        "heading": "Keyboard shortcuts",
+        "level": 3
+      },
+      {
+        "heading": "Table of contents",
+        "level": 3
+      },
+      {
+        "heading": "List editing",
+        "level": 3
+      },
+      {
+        "heading": "Print Markdown to HTML",
+        "level": 3
+      },
+      {
+        "heading": "GitHub Flavored Markdown",
+        "level": 3
+      },
+      {
+        "heading": "Math",
+        "level": 3
+      },
+      {
+        "heading": "Auto completions",
+        "level": 3
+      },
+      {
+        "heading": "Others",
+        "level": 3
+      },
+      {
+        "heading": "Available Commands",
+        "level": 2
+      },
+      {
+        "heading": "Keyboard Shortcuts",
+        "level": 2
+      },
+      {
+        "heading": "Supported Settings",
+        "level": 2
+      },
+      {
+        "heading": "FAQ",
+        "level": 2
+      },
+      {
+        "heading": "Q: Error \"command 'markdown.extension.onXXXKey' not found\"",
+        "level": 4
+      },
+      {
+        "heading": "Q: Which Markdown syntax is supported?",
+        "level": 4
+      },
+      {
+        "heading": "Q: This extension has overridden some of my key bindings (e.g. Ctrl + B, Alt + C)",
+        "level": 4
+      },
+      {
+        "heading": "Q: The extension is unresponsive, causing lag etc. (performance issues)",
+        "level": 4
+      },
+      {
+        "heading": "Changelog",
+        "level": 2
+      },
+      {
+        "heading": "Latest Development Build",
+        "level": 2
+      },
+      {
+        "heading": "Contributing",
+        "level": 2
+      },
+      {
+        "heading": "Related",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "ReadItLater"
+      },
+      {
+        "link": "Article"
+      },
+      {
+        "link": "#features",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > features"
+      },
+      {
+        "link": "#keyboard-shortcuts",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > keyboard-shortcuts"
+      },
+      {
+        "link": "#table-of-contents",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > table-of-contents"
+      },
+      {
+        "link": "#list-editing",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > list-editing"
+      },
+      {
+        "link": "#print-markdown-to-html",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > print-markdown-to-html"
+      },
+      {
+        "link": "#github-flavored-markdown",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > github-flavored-markdown"
+      },
+      {
+        "link": "#math",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > math"
+      },
+      {
+        "link": "#auto-completions",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > auto-completions"
+      },
+      {
+        "link": "#others",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > others"
+      },
+      {
+        "link": "#available-commands",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > available-commands"
+      },
+      {
+        "link": "#keyboard-shortcuts-1",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > keyboard-shortcuts-1"
+      },
+      {
+        "link": "#supported-settings",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > supported-settings"
+      },
+      {
+        "link": "#faq",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > faq"
+      },
+      {
+        "link": "#q-error-command-markdownextensiononxxxkey-not-found",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > q-error-command-markdownextensiononxxxkey-not-found"
+      },
+      {
+        "link": "#q-which-markdown-syntax-is-supported",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > q-which-markdown-syntax-is-supported"
+      },
+      {
+        "link": "#q-this-extension-has-overridden-some-of-my-key-bindings-eg-ctrl--b-alt--c",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > q-this-extension-has-overridden-some-of-my-key-bindings-eg-ctrl--b-alt--c"
+      },
+      {
+        "link": "#q-the-extension-is-unresponsive-causing-lag-etc-performance-issues",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > q-the-extension-is-unresponsive-causing-lag-etc-performance-issues"
+      },
+      {
+        "link": "#changelog",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > changelog"
+      },
+      {
+        "link": "#latest-development-build",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > latest-development-build"
+      },
+      {
+        "link": "#contributing",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > contributing"
+      },
+      {
+        "link": "#related",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > related"
+      },
+      {
+        "link": "#keyboard-shortcuts-1",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > keyboard-shortcuts-1"
+      },
+      {
+        "link": "userinterface#_command-palette",
+        "cleanLink": "userinterface",
+        "displayText": "https://code.visualstudio.com/docs/getstarted/userinterface > _command-palette"
+      },
+      {
+        "link": "#list-items",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://spec.commonmark.org/0.29/ > list-items"
+      },
+      {
+        "link": "keybindings#_keyboard-shortcuts-reference",
+        "cleanLink": "keybindings",
+        "displayText": "https://code.visualstudio.com/docs/getstarted/keybindings > _keyboard-shortcuts-reference"
+      },
+      {
+        "link": "vscode-markdown#list-editing",
+        "cleanLink": "vscode-markdown",
+        "displayText": "https://github.com/yzhang-gh/vscode-markdown > list-editing"
+      },
+      {
+        "link": "#styling-text",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://help.github.com/articles/basic-writing-and-formatting-syntax/ > styling-text"
+      },
+      {
+        "link": "basic-writing-and-formatting-syntax#task-lists",
+        "cleanLink": "basic-writing-and-formatting-syntax",
+        "displayText": "https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax > task-lists"
+      },
+      {
+        "link": "markdown-it-katex#syntax",
+        "cleanLink": "markdown-it-katex",
+        "displayText": "https://github.com/waylonflinn/markdown-it-katex > syntax"
+      },
+      {
+        "link": "markdown-it-front-matter#valid-front-matter",
+        "cleanLink": "markdown-it-front-matter",
+        "displayText": "https://github.com/ParkSB/markdown-it-front-matter > valid-front-matter"
+      },
+      {
+        "link": "#latest-development-build",
+        "relativePath": "readItlater/GitHub - yzhang-ghvscode-markdown Markdown All in One.md",
+        "cleanLink": "GitHub - yzhang-ghvscode-markdown Markdown All in One",
+        "displayText": "https://github.com/ > latest-development-build"
+      },
+      {
+        "link": "Performance-Issues#profile-the-running-extensions",
+        "cleanLink": "Performance-Issues",
+        "displayText": "https://github.com/microsoft/vscode/wiki/Performance-Issues > profile-the-running-extensions"
+      },
+      {
+        "link": "items?itemName=yzhang.markdown-all-in-one#review-details",
+        "cleanLink": "items?itemName=yzhang.markdown-all-in-one",
+        "displayText": "https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one > review-details"
+      }
+    ]
+  },
+  {
+    "fileName": "GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!",
+    "relativePath": "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md",
+    "headings": [
+      {
+        "heading": "[GitHub - shd101wyy/markdown-preview-enhanced: One of the 'BEST' markdown preview extensions for Atom editor!](https://github.com/shd101wyy/markdown-preview-enhanced)",
+        "level": 1
+      },
+      {
+        "heading": "Markdown Preview Enhanced",
+        "level": 2
+      },
+      {
+        "heading": "Supporting this project",
+        "level": 2
+      },
+      {
+        "heading": "Sponsors",
+        "level": 2
+      },
+      {
+        "heading": "Introduction",
+        "level": 2
+      },
+      {
+        "heading": "Documentation",
+        "level": 2
+      },
+      {
+        "heading": "Keybindings",
+        "level": 2
+      },
+      {
+        "heading": "Changelog",
+        "level": 2
+      },
+      {
+        "heading": "License",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "ReadItLater"
+      },
+      {
+        "link": "Article"
+      },
+      {
+        "link": "",
+        "relativePath": "youtube.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /"
+      },
+      {
+        "link": "",
+        "relativePath": "youtube.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /zh-cn/"
+      },
+      {
+        "link": "",
+        "relativePath": "youtube.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /zh-tw/"
+      },
+      {
+        "link": "",
+        "relativePath": "youtube.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /ja-jp/"
+      },
+      {
+        "link": "backers",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /backers"
+      },
+      {
+        "link": "paypal",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /paypal"
+      },
+      {
+        "link": "wechat",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /wechat"
+      },
+      {
+        "link": "shd101wyy#sponsors",
+        "cleanLink": "shd101wyy",
+        "displayText": "https://github.com/sponsors/shd101wyy > sponsors"
+      },
+      {
+        "link": "backers",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /backers"
+      },
+      {
+        "link": "math",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /math"
+      },
+      {
+        "link": "diagrams?id=mermaid",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /diagrams?id=mermaid"
+      },
+      {
+        "link": "diagrams?id=plantuml",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /diagrams?id=plantuml"
+      },
+      {
+        "link": "pandoc",
+        "relativePath": "command-line-interface/pandoc.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /pandoc"
+      },
+      {
+        "link": "code-chunk",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /code-chunk"
+      },
+      {
+        "link": "",
+        "relativePath": "youtube.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /"
+      },
+      {
+        "link": "",
+        "relativePath": "youtube.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /zh-cn/"
+      },
+      {
+        "link": "",
+        "relativePath": "youtube.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /zh-tw/"
+      },
+      {
+        "link": "",
+        "relativePath": "youtube.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /ja-jp/"
+      },
+      {
+        "link": "newest",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /newest"
+      },
+      {
+        "link": "history",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /history"
+      }
+    ]
+  },
+  {
+    "fileName": "GitHub - sharkdpbat A cat(1) clone with wings.",
+    "relativePath": "readItlater/GitHub - sharkdpbat A cat(1) clone with wings..md",
+    "headings": [
+      {
+        "heading": "[[1) clone with wings.](https://github.com/sharkdp/bat|GitHub - sharkdp/bat: A cat(1) clone with wings.]]",
+        "level": 1
+      },
+      {
+        "heading": "Syntax highlighting",
+        "level": 3
+      },
+      {
+        "heading": "Git integration",
+        "level": 3
+      },
+      {
+        "heading": "Show non-printable characters",
+        "level": 3
+      },
+      {
+        "heading": "Automatic paging",
+        "level": 3
+      },
+      {
+        "heading": "File concatenation",
+        "level": 4
+      },
+      {
+        "heading": "How to use",
+        "level": 2
+      },
+      {
+        "heading": "Integration with other tools",
+        "level": 3
+      },
+      {
+        "heading": "`fzf`",
+        "level": 4
+      },
+      {
+        "heading": "`find` or `fd`",
+        "level": 4
+      },
+      {
+        "heading": "`ripgrep`",
+        "level": 4
+      },
+      {
+        "heading": "`tail -f`",
+        "level": 4
+      },
+      {
+        "heading": "`git`",
+        "level": 4
+      },
+      {
+        "heading": "`git diff`",
+        "level": 4
+      },
+      {
+        "heading": "`xclip`",
+        "level": 4
+      },
+      {
+        "heading": "`man`",
+        "level": 4
+      },
+      {
+        "heading": "`prettier` / `shfmt` / `rustfmt`",
+        "level": 4
+      },
+      {
+        "heading": "Installation",
+        "level": 2
+      },
+      {
+        "heading": "On Ubuntu (using `apt`)",
+        "level": 3
+      },
+      {
+        "heading": "On Ubuntu (using most recent `.deb` packages)",
+        "level": 3
+      },
+      {
+        "heading": "On Alpine Linux",
+        "level": 3
+      },
+      {
+        "heading": "On Arch Linux",
+        "level": 3
+      },
+      {
+        "heading": "On Fedora",
+        "level": 3
+      },
+      {
+        "heading": "On Funtoo Linux",
+        "level": 3
+      },
+      {
+        "heading": "On Gentoo Linux",
+        "level": 3
+      },
+      {
+        "heading": "On Void Linux",
+        "level": 3
+      },
+      {
+        "heading": "On Termux",
+        "level": 3
+      },
+      {
+        "heading": "On FreeBSD",
+        "level": 3
+      },
+      {
+        "heading": "On OpenBSD",
+        "level": 3
+      },
+      {
+        "heading": "Via nix",
+        "level": 3
+      },
+      {
+        "heading": "On openSUSE",
+        "level": 3
+      },
+      {
+        "heading": "Via snap package",
+        "level": 3
+      },
+      {
+        "heading": "On macOS (or Linux) via Homebrew",
+        "level": 3
+      },
+      {
+        "heading": "On macOS via MacPorts",
+        "level": 3
+      },
+      {
+        "heading": "On Windows",
+        "level": 3
+      },
+      {
+        "heading": "Prerequisites",
+        "level": 4
+      },
+      {
+        "heading": "With Chocolatey",
+        "level": 4
+      },
+      {
+        "heading": "With Scoop",
+        "level": 4
+      },
+      {
+        "heading": "From prebuilt binaries:",
+        "level": 4
+      },
+      {
+        "heading": "From binaries",
+        "level": 3
+      },
+      {
+        "heading": "From source",
+        "level": 3
+      },
+      {
+        "heading": "Customization",
+        "level": 2
+      },
+      {
+        "heading": "Highlighting theme",
+        "level": 3
+      },
+      {
+        "heading": "8-bit themes",
+        "level": 3
+      },
+      {
+        "heading": "Output style",
+        "level": 3
+      },
+      {
+        "heading": "Adding new syntaxes / language definitions",
+        "level": 3
+      },
+      {
+        "heading": "Adding new themes",
+        "level": 3
+      },
+      {
+        "heading": "Download a theme in '.tmTheme' format, for example:",
+        "level": 1
+      },
+      {
+        "heading": "Update the binary cache",
+        "level": 1
+      },
+      {
+        "heading": "Adding or changing file type associations",
+        "level": 3
+      },
+      {
+        "heading": "Using a different pager",
+        "level": 3
+      },
+      {
+        "heading": "Indentation",
+        "level": 3
+      },
+      {
+        "heading": "Dark mode",
+        "level": 3
+      },
+      {
+        "heading": "Configuration file",
+        "level": 2
+      },
+      {
+        "heading": "Format",
+        "level": 3
+      },
+      {
+        "heading": "Set the theme to \"TwoDark\"",
+        "level": 1
+      },
+      {
+        "heading": "Show line numbers, Git modifications and file header (but no grid)",
+        "level": 1
+      },
+      {
+        "heading": "Use italic text on the terminal (not supported on all terminals)",
+        "level": 1
+      },
+      {
+        "heading": "Use C++ syntax for Arduino .ino files",
+        "level": 1
+      },
+      {
+        "heading": "Using `bat` on Windows",
+        "level": 2
+      },
+      {
+        "heading": "Prerequisites",
+        "level": 3
+      },
+      {
+        "heading": "Paging",
+        "level": 3
+      },
+      {
+        "heading": "Colors",
+        "level": 3
+      },
+      {
+        "heading": "Cygwin",
+        "level": 3
+      },
+      {
+        "heading": "Troubleshooting",
+        "level": 2
+      },
+      {
+        "heading": "Terminals & colors",
+        "level": 3
+      },
+      {
+        "heading": "Line numbers and grid are hardly visible",
+        "level": 3
+      },
+      {
+        "heading": "File encodings",
+        "level": 3
+      },
+      {
+        "heading": "Development",
+        "level": 2
+      },
+      {
+        "heading": "Recursive clone to retrieve all submodules",
+        "level": 1
+      },
+      {
+        "heading": "Build (debug version)",
+        "level": 1
+      },
+      {
+        "heading": "Run unit tests and integration tests",
+        "level": 1
+      },
+      {
+        "heading": "Install (release version)",
+        "level": 1
+      },
+      {
+        "heading": "Build a bat binary with modified syntaxes and themes",
+        "level": 1
+      },
+      {
+        "heading": "Contributing",
+        "level": 2
+      },
+      {
+        "heading": "Maintainers",
+        "level": 2
+      },
+      {
+        "heading": "Security vulnerabilities",
+        "level": 2
+      },
+      {
+        "heading": "Project goals and alternatives",
+        "level": 2
+      },
+      {
+        "heading": "License",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "ReadItLater"
+      },
+      {
+        "link": "Article"
+      },
+      {
+        "link": "bat",
+        "displayText": "GitHub - sharkdp/bat: A cat(1) clone with wings."
+      },
+      {
+        "link": "#syntax-highlighting",
+        "relativePath": "readItlater/GitHub - sharkdpbat A cat(1) clone with wings..md",
+        "cleanLink": "GitHub - sharkdpbat A cat(1) clone with wings.",
+        "displayText": "https://github.com/ > syntax-highlighting"
+      },
+      {
+        "link": "#how-to-use",
+        "relativePath": "readItlater/GitHub - sharkdpbat A cat(1) clone with wings..md",
+        "cleanLink": "GitHub - sharkdpbat A cat(1) clone with wings.",
+        "displayText": "https://github.com/ > how-to-use"
+      },
+      {
+        "link": "#installation",
+        "relativePath": "readItlater/GitHub - sharkdpbat A cat(1) clone with wings..md",
+        "cleanLink": "GitHub - sharkdpbat A cat(1) clone with wings.",
+        "displayText": "https://github.com/ > installation"
+      },
+      {
+        "link": "#customization",
+        "relativePath": "readItlater/GitHub - sharkdpbat A cat(1) clone with wings..md",
+        "cleanLink": "GitHub - sharkdpbat A cat(1) clone with wings.",
+        "displayText": "https://github.com/ > customization"
+      },
+      {
+        "link": "#project-goals-and-alternatives",
+        "relativePath": "readItlater/GitHub - sharkdpbat A cat(1) clone with wings..md",
+        "cleanLink": "GitHub - sharkdpbat A cat(1) clone with wings.",
+        "displayText": "https://github.com/ > project-goals-and-alternatives"
+      },
+      {
+        "link": "fzf#preview-window",
+        "cleanLink": "fzf",
+        "displayText": "https://github.com/junegunn/fzf > preview-window"
+      },
+      {
+        "link": "search?keywords=bat&exact=1",
+        "displayText": "Ubuntu since 20.04 (\"Focal\")"
+      },
+      {
+        "link": "bat",
+        "displayText": "Debian since August 2021 (Debian 11 - \"Bullseye\")"
+      },
+      {
+        "link": "pkg_add.1",
+        "displayText": "`pkg_add(1)`"
+      },
+      {
+        "link": "#using-bat-on-windows",
+        "relativePath": "readItlater/GitHub - sharkdpbat A cat(1) clone with wings..md",
+        "cleanLink": "GitHub - sharkdpbat A cat(1) clone with wings.",
+        "displayText": "https://github.com/ > using-bat-on-windows"
+      },
+      {
+        "link": "bat#configuration-file",
+        "cleanLink": "bat",
+        "displayText": "https://github.com/sharkdp/bat > configuration-file"
+      },
+      {
+        "link": "bat#adding-new-themes",
+        "cleanLink": "bat",
+        "displayText": "https://github.com/sharkdp/bat > adding-new-themes"
+      },
+      {
+        "link": "ANSI_escape_code#Colors",
+        "cleanLink": "ANSI_escape_code",
+        "displayText": "https://en.wikipedia.org/wiki/ANSI_escape_code > Colors"
+      },
+      {
+        "link": "bat#configuration-file",
+        "cleanLink": "bat",
+        "displayText": "https://github.com/sharkdp/bat > configuration-file"
+      },
+      {
+        "link": "bat#configuration-file",
+        "cleanLink": "bat",
+        "displayText": "https://github.com/sharkdp/bat > configuration-file"
+      },
+      {
+        "link": "#using-a-different-pager",
+        "relativePath": "readItlater/GitHub - sharkdpbat A cat(1) clone with wings..md",
+        "cleanLink": "GitHub - sharkdpbat A cat(1) clone with wings.",
+        "displayText": "https://github.com/ > using-a-different-pager"
+      },
+      {
+        "link": "#on-windows",
+        "relativePath": "readItlater/GitHub - sharkdpbat A cat(1) clone with wings..md",
+        "cleanLink": "GitHub - sharkdpbat A cat(1) clone with wings.",
+        "displayText": "https://github.com/ > on-windows"
+      },
+      {
+        "link": "November_Update"
+      },
+      {
+        "link": "#8-bit-themes",
+        "relativePath": "readItlater/GitHub - sharkdpbat A cat(1) clone with wings..md",
+        "cleanLink": "GitHub - sharkdpbat A cat(1) clone with wings.",
+        "displayText": "https://github.com/ > 8-bit-themes"
+      }
+    ]
+  },
+  {
+    "fileName": "GitHub - kefranabgreadme-md-generator 📄 CLI that generates beautiful README.md files",
+    "relativePath": "readItlater/GitHub - kefranabgreadme-md-generator 📄 CLI that generates beautiful README.md files.md",
+    "headings": [
+      {
+        "heading": "[GitHub - kefranabg/readme-md-generator: 📄 CLI that generates beautiful README.md files](https://github.com/kefranabg/readme-md-generator)",
+        "level": 1
+      },
+      {
+        "heading": "Welcome to readme-md-generator 👋",
+        "level": 2
+      },
+      {
+        "heading": "✨ Demo",
+        "level": 2
+      },
+      {
+        "heading": "🚀 Usage",
+        "level": 2
+      },
+      {
+        "heading": "Code Contributors",
+        "level": 2
+      },
+      {
+        "heading": "Financial Contributors",
+        "level": 2
+      },
+      {
+        "heading": "Individuals",
+        "level": 3
+      },
+      {
+        "heading": "Organizations",
+        "level": 3
+      },
+      {
+        "heading": "🤝 Contributing",
+        "level": 2
+      },
+      {
+        "heading": "Author",
+        "level": 2
+      },
+      {
+        "heading": "Show your support",
+        "level": 2
+      },
+      {
+        "heading": "📝 License",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "ReadItLater"
+      },
+      {
+        "link": "Article"
+      }
+    ]
+  },
+  {
+    "fileName": "GitHub - jackyzha0quartz 🌱 host your own second brain and digital garden for free",
+    "relativePath": "readItlater/GitHub - jackyzha0quartz 🌱 host your own second brain and digital garden for free.md",
+    "headings": [
+      {
+        "heading": "[GitHub - jackyzha0/quartz: 🌱 host your own second brain and digital garden for free](https://github.com/jackyzha0/quartz)",
+        "level": 1
+      },
+      {
+        "heading": "Latest commit",
+        "level": 2
+      },
+      {
+        "heading": "Git stats",
+        "level": 2
+      },
+      {
+        "heading": "Files",
+        "level": 2
+      },
+      {
+        "heading": "[[https://github.com/#readme]]",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "ReadItLater"
+      },
+      {
+        "link": "Article"
+      },
+      {
+        "link": "#readme",
+        "relativePath": "readItlater/GitHub - jackyzha0quartz 🌱 host your own second brain and digital garden for free.md",
+        "cleanLink": "GitHub - jackyzha0quartz 🌱 host your own second brain and digital garden for free",
+        "displayText": "https://github.com/ > readme"
+      }
+    ]
+  },
+  {
+    "fileName": "GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools",
+    "relativePath": "readItlater/GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools.md",
+    "tags": [
+      "4691f6"
+    ],
+    "headings": [
+      {
+        "heading": "[GitHub - devicons/devicon: Set of icons representing programming languages, designing & development tools](https://github.com/devicons/devicon/)",
+        "level": 1
+      },
+      {
+        "heading": "devicon aims to gather all logos representing development languages and tools.",
+        "level": 5
+      },
+      {
+        "heading": "TL;DR;",
+        "level": 2
+      },
+      {
+        "heading": "Table of Contents",
+        "level": 2
+      },
+      {
+        "heading": "About the project",
+        "level": 2
+      },
+      {
+        "heading": "Getting started",
+        "level": 2
+      },
+      {
+        "heading": "Use the `devicon` font (recommended)",
+        "level": 4
+      },
+      {
+        "heading": "Copy/paste SVG code (from the [svg folder](https://github.com/devicons/devicon/tree/master/icons) or the [project page](https://devicon.dev/))",
+        "level": 4
+      },
+      {
+        "heading": "You can also use the `img` tag and referencing an svg directly from the repo.",
+        "level": 4
+      },
+      {
+        "heading": "Requesting icon",
+        "level": 2
+      },
+      {
+        "heading": "Contributing",
+        "level": 2
+      },
+      {
+        "heading": "Discord server",
+        "level": 2
+      },
+      {
+        "heading": "`develop` vs `master`",
+        "level": 2
+      },
+      {
+        "heading": "Stale pull requests",
+        "level": 2
+      },
+      {
+        "heading": "Go build yourself",
+        "level": 2
+      },
+      {
+        "heading": "Prerequisites",
+        "level": 5
+      },
+      {
+        "heading": "Build the font and export stylesheet",
+        "level": 5
+      },
+      {
+        "heading": "Build and minify stylesheet",
+        "level": 5
+      }
+    ],
+    "links": [
+      {
+        "link": "ReadItLater"
+      },
+      {
+        "link": "Article"
+      },
+      {
+        "link": "68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f64657669636f6e732f64657669636f6e3f636f6c6f723d253233363062653836266c6162656c3d4c617465737425323072656c65617365267374796c653d666f722d7468652d626164676526736f72743d73656d766572",
+        "displayText": "![GitHub release (latest by semver)"
+      },
+      {
+        "link": "#contribute",
+        "relativePath": "readItlater/GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools.md",
+        "cleanLink": "GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools",
+        "displayText": "https://github.com/ > contribute"
+      },
+      {
+        "link": "#about",
+        "relativePath": "readItlater/GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools.md",
+        "cleanLink": "GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools",
+        "displayText": "https://github.com/ > about"
+      },
+      {
+        "link": "#getting-started",
+        "relativePath": "readItlater/GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools.md",
+        "cleanLink": "GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools",
+        "displayText": "https://github.com/ > getting-started"
+      },
+      {
+        "link": "#request-icon",
+        "relativePath": "readItlater/GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools.md",
+        "cleanLink": "GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools",
+        "displayText": "https://github.com/ > request-icon"
+      },
+      {
+        "link": "#contribute",
+        "relativePath": "readItlater/GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools.md",
+        "cleanLink": "GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools",
+        "displayText": "https://github.com/ > contribute"
+      },
+      {
+        "link": "#discord-server",
+        "relativePath": "readItlater/GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools.md",
+        "cleanLink": "GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools",
+        "displayText": "https://github.com/ > discord-server"
+      },
+      {
+        "link": "#develop-vs-master",
+        "relativePath": "readItlater/GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools.md",
+        "cleanLink": "GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools",
+        "displayText": "https://github.com/ > develop-vs-master"
+      },
+      {
+        "link": "#stale-prs",
+        "relativePath": "readItlater/GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools.md",
+        "cleanLink": "GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools",
+        "displayText": "https://github.com/ > stale-prs"
+      },
+      {
+        "link": "#build-yourself",
+        "relativePath": "readItlater/GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools.md",
+        "cleanLink": "GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools",
+        "displayText": "https://github.com/ > build-yourself"
+      },
+      {
+        "link": "#home",
+        "relativePath": "readItlater/GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools.md",
+        "cleanLink": "GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools",
+        "displayText": "https://icomoon.io/ > home"
+      },
+      {
+        "link": "#getting-started-svg",
+        "relativePath": "readItlater/GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools.md",
+        "cleanLink": "GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools",
+        "displayText": "https://github.com/ > getting-started-svg"
+      },
+      {
+        "link": "#getting-started-font",
+        "relativePath": "readItlater/GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools.md",
+        "cleanLink": "GitHub - deviconsdevicon Set of icons representing programming languages, designing & development tools",
+        "displayText": "https://github.com/ > getting-started-font"
+      },
+      {
+        "link": "CONTRIBUTING.md#requestingIcon",
+        "cleanLink": "CONTRIBUTING.md",
+        "displayText": "https://github.com/devicons/devicon/blob/master/CONTRIBUTING.md > requestingIcon"
+      },
+      {
+        "link": "select",
+        "displayText": "https://icomoon.io/app/ > /select"
+      }
+    ]
+  },
+  {
+    "fileName": "GitHub - binnyvagatsby-garden A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes",
+    "relativePath": "readItlater/GitHub - binnyvagatsby-garden A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes.md",
+    "headings": [
+      {
+        "heading": "[GitHub - binnyva/gatsby-garden: A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes](https://github.com/binnyva/gatsby-garden)",
+        "level": 1
+      },
+      {
+        "heading": "Gatsby Garden",
+        "level": 2
+      },
+      {
+        "heading": "Features",
+        "level": 2
+      },
+      {
+        "heading": "Getting Started",
+        "level": 2
+      },
+      {
+        "heading": "Prerequisites",
+        "level": 3
+      },
+      {
+        "heading": "Installation",
+        "level": 3
+      },
+      {
+        "heading": "Configuration",
+        "level": 3
+      },
+      {
+        "heading": "Home Page Customization",
+        "level": 4
+      },
+      {
+        "heading": "Building",
+        "level": 3
+      },
+      {
+        "heading": "Modifying",
+        "level": 3
+      },
+      {
+        "heading": "The Notes",
+        "level": 2
+      },
+      {
+        "heading": "Contributing",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "ReadItLater"
+      },
+      {
+        "link": "Article"
+      },
+      {
+        "link": "Note Name"
+      },
+      {
+        "link": "knowledge management system"
+      }
+    ]
+  },
+  {
+    "fileName": "Fastest Static-Site Generation Web Framework",
+    "relativePath": "readItlater/Fastest Static-Site Generation Web Framework.md",
+    "headings": [
+      {
+        "heading": "[Fastest Static-Site Generation Web Framework](https://www.gatsbyjs.com/)",
+        "level": 1
+      },
+      {
+        "heading": "Build anything **you can imagine**",
+        "level": 2
+      },
+      {
+        "heading": "The hardest parts of the web, made simple.",
+        "level": 2
+      },
+      {
+        "heading": "**Performance** that's off the charts",
+        "level": 3
+      },
+      {
+        "heading": "**Scalability** you can count on",
+        "level": 3
+      },
+      {
+        "heading": "**Security** out of the box",
+        "level": 3
+      },
+      {
+        "heading": "**Accessibility** for everyone",
+        "level": 3
+      },
+      {
+        "heading": "WHAT GATSBY USERS ARE SAYING",
+        "level": 2
+      },
+      {
+        "heading": "**Fast in every way** that matters",
+        "level": 4
+      },
+      {
+        "heading": "Fast from idea to production",
+        "level": 4
+      },
+      {
+        "heading": "Build, Preview, Deploy.",
+        "level": 2
+      },
+      {
+        "heading": "Fast to run",
+        "level": 4
+      },
+      {
+        "heading": "Gatsby is unbelievably fast & smooth. **Everything just feels...there.**",
+        "level": 2
+      },
+      {
+        "heading": "[[https://www.gatsbyjs.com/#span1span-initial-page-load]]1 Initial page load",
+        "level": 5
+      },
+      {
+        "heading": "[[https://www.gatsbyjs.com/#span2span-gatsby-client-mounts]]2 Gatsby client mounts",
+        "level": 5
+      },
+      {
+        "heading": "Fast to deploy",
+        "level": 4
+      },
+      {
+        "heading": "Spend less time on builds & deploys **with Gatsby Cloud.**",
+        "level": 2
+      },
+      {
+        "heading": "Curious yet?",
+        "level": 2
+      },
+      {
+        "heading": "Explore the Gatsby Ecosystem",
+        "level": 2
+      },
+      {
+        "heading": "![](https://images.ctfassets.net/vkdbses00qqt/h7RP1nspwFDZsZEGdGY4n/07bff085583e644a70c1c81a85d21c88/plugins-icon.svg)",
+        "level": 3
+      },
+      {
+        "heading": "![](https://images.ctfassets.net/vkdbses00qqt/6XaDibywAm2S2ySY81BbaW/4809389d4e2e0ccf31228c0a12ec7d2f/themes-icon.svg)",
+        "level": 3
+      },
+      {
+        "heading": "Gatsby Cloud",
+        "level": 2
+      },
+      {
+        "heading": "Incremental Builds",
+        "level": 3
+      },
+      {
+        "heading": "Real-time Deployment & CMS Previews",
+        "level": 3
+      },
+      {
+        "heading": "Global Edge Network",
+        "level": 3
+      },
+      {
+        "heading": "Performance Reports",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "ReadItLater"
+      },
+      {
+        "link": "Article"
+      },
+      {
+        "link": "#span1span-initial-page-load",
+        "relativePath": "readItlater/Fastest Static-Site Generation Web Framework.md",
+        "cleanLink": "Fastest Static-Site Generation Web Framework",
+        "displayText": "https://www.gatsbyjs.com/ > span1span-initial-page-load"
+      },
+      {
+        "link": "#span2span-gatsby-client-mounts",
+        "relativePath": "readItlater/Fastest Static-Site Generation Web Framework.md",
+        "cleanLink": "Fastest Static-Site Generation Web Framework",
+        "displayText": "https://www.gatsbyjs.com/ > span2span-gatsby-client-mounts"
+      }
+    ]
+  },
+  {
+    "fileName": "python-package",
+    "relativePath": "python/python-package.md",
+    "aliases": [
+      "Python Packages"
+    ],
+    "headings": [
+      {
+        "heading": "[[python-package|Python Packages]]",
+        "level": 1
+      },
+      {
+        "heading": "Network",
+        "level": 2
+      },
+      {
+        "heading": "Publishing & Documenting",
+        "level": 2
+      },
+      {
+        "heading": "Packaging",
+        "level": 2
+      },
+      {
+        "heading": "Automation & Testing",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "index",
+        "displayText": "../index"
+      },
+      {
+        "link": "README",
+        "relativePath": "shell/README.md",
+        "displayText": "python/README"
+      },
+      {
+        "link": "python-package",
+        "relativePath": "python/python-package.md",
+        "displayText": "Python Packages"
+      },
+      {
+        "link": "networkx",
+        "relativePath": "python/networkx.md"
+      },
+      {
+        "link": "sphinx",
+        "relativePath": "sphinx/sphinx.md",
+        "displayText": "../sphinx/sphinx"
+      },
+      {
+        "link": "mkdocs",
+        "relativePath": "mkdocs/mkdocs.md",
+        "displayText": "../mkdocs/mkdocs"
+      },
+      {
+        "link": "pdoc",
+        "relativePath": "python/pdoc.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "sphinx",
+        "link": "python-package",
+        "relativePath": "sphinx/sphinx.md",
+        "displayText": "../python/python-package"
+      },
+      {
+        "fileName": "pdoc",
+        "link": "python-package",
+        "relativePath": "python/pdoc.md"
+      },
+      {
+        "fileName": "networkx",
+        "link": "python-package",
+        "relativePath": "python/networkx.md"
+      },
+      {
+        "fileName": "README",
+        "link": "python-package",
+        "relativePath": "python/README.md",
+        "displayText": "Python Packages"
+      },
+      {
+        "fileName": "mkdocs",
+        "link": "python-package",
+        "relativePath": "mkdocs/mkdocs.md",
+        "displayText": "../python/python-package"
+      },
+      {
+        "fileName": "manim",
+        "link": "python-package",
+        "relativePath": "manim/manim.md",
+        "displayText": "../python/python-package"
+      }
+    ]
+  },
+  {
+    "fileName": "python-fire",
+    "relativePath": "python/python-fire.md",
+    "headings": [
+      {
+        "heading": "[[CLIs) from absolutely any Python object.](https://github.com/google/python-fire|GitHub - google/python-fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.]]",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "README",
+        "relativePath": "shell/README.md",
+        "displayText": "python/README"
+      },
+      {
+        "link": "command-line-interface",
+        "relativePath": "command-line-interface/command-line-interface.md",
+        "displayText": "command-line-interface/command-line-interface"
+      },
+      {
+        "link": "python-fire",
+        "relativePath": "python/python-fire.md",
+        "displayText": "GitHub - google/python-fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object."
+      }
+    ]
+  },
+  {
+    "fileName": "pdoc",
+    "relativePath": "python/pdoc.md",
+    "links": [
+      {
+        "link": "python-package",
+        "relativePath": "python/python-package.md"
+      },
+      {
+        "link": "README",
+        "relativePath": "shell/README.md",
+        "displayText": "python/README"
+      },
+      {
+        "link": "#gsc.tab=0",
+        "relativePath": "python/pdoc.md",
+        "cleanLink": "pdoc",
+        "displayText": "https://pdoc3.github.io/pdoc/doc/pdoc/ > gsc.tab=0"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "python-package",
+        "link": "pdoc",
+        "relativePath": "python/python-package.md"
+      }
+    ]
+  },
+  {
+    "fileName": "networkx",
+    "relativePath": "python/networkx.md",
+    "links": [
+      {
+        "link": "python-package",
+        "relativePath": "python/python-package.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "python-package",
+        "link": "networkx",
+        "relativePath": "python/python-package.md"
+      }
+    ]
+  },
+  {
+    "fileName": "README",
+    "relativePath": "python/README.md",
+    "aliases": [
+      "Python"
+    ],
+    "headings": [
+      {
+        "heading": "[[python/README|Python]]",
+        "level": 1
+      },
+      {
+        "heading": "Scientific Python",
+        "level": 2
+      },
+      {
+        "heading": "Resources",
+        "level": 2
+      },
+      {
+        "heading": "Docs",
+        "level": 3
+      },
+      {
+        "heading": "Blogs",
+        "level": 3
+      },
+      {
+        "heading": "Articles",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "index",
+        "displayText": "../index"
+      },
+      {
+        "link": "README",
+        "relativePath": "shell/README.md",
+        "displayText": "Python"
+      },
+      {
+        "link": "python-package",
+        "relativePath": "python/python-package.md",
+        "displayText": "Python Packages"
+      }
+    ]
+  },
+  {
+    "fileName": "Pycharm-Anaconda-QT-Designer",
+    "relativePath": "pycharm/Pycharm-Anaconda-QT-Designer.md",
+    "links": [
+      {
+        "link": "pycharm"
+      },
+      {
+        "link": "anaconda"
+      },
+      {
+        "link": "qt-designer"
+      }
+    ]
+  },
+  {
+    "fileName": "publishing",
+    "relativePath": "publishing/publishing.md",
+    "links": [
+      {
+        "link": "index",
+        "displayText": "../index"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "sphinx",
+        "link": "publishing",
+        "relativePath": "sphinx/sphinx.md",
+        "displayText": "../publishing/publishing"
+      },
+      {
+        "fileName": "mkdocs",
+        "link": "publishing",
+        "relativePath": "mkdocs/mkdocs.md",
+        "displayText": "../publishing/publishing"
+      },
+      {
+        "fileName": "hokus",
+        "link": "publishing",
+        "relativePath": "hokus.md",
+        "displayText": "publishing/publishing"
+      }
+    ]
+  },
+  {
+    "fileName": "programming-books",
+    "relativePath": "programming-resources/programming-books.md",
+    "headings": [
+      {
+        "heading": "Resources",
+        "level": 2
+      },
+      {
+        "heading": "Computer Algebra",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "package-manager",
+    "relativePath": "package-manager/package-manager.md",
+    "aliases": [
+      "Package Manager",
+      "Package Managers"
+    ],
+    "headings": [
+      {
+        "heading": "[[package-manager|Package Managers]]",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "index"
+      },
+      {
+        "link": "package-manager",
+        "relativePath": "package-manager/package-manager.md",
+        "displayText": "Package Managers"
+      },
+      {
+        "link": "homebrew",
+        "relativePath": "homebrew/homebrew.md",
+        "displayText": "homebrew/homebrew"
+      },
+      {
+        "link": "apm",
+        "relativePath": "atom/apm.md",
+        "displayText": "atom/apm"
+      },
+      {
+        "link": "conda",
+        "relativePath": "package-manager/conda.md"
+      },
+      {
+        "link": "npm",
+        "relativePath": "package-manager/npm.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "index",
+        "link": "package-manager",
+        "relativePath": "index.md",
+        "displayText": "package-manager/package-manager"
+      },
+      {
+        "fileName": "homebrew",
+        "link": "package-manager",
+        "relativePath": "homebrew/homebrew.md",
+        "displayText": "../package-manager/package-manager"
+      },
+      {
+        "fileName": "apm",
+        "link": "package-manager",
+        "relativePath": "atom/apm.md",
+        "displayText": "../package-manager/package-manager"
+      }
+    ]
+  },
+  {
+    "fileName": "npm",
+    "relativePath": "package-manager/npm.md",
+    "links": [
+      {
+        "link": "npm",
+        "relativePath": "package-manager/npm.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "package-manager",
+        "link": "npm",
+        "relativePath": "package-manager/package-manager.md"
+      }
+    ]
+  },
+  {
+    "fileName": "conda",
+    "relativePath": "package-manager/conda.md",
+    "backlinks": [
+      {
+        "fileName": "package-manager",
+        "link": "conda",
+        "relativePath": "package-manager/package-manager.md"
+      }
+    ]
+  },
+  {
+    "fileName": "yadm",
+    "relativePath": "obsidian/yadm.md",
+    "headings": [
+      {
+        "heading": "Installation",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "dotfiles",
+        "relativePath": "development-environment/dotfiles.md"
+      }
+    ]
+  },
+  {
+    "fileName": "templater",
+    "relativePath": "obsidian/templater.md",
+    "links": [
+      {
+        "link": "obsidian-plugins",
+        "relativePath": "obsidian/obsidian-plugins.md",
+        "displayText": "obsidian/obsidian-plugins"
+      }
+    ]
+  },
+  {
+    "fileName": "obsidian-themes",
+    "relativePath": "obsidian/obsidian-themes.md",
+    "headings": [
+      {
+        "heading": "`= this.file.name`.",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "obsidian-md",
+        "relativePath": "obsidian/obsidian-md.md",
+        "displayText": "obsidian/obsidian-md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "obsidian-md",
+        "link": "obsidian-themes",
+        "relativePath": "obsidian/obsidian-md.md"
+      }
+    ]
+  },
+  {
+    "fileName": "obsidian-publish",
+    "relativePath": "obsidian/obsidian-publish.md",
+    "headings": [
+      {
+        "heading": "Resources",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "obsidian-md",
+        "relativePath": "obsidian/obsidian-md.md",
+        "displayText": "obsidian/obsidian-md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "obsidian-md",
+        "link": "obsidian-publish",
+        "relativePath": "obsidian/obsidian-md.md"
+      }
+    ]
+  },
+  {
+    "fileName": "obsidian-plugins",
+    "relativePath": "obsidian/obsidian-plugins.md",
+    "backlinks": [
+      {
+        "fileName": "templater",
+        "link": "obsidian-plugins",
+        "relativePath": "obsidian/templater.md",
+        "displayText": "obsidian/obsidian-plugins"
+      },
+      {
+        "fileName": "obsidian-md",
+        "link": "obsidian-plugins",
+        "relativePath": "obsidian/obsidian-md.md"
+      }
+    ]
+  },
+  {
+    "fileName": "obsidian-md",
+    "relativePath": "obsidian/obsidian-md.md",
+    "aliases": [
+      "Obsidian.md"
+    ],
+    "headings": [
+      {
+        "heading": "[[obsidian-md|Obsidian.md]]",
+        "level": 1
+      },
+      {
+        "heading": "Resources",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "obsidian-md",
+        "relativePath": "obsidian/obsidian-md.md",
+        "displayText": "Obsidian.md"
+      },
+      {
+        "link": "obsidian-themes",
+        "relativePath": "obsidian/obsidian-themes.md"
+      },
+      {
+        "link": "obsidian-plugins",
+        "relativePath": "obsidian/obsidian-plugins.md"
+      },
+      {
+        "link": "obsidian-publish",
+        "relativePath": "obsidian/obsidian-publish.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "obsidian-themes",
+        "link": "obsidian-md",
+        "relativePath": "obsidian/obsidian-themes.md",
+        "displayText": "obsidian/obsidian-md"
+      },
+      {
+        "fileName": "obsidian-publish",
+        "link": "obsidian-md",
+        "relativePath": "obsidian/obsidian-publish.md",
+        "displayText": "obsidian/obsidian-md"
+      }
+    ]
+  },
+  {
+    "fileName": "mkdocs",
+    "relativePath": "mkdocs/mkdocs.md",
+    "headings": [
+      {
+        "heading": "[[mkdocs]]",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "mkdocs",
+        "relativePath": "mkdocs/mkdocs.md"
+      },
+      {
+        "link": "python-package",
+        "relativePath": "python/python-package.md",
+        "displayText": "../python/python-package"
+      },
+      {
+        "link": "publishing",
+        "relativePath": "publishing/publishing.md",
+        "displayText": "../publishing/publishing"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "python-package",
+        "link": "mkdocs",
+        "relativePath": "python/python-package.md",
+        "displayText": "../mkdocs/mkdocs"
+      }
+    ]
+  },
+  {
+    "fileName": "mkdocs-material",
+    "relativePath": "mkdocs/mkdocs-material.md"
+  },
+  {
+    "fileName": "markdown",
+    "relativePath": "markdown/markdown.md",
+    "aliases": [
+      "Markdown"
+    ],
+    "headings": [
+      {
+        "heading": "[[markdown|Markdown]]",
+        "level": 1
+      },
+      {
+        "heading": "Resources",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "markdown",
+        "relativePath": "markdown/markdown.md",
+        "displayText": "Markdown"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "creating-a-diy-digital-garden-with-obsidian-and-gatsby",
+        "link": "markdown",
+        "relativePath": "blog/creating-a-diy-digital-garden-with-obsidian-and-gatsby.md",
+        "displayText": "../markdown/markdown"
+      }
+    ]
+  },
+  {
+    "fileName": "manim",
+    "relativePath": "manim/manim.md",
+    "headings": [
+      {
+        "heading": "[[manim]]",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "manim",
+        "relativePath": "manim/manim.md"
+      },
+      {
+        "link": "README",
+        "relativePath": "shell/README.md",
+        "displayText": "python/README"
+      },
+      {
+        "link": "python-package",
+        "relativePath": "python/python-package.md",
+        "displayText": "../python/python-package"
+      }
+    ]
+  },
+  {
+    "fileName": "macos",
+    "relativePath": "macos/macos.md",
+    "aliases": [
+      "macOS"
+    ],
+    "headings": [
+      {
+        "heading": "[[macos|macOS]]",
+        "level": 1
+      },
+      {
+        "heading": "Related Topics",
+        "level": 2
+      },
+      {
+        "heading": "Resources",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "macos",
+        "relativePath": "macos/macos.md",
+        "displayText": "macOS"
+      },
+      {
+        "link": "macos-setup",
+        "relativePath": "macos/macos-setup.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "macos-xcode",
+        "link": "macos",
+        "relativePath": "macos/macos-xcode.md",
+        "displayText": "macOS"
+      },
+      {
+        "fileName": "macos-xcode-command-line-tools",
+        "link": "macos",
+        "relativePath": "macos/macos-xcode-command-line-tools.md",
+        "displayText": "macOS"
+      },
+      {
+        "fileName": "macos-setup",
+        "link": "macos",
+        "relativePath": "macos/macos-setup.md",
+        "displayText": "macOS"
+      },
+      {
+        "fileName": "macos-python",
+        "link": "macos",
+        "relativePath": "macos/macos-python.md",
+        "displayText": "macOS"
+      },
+      {
+        "fileName": "macos-python-pyenv",
+        "link": "macos",
+        "relativePath": "macos/macos-python-pyenv.md",
+        "displayText": "macos/macos"
+      },
+      {
+        "fileName": "dotfiles",
+        "link": "macos",
+        "relativePath": "development-environment/dotfiles.md",
+        "displayText": "../macos/macos"
+      }
+    ]
+  },
+  {
+    "fileName": "macos-xcode",
+    "relativePath": "macos/macos-xcode.md",
+    "headings": [
+      {
+        "heading": "Xcode",
+        "level": 1
+      },
+      {
+        "heading": "Install",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "macos",
+        "relativePath": "macos/macos.md",
+        "displayText": "macOS"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "macos-setup",
+        "link": "macos-xcode",
+        "relativePath": "macos/macos-setup.md"
+      },
+      {
+        "fileName": "homebrew",
+        "link": "macos-xcode#Install",
+        "relativePath": "homebrew/homebrew.md",
+        "cleanLink": "macos-xcode",
+        "displayText": "../macos/macos-xcode > Install"
+      }
+    ]
+  },
+  {
+    "fileName": "macos-xcode-command-line-tools",
+    "relativePath": "macos/macos-xcode-command-line-tools.md",
+    "headings": [
+      {
+        "heading": "[[macos-xcode-command-line-tools]]",
+        "level": 1
+      },
+      {
+        "heading": "Install",
+        "level": 2
+      },
+      {
+        "heading": "Resources",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "macos",
+        "relativePath": "macos/macos.md",
+        "displayText": "macOS"
+      },
+      {
+        "link": "macos-xcode-command-line-tools",
+        "relativePath": "macos/macos-xcode-command-line-tools.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "macos-setup",
+        "link": "macos-xcode-command-line-tools",
+        "relativePath": "macos/macos-setup.md"
+      },
+      {
+        "fileName": "macos-python-pyenv",
+        "link": "macos-xcode-command-line-tools#Install",
+        "relativePath": "macos/macos-python-pyenv.md",
+        "cleanLink": "macos-xcode-command-line-tools",
+        "displayText": "macos-xcode-command-line-tools > Install"
+      },
+      {
+        "fileName": "homebrew",
+        "link": "macos-xcode-command-line-tools#Install",
+        "relativePath": "homebrew/homebrew.md",
+        "cleanLink": "macos-xcode-command-line-tools",
+        "displayText": "../macos/macos-xcode-command-line-tools > Install"
+      }
+    ]
+  },
+  {
+    "fileName": "macos-terminal-shell",
+    "relativePath": "macos/macos-terminal-shell.md",
+    "backlinks": [
+      {
+        "fileName": "macos-terminal",
+        "link": "macos-terminal-shell",
+        "relativePath": "macos/macos-terminal.md"
+      }
+    ]
+  },
+  {
+    "fileName": "macos-terminal",
+    "relativePath": "macos/macos-terminal.md",
+    "headings": [
+      {
+        "heading": "Resources",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "iterm2",
+        "relativePath": "terrminal/iterm2.md",
+        "displayText": "terrminal/iterm2"
+      },
+      {
+        "link": "macos-terminal-shell",
+        "relativePath": "macos/macos-terminal-shell.md"
+      }
+    ]
+  },
+  {
+    "fileName": "macos-setup",
+    "relativePath": "macos/macos-setup.md",
+    "headings": [
+      {
+        "heading": "Setup macOS for Code Development and Scientific Research",
+        "level": 1
+      },
+      {
+        "heading": "Resources",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "macos",
+        "relativePath": "macos/macos.md",
+        "displayText": "macOS"
+      },
+      {
+        "link": "macos-xcode-command-line-tools",
+        "relativePath": "macos/macos-xcode-command-line-tools.md"
+      },
+      {
+        "link": "macos-xcode",
+        "relativePath": "macos/macos-xcode.md"
+      },
+      {
+        "link": "homebrew",
+        "relativePath": "homebrew/homebrew.md",
+        "displayText": "homebrew/homebrew"
+      },
+      {
+        "link": "macos-python",
+        "relativePath": "macos/macos-python.md",
+        "displayText": "macos/macos-python"
+      },
+      {
+        "link": "macos-python-pyenv",
+        "relativePath": "macos/macos-python-pyenv.md",
+        "displayText": "macos/macos-python-pyenv"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "macos",
+        "link": "macos-setup",
+        "relativePath": "macos/macos.md"
+      },
+      {
+        "fileName": "macos-command-line-tools",
+        "link": "macos-setup",
+        "relativePath": "macos/macos-command-line-tools.md"
+      }
+    ]
+  },
+  {
+    "fileName": "macos-python",
+    "relativePath": "macos/macos-python.md",
+    "aliases": [
+      "MacOS Python"
+    ],
+    "headings": [
+      {
+        "heading": "[[macos-python|MacOS Python]]",
+        "level": 1
+      },
+      {
+        "heading": "Resources",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "macos",
+        "relativePath": "macos/macos.md",
+        "displayText": "macOS"
+      },
+      {
+        "link": "macos-python",
+        "relativePath": "macos/macos-python.md",
+        "displayText": "MacOS Python"
+      },
+      {
+        "link": "macos-python-brew"
+      },
+      {
+        "link": "macos-python-pyenv",
+        "relativePath": "macos/macos-python-pyenv.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "macos-setup",
+        "link": "macos-python",
+        "relativePath": "macos/macos-setup.md",
+        "displayText": "macos/macos-python"
+      },
+      {
+        "fileName": "macos-python-pyenv",
+        "link": "macos-python",
+        "relativePath": "macos/macos-python-pyenv.md",
+        "displayText": "macos/macos-python"
+      }
+    ]
+  },
+  {
+    "fileName": "macos-python-pyenv",
+    "relativePath": "macos/macos-python-pyenv.md",
+    "headings": [
+      {
+        "heading": "[[macos-python-pyenv]]",
+        "level": 1
+      },
+      {
+        "heading": "Preparations:",
+        "level": 2
+      },
+      {
+        "heading": "Install",
+        "level": 2
+      },
+      {
+        "heading": "Troubleshooting pyenv Installation",
+        "level": 2
+      },
+      {
+        "heading": "Resources",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "macos",
+        "relativePath": "macos/macos.md",
+        "displayText": "macos/macos"
+      },
+      {
+        "link": "macos-python",
+        "relativePath": "macos/macos-python.md",
+        "displayText": "macos/macos-python"
+      },
+      {
+        "link": "macos-python-pyenv",
+        "relativePath": "macos/macos-python-pyenv.md"
+      },
+      {
+        "link": "macos-xcode-command-line-tools#Install",
+        "relativePath": "macos/macos-xcode-command-line-tools.md",
+        "cleanLink": "macos-xcode-command-line-tools",
+        "displayText": "macos-xcode-command-line-tools > Install"
+      },
+      {
+        "link": "homebrew#Install",
+        "relativePath": "homebrew/homebrew.md",
+        "cleanLink": "homebrew",
+        "displayText": "homebrew/homebrew > Install"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "macos-setup",
+        "link": "macos-python-pyenv",
+        "relativePath": "macos/macos-setup.md",
+        "displayText": "macos/macos-python-pyenv"
+      },
+      {
+        "fileName": "macos-python",
+        "link": "macos-python-pyenv",
+        "relativePath": "macos/macos-python.md"
+      }
+    ]
+  },
+  {
+    "fileName": "macos-command-line-tools",
+    "relativePath": "macos/macos-command-line-tools.md",
+    "aliases": [
+      "MacOS Command Line Tools"
+    ],
+    "headings": [
+      {
+        "heading": "[[macos-command-line-tools|MacOS Command Line Tools]]",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "macos-setup",
+        "relativePath": "macos/macos-setup.md"
+      },
+      {
+        "link": "macos-command-line-tools",
+        "relativePath": "macos/macos-command-line-tools.md",
+        "displayText": "MacOS Command Line Tools"
+      },
+      {
+        "link": "mas",
+        "relativePath": "command-line-interface/mas.md",
+        "displayText": "../command-line-interface/mas"
+      },
+      {
+        "link": "pipx",
+        "relativePath": "command-line-interface/pipx.md",
+        "displayText": "../command-line-interface/pipx"
+      }
+    ]
+  },
+  {
+    "fileName": "macos-automation-setup",
+    "relativePath": "macos/macos-automation-setup.md"
+  },
+  {
+    "fileName": "jabref",
+    "relativePath": "jabref.md",
+    "links": [
+      {
+        "link": "reference-managment"
+      }
+    ]
+  },
+  {
+    "fileName": "index",
+    "relativePath": "index.md",
+    "headings": [
+      {
+        "heading": "Index",
+        "level": 1
+      },
+      {
+        "heading": "Projects",
+        "level": 2
+      },
+      {
+        "heading": "Categories",
+        "level": 2
+      },
+      {
+        "heading": "Templates",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "youtube"
+      },
+      {
+        "link": "youtube-api"
+      },
+      {
+        "link": "static-site-generator"
+      },
+      {
+        "link": "reference-managment"
+      },
+      {
+        "link": "package-manager",
+        "relativePath": "package-manager/package-manager.md",
+        "displayText": "package-manager/package-manager"
+      }
+    ]
+  },
+  {
+    "fileName": "inbox",
+    "relativePath": "inbox/inbox.md",
+    "links": [
+      {
+        "link": "buttom-examples",
+        "relativePath": "inbox/buttom-examples.md"
+      },
+      {
+        "link": "creating-a-diy-digital-garden-with-obsidian-and-gatsby",
+        "relativePath": "blog/creating-a-diy-digital-garden-with-obsidian-and-gatsby.md",
+        "displayText": "../blog/creating-a-diy-digital-garden-with-obsidian-and-gatsby"
+      }
+    ]
+  },
+  {
+    "fileName": "buttom-examples",
+    "relativePath": "inbox/buttom-examples.md",
+    "headings": [
+      {
+        "heading": "Command Button",
+        "level": 3
+      },
+      {
+        "heading": "[[https://github.com/shabegom/buttons#link-button]]Link Button",
+        "level": 3
+      },
+      {
+        "heading": "[[https://github.com/shabegom/buttons#template--line-button]]Template & Line Button",
+        "level": 3
+      },
+      {
+        "heading": "[[https://github.com/shabegom/buttons#append]]Append",
+        "level": 4
+      },
+      {
+        "heading": "[[https://github.com/shabegom/buttons#prepend-template]]Prepend Template",
+        "level": 4
+      },
+      {
+        "heading": "[[https://github.com/shabegom/buttons#add-template-at-line]]Add Template at Line",
+        "level": 3
+      },
+      {
+        "heading": "[[https://github.com/shabegom/buttons#new-note-from-template]]New Note From Template",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "buttons#link-button",
+        "cleanLink": "buttons",
+        "displayText": "https://github.com/shabegom/buttons > link-button"
+      },
+      {
+        "link": "buttons#template--line-button",
+        "cleanLink": "buttons",
+        "displayText": "https://github.com/shabegom/buttons > template--line-button"
+      },
+      {
+        "link": "buttons#append",
+        "cleanLink": "buttons",
+        "displayText": "https://github.com/shabegom/buttons > append"
+      },
+      {
+        "link": "buttons#prepend-template",
+        "cleanLink": "buttons",
+        "displayText": "https://github.com/shabegom/buttons > prepend-template"
+      },
+      {
+        "link": "buttons#add-template-at-line",
+        "cleanLink": "buttons",
+        "displayText": "https://github.com/shabegom/buttons > add-template-at-line"
+      },
+      {
+        "link": "buttons#new-note-from-template",
+        "cleanLink": "buttons",
+        "displayText": "https://github.com/shabegom/buttons > new-note-from-template"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "inbox",
+        "link": "buttom-examples",
+        "relativePath": "inbox/inbox.md"
+      }
+    ]
+  },
+  {
+    "fileName": "hugo",
+    "relativePath": "hugo.md",
+    "links": [
+      {
+        "link": "static-site-generator"
+      },
+      {
+        "link": "hugo-themes"
+      }
+    ]
+  },
+  {
+    "fileName": "hugo-themes",
+    "relativePath": "hugo-themes.md"
+  },
+  {
+    "fileName": "homebrew",
+    "relativePath": "homebrew/homebrew.md",
+    "aliases": [
+      "Homebrew",
+      "brew",
+      "brew.sh"
+    ],
+    "headings": [
+      {
+        "heading": "[[homebrew|Homebrew]]",
+        "level": 1
+      },
+      {
+        "heading": "Preparations",
+        "level": 2
+      },
+      {
+        "heading": "Install",
+        "level": 2
+      },
+      {
+        "heading": "Resources",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "index"
+      },
+      {
+        "link": "package-manager",
+        "relativePath": "package-manager/package-manager.md",
+        "displayText": "../package-manager/package-manager"
+      },
+      {
+        "link": "homebrew",
+        "relativePath": "homebrew/homebrew.md",
+        "displayText": "Homebrew"
+      },
+      {
+        "link": "",
+        "relativePath": "youtube.md",
+        "displayText": "The Missing Package Manager for macOS (or Linux) — Homebrew"
+      },
+      {
+        "link": "macos-xcode-command-line-tools#Install",
+        "relativePath": "macos/macos-xcode-command-line-tools.md",
+        "cleanLink": "macos-xcode-command-line-tools",
+        "displayText": "../macos/macos-xcode-command-line-tools > Install"
+      },
+      {
+        "link": "macos-xcode#Install",
+        "relativePath": "macos/macos-xcode.md",
+        "cleanLink": "macos-xcode",
+        "displayText": "../macos/macos-xcode > Install"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "package-manager",
+        "link": "homebrew",
+        "relativePath": "package-manager/package-manager.md",
+        "displayText": "homebrew/homebrew"
+      },
+      {
+        "fileName": "macos-setup",
+        "link": "homebrew",
+        "relativePath": "macos/macos-setup.md",
+        "displayText": "homebrew/homebrew"
+      },
+      {
+        "fileName": "macos-python-pyenv",
+        "link": "homebrew#Install",
+        "relativePath": "macos/macos-python-pyenv.md",
+        "cleanLink": "homebrew",
+        "displayText": "homebrew/homebrew > Install"
+      },
+      {
+        "fileName": "dotfiles",
+        "link": "homebrew",
+        "relativePath": "development-environment/dotfiles.md",
+        "displayText": "../homebrew/homebrew"
+      }
+    ]
+  },
+  {
+    "fileName": "hokus",
+    "relativePath": "hokus.md",
+    "links": [
+      {
+        "link": "cms"
+      },
+      {
+        "link": "publishing",
+        "relativePath": "publishing/publishing.md",
+        "displayText": "publishing/publishing"
+      },
+      {
+        "link": "hugo"
+      }
+    ]
+  },
+  {
+    "fileName": "simle-icons",
+    "relativePath": "github-repositories/simle-icons.md"
+  },
+  {
+    "fileName": "slidev",
+    "relativePath": "editor/slidev.md"
+  },
+  {
+    "fileName": "motion.vueuse",
+    "relativePath": "editor/motion.vueuse.md",
+    "backlinks": [
+      {
+        "fileName": "animation",
+        "link": "motion.vueuse",
+        "relativePath": "editor/animation.md"
+      }
+    ]
+  },
+  {
+    "fileName": "editor",
+    "relativePath": "editor/editor.md",
+    "aliases": [
+      "Editor",
+      "Editors",
+      "Code Editor"
+    ],
+    "headings": [
+      {
+        "heading": "[[editor|Editors]]",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "editor",
+        "relativePath": "editor/editor.md",
+        "displayText": "Editors"
+      },
+      {
+        "link": "atom",
+        "relativePath": "atom/atom.md",
+        "displayText": "atom/atom"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "codemirror",
+        "link": "editor",
+        "relativePath": "editor/codemirror.md"
+      },
+      {
+        "fileName": "atom",
+        "link": "editor",
+        "relativePath": "atom/atom.md",
+        "displayText": "../editor/editor"
+      }
+    ]
+  },
+  {
+    "fileName": "codemirror",
+    "relativePath": "editor/codemirror.md",
+    "headings": [
+      {
+        "heading": "CodeMirror",
+        "level": 1
+      },
+      {
+        "heading": "About",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "editor",
+        "relativePath": "editor/editor.md"
+      },
+      {
+        "link": "development"
+      }
+    ]
+  },
+  {
+    "fileName": "animation",
+    "relativePath": "editor/animation.md",
+    "links": [
+      {
+        "link": "motion.vueuse",
+        "relativePath": "editor/motion.vueuse.md"
+      }
+    ]
+  },
+  {
+    "fileName": "disabling-and-enabling-system-integrity-protection",
+    "relativePath": "disabling-and-enabling-system-integrity-protection.md",
+    "headings": [
+      {
+        "heading": "Disabling and Enabling System Integrity Protection",
+        "level": 1
+      },
+      {
+        "heading": "Disable System Integrity Protection Temporarily",
+        "level": 3
+      },
+      {
+        "heading": "Enable System Integrity Protection",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "dotfiles",
+    "relativePath": "development-environment/dotfiles.md",
+    "aliases": [
+      ".dotfiles"
+    ],
+    "headings": [
+      {
+        "heading": "[[dotfiles|.dotfiles]]",
+        "level": 1
+      },
+      {
+        "heading": "Tools",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "dotfiles",
+        "relativePath": "development-environment/dotfiles.md",
+        "displayText": ".dotfiles"
+      },
+      {
+        "link": "dotfiles",
+        "relativePath": "development-environment/dotfiles.md"
+      },
+      {
+        "link": "homebrew",
+        "relativePath": "homebrew/homebrew.md",
+        "displayText": "../homebrew/homebrew"
+      },
+      {
+        "link": "macos",
+        "relativePath": "macos/macos.md",
+        "displayText": "../macos/macos"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "yadm",
+        "link": "dotfiles",
+        "relativePath": "obsidian/yadm.md"
+      }
+    ]
+  },
+  {
+    "fileName": "dash",
+    "relativePath": "dash.md",
+    "links": [
+      {
+        "link": "README",
+        "relativePath": "shell/README.md",
+        "displayText": "python/README"
+      }
+    ]
+  },
+  {
+    "fileName": "cookiecutter",
+    "relativePath": "cookiecutter.md",
+    "links": [
+      {
+        "link": "README",
+        "relativePath": "shell/README.md",
+        "displayText": "python/README"
+      },
+      {
+        "link": "cookiecutter",
+        "displayText": "GitHub - cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects."
+      }
+    ]
+  },
+  {
+    "fileName": "tldr",
+    "relativePath": "command-line-interface/tldr.md",
+    "links": [
+      {
+        "link": "command-line-interface",
+        "relativePath": "command-line-interface/command-line-interface.md",
+        "displayText": "command-line-interface/command-line-interface"
+      }
+    ]
+  },
+  {
+    "fileName": "pipx",
+    "relativePath": "command-line-interface/pipx.md",
+    "backlinks": [
+      {
+        "fileName": "macos-command-line-tools",
+        "link": "pipx",
+        "relativePath": "macos/macos-command-line-tools.md",
+        "displayText": "../command-line-interface/pipx"
+      }
+    ]
+  },
+  {
+    "fileName": "pandoc",
+    "relativePath": "command-line-interface/pandoc.md",
+    "backlinks": [
+      {
+        "fileName": "GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!",
+        "link": "pandoc",
+        "relativePath": "readItlater/GitHub - shd101wyymarkdown-preview-enhanced One of the 'BEST' markdown preview extensions for Atom editor!.md",
+        "displayText": "https://shd101wyy.github.io/markdown-preview-enhanced/ > /pandoc"
+      }
+    ]
+  },
+  {
+    "fileName": "nativefier",
+    "relativePath": "command-line-interface/nativefier.md",
+    "headings": [
+      {
+        "heading": "[GitHub - nativefier/nativefier: Make any web page a desktop application](https://github.com/nativefier/nativefier)",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "mas",
+    "relativePath": "command-line-interface/mas.md",
+    "backlinks": [
+      {
+        "fileName": "macos-command-line-tools",
+        "link": "mas",
+        "relativePath": "macos/macos-command-line-tools.md",
+        "displayText": "../command-line-interface/mas"
+      }
+    ]
+  },
+  {
+    "fileName": "httpie",
+    "relativePath": "command-line-interface/httpie.md",
+    "links": [
+      {
+        "link": "command-line-interface",
+        "relativePath": "command-line-interface/command-line-interface.md",
+        "displayText": "command-line-interface/command-line-interface"
+      },
+      {
+        "link": "README",
+        "relativePath": "shell/README.md",
+        "displayText": "python/README"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "command-line-interface",
+        "link": "httpie",
+        "relativePath": "command-line-interface/command-line-interface.md"
+      }
+    ]
+  },
+  {
+    "fileName": "command-line-interface",
+    "relativePath": "command-line-interface/command-line-interface.md",
+    "headings": [
+      {
+        "heading": "![[cli-logo.png]][[command-line-interface]]",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "command-line-interface",
+        "relativePath": "command-line-interface/command-line-interface.md"
+      },
+      {
+        "link": "httpie",
+        "relativePath": "command-line-interface/httpie.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "oh-my-zsh",
+        "link": "command-line-interface",
+        "relativePath": "shell/oh-my-zsh.md",
+        "displayText": "command-line-interface/command-line-interface"
+      },
+      {
+        "fileName": "python-fire",
+        "link": "command-line-interface",
+        "relativePath": "python/python-fire.md",
+        "displayText": "command-line-interface/command-line-interface"
+      },
+      {
+        "fileName": "tldr",
+        "link": "command-line-interface",
+        "relativePath": "command-line-interface/tldr.md",
+        "displayText": "command-line-interface/command-line-interface"
+      },
+      {
+        "fileName": "httpie",
+        "link": "command-line-interface",
+        "relativePath": "command-line-interface/httpie.md",
+        "displayText": "command-line-interface/command-line-interface"
+      }
+    ]
+  },
+  {
+    "fileName": "cockpit",
+    "relativePath": "cockpit.md",
+    "links": [
+      {
+        "link": "cms"
+      }
+    ]
+  },
+  {
+    "fileName": "cms",
+    "relativePath": "cms.md",
+    "links": [
+      {
+        "link": "hokus"
+      }
+    ]
+  },
+  {
+    "fileName": "creating-a-diy-digital-garden-with-obsidian-and-gatsby",
+    "relativePath": "blog/creating-a-diy-digital-garden-with-obsidian-and-gatsby.md",
+    "tags": [
+      "markdown",
+      "mdx"
+    ],
+    "headings": [
+      {
+        "heading": "Creating a DIY Digital Garden with Obsidian and Gatsby",
+        "level": 1
+      },
+      {
+        "heading": "[[https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e#wikilinks-and-gatsbyplugincatchlinks]] Wikilinks and Gatsby-plugin-catch-links",
+        "level": 2
+      },
+      {
+        "heading": "[[https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e#markdown-references]] Markdown References",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "markdown",
+        "relativePath": "markdown/markdown.md",
+        "displayText": "../markdown/markdown"
+      },
+      {
+        "link": "creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e#wikilinks-and-gatsbyplugincatchlinks",
+        "cleanLink": "creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e",
+        "displayText": "https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e > wikilinks-and-gatsbyplugincatchlinks"
+      },
+      {
+        "link": "creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e#markdown-references",
+        "cleanLink": "creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e",
+        "displayText": "https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e > markdown-references"
+      },
+      {
+        "link": "#shortcodes",
+        "relativePath": "blog/creating-a-diy-digital-garden-with-obsidian-and-gatsby.md",
+        "cleanLink": "creating-a-diy-digital-garden-with-obsidian-and-gatsby",
+        "displayText": "https://www.gatsbyjs.com/plugins/gatsby-plugin-mdx/ > shortcodes"
+      },
+      {
+        "link": "mdx-embed#-core-team",
+        "cleanLink": "mdx-embed",
+        "displayText": "https://github.com/PaulieScanlon/mdx-embed > -core-team"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "inbox",
+        "link": "creating-a-diy-digital-garden-with-obsidian-and-gatsby",
+        "relativePath": "inbox/inbox.md",
+        "displayText": "../blog/creating-a-diy-digital-garden-with-obsidian-and-gatsby"
+      }
+    ]
+  },
+  {
+    "fileName": "atom",
+    "relativePath": "atom/atom.md",
+    "aliases": [
+      "Atom",
+      "Atom.io"
+    ],
+    "headings": [
+      {
+        "heading": "[[atom|Atom.io]]",
+        "level": 1
+      },
+      {
+        "heading": "Resources",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "index",
+        "displayText": "../index"
+      },
+      {
+        "link": "editor",
+        "relativePath": "editor/editor.md",
+        "displayText": "../editor/editor"
+      },
+      {
+        "link": "atom",
+        "relativePath": "atom/atom.md",
+        "displayText": "Atom.io"
+      },
+      {
+        "link": "apm",
+        "relativePath": "atom/apm.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "editor",
+        "link": "atom",
+        "relativePath": "editor/editor.md",
+        "displayText": "atom/atom"
+      },
+      {
+        "fileName": "apm",
+        "link": "atom",
+        "relativePath": "atom/apm.md"
+      }
+    ]
+  },
+  {
+    "fileName": "apm",
+    "relativePath": "atom/apm.md",
+    "aliases": [
+      "atom packages",
+      "atom package"
+    ],
+    "headings": [
+      {
+        "heading": "Atom Package Manager",
+        "level": 1
+      },
+      {
+        "heading": "Packages",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "atom",
+        "relativePath": "atom/atom.md"
+      },
+      {
+        "link": "package-manager",
+        "relativePath": "package-manager/package-manager.md",
+        "displayText": "../package-manager/package-manager"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "package-manager",
+        "link": "apm",
+        "relativePath": "package-manager/package-manager.md",
+        "displayText": "atom/apm"
+      },
+      {
+        "fileName": "atom",
+        "link": "apm",
+        "relativePath": "atom/atom.md"
+      }
+    ]
+  },
+  {
+    "fileName": "art",
+    "relativePath": "art.md",
+    "links": [
+      {
+        "link": "python"
+      },
+      {
+        "link": "ascii"
+      }
+    ]
+  },
+  {
+    "fileName": "tor-browser",
+    "relativePath": "applications/tor-browser.md",
+    "links": [
+      {
+        "link": "browser"
+      }
+    ]
+  },
+  {
+    "fileName": "soda-player",
+    "relativePath": "applications/soda-player.md"
+  },
+  {
+    "fileName": "google-chrome-browser",
+    "relativePath": "applications/google-chrome-browser.md",
+    "links": [
+      {
+        "link": "browser"
+      },
+      {
+        "link": "google"
+      }
+    ]
+  },
+  {
+    "fileName": "README",
+    "relativePath": "applications/README.md",
+    "aliases": [
+      "Applications",
+      "app"
+    ],
+    "headings": [
+      {
+        "heading": "[[README|Applications]]",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "README",
+        "relativePath": "shell/README.md",
+        "displayText": "Applications"
+      }
+    ]
+  },
+  {
+    "fileName": "anaconda",
+    "relativePath": "anaconda.md",
+    "headings": [
+      {
+        "heading": "Troubleshooting",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "README",
+    "relativePath": "README.md",
+    "headings": [
+      {
+        "heading": "Notes Hub",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "README",
+        "relativePath": "shell/README.md",
+        "displayText": "shell"
+      }
+    ]
+  }
+]
