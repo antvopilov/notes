@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "shell/zsh-themes.md",
+            "file": "dash.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shell/zsh-themes.md",
+                "file": "dash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shell/zsh-themes.md",
+                "file": "dash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shell/zsh-themes.md"
+                "file": "dash.md"
               }
             }
           },
@@ -153,6 +153,7 @@
   },
   "active": "0bf7d6ffaf5b2b56",
   "lastOpenFiles": [
+    "dash.md",
     "shell/zsh-themes.md",
     "shell/zsh.md",
     "shell/README.md",
@@ -161,7 +162,6 @@
     "index.md",
     "python/README.md",
     "inbox/inbox.md",
-    "editor/animation.md",
-    "editor/motion.vueuse.md"
+    "editor/animation.md"
   ]
 }
