@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f636ce02bf0e2f75",
+        "id": "7380219b2dace4c2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "art.md",
-            "mode": "source"
-          }
-        },
-        "group": "45b7ca09b99c73ce"
-      },
-      {
-        "id": "29de5e15a69dc49b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "art.md",
-            "mode": "preview"
-          }
-        },
-        "group": "45b7ca09b99c73ce"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -89,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "art.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +136,7 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "f636ce02bf0e2f75",
+  "active": "7380219b2dace4c2",
   "lastOpenFiles": [
     "art.md",
     "video-to-ascii.md",
