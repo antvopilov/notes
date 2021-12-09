@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "e5fa67fe402cd257",
+    "id": "c3e19afb5c3cffb9",
     "type": "split",
     "children": [
       {
-        "id": "7380219b2dace4c2",
+        "id": "3654439cb5ca965d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "art.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "art.md"
+              }
             }
           },
           {
@@ -136,7 +143,7 @@
     "width": 308.3597106933594,
     "collapsed": true
   },
-  "active": "7380219b2dace4c2",
+  "active": "3654439cb5ca965d",
   "lastOpenFiles": [
     "art.md",
     "video-to-ascii.md",
